@@ -1,18 +1,3 @@
----
-description: 关于林骥
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🙎‍♂️ 林骥 linji
 
 你好，我是《数据化分析》的作者林骥。
