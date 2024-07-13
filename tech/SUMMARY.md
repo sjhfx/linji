@@ -1,7 +1,7 @@
 # Table of contents
 
-* [⏰ 时间 Time](README.md)
-* [😃 情绪 Emotion](qing-xu-emotion.md)
-* [↔️ 选择 Choice](xuan-ze-choice.md)
-* [💚 习惯 Habit](xi-guan-habit.md)
-* [🙎‍♂️ 关于 About](guan-yu-about.md)
+* [🙎‍♂️ 林骥 linji](README.md)
+* [⏰ 时间 time](<README (1).md>)
+* [😃 情绪 emotion](qing-xu-emotion.md)
+* [↔️ 选择 choice](xuan-ze-choice.md)
+* [💚 习惯 habit](xi-guan-habit.md)
