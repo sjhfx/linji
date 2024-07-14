@@ -2,9 +2,9 @@
 
 ```mermaid
 flowchart TD
-    B["tech 特刻"]
-    B-->C["time 时间"]
-    B-->D("emotion 情绪")
-    B-->E("choice 选择")
-    B-->F("habit习惯")
+    B["特刻 tech"]
+    B-->C["时间 time"]
+    B-->D("情绪 emotion")
+    B-->E("选择 choice")
+    B-->F("习惯 habit")
 ```
