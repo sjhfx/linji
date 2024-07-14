@@ -5,7 +5,7 @@
 * [😃 情绪 emotion](emotion.md)
 * [↔️ 选择 choice](choice.md)
 * [💚 习惯 habit](habit.md)
-* [Ⓜ️ 分析思维模型](model/README.md)
+* [Ⓜ️ 模型 model](model/README.md)
   * [🎁 理解现状](model/recognize/README.md)
     * [正态分布](model/recognize/zheng-tai-fen-bu.md)
   * [🅰️ 分析原因](model/analyze/README.md)
