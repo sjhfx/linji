@@ -1,5 +1,16 @@
-<div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-    src="https://www.coze.cn/s/i6osSTVk/" frameborder="0" scrolling="yes" width="100%" height="100%">
-  </iframe>
-</div>
+# 🤖 AI 智能体
+
+
+## 1. 什么是 AI 智能体？
+
+AI 智能体是林骥基于人工智能技术，结合自己的经验，创建的一个智能体。
+
+## 2. 为什么使用 AI 智能体？
+
+AI 智能体可以帮助你用数据化解难题，让分析更加有效。
+
+## 3. 怎么使用 AI 智能体？
+
+扫码下方的二维码，体验林骥创建的 AI 智能体，希望借助 AI 的力量，帮你用数据化解难题，让分析更加有效。
+
+![](static/2024-07-14-09-12-18.png)
