@@ -2,7 +2,7 @@
 
 你好，我是《数据化分析》的作者林骥。
 
-![](static/P13KbxKBFo100axlV3Vc36lXnvg.png)
+<center><img src="static/2024-07-14-09-53-44.png" width="280" /></center>
 
 我对数据充满好奇，热衷于分析数据，喜欢发现数据背后的故事。另外，我比较喜欢学习和写作，非常享受学习的过程，也能沉浸在写作的心流之中。
 
@@ -10,7 +10,7 @@
 
 在朋友们的眼中，形容我最多的 3 个词是：**自律、专业、严谨**。
 
-![](static/VjxBbXyCJoff7MxPoB9chZERnVb.png)
+<center><img src="static/VjxBbXyCJoff7MxPoB9chZERnVb.png" width="280" /></center>
 
 ### 一本书，数据化解难题处
 
