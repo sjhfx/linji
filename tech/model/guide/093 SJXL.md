@@ -1,0 +1,90 @@
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1ndZ8zwM4bAQ0AibHjDGJD5ibx4Rlicp0LDdC9hsib0qnyfntTib9NS7HxmuC3hdHyGXVaOWiaUjLXBDCQ/0?wx_fmt=jpeg)
+
+#  100种分析思维模型之：时间序列
+
+原创  林骥  [ 林骥 ](javascript:void\(0\);)
+
+**林骥**
+
+微信号  linjiwx
+
+功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
+
+__ __
+
+__ _ _ _ _
+
+你好，我是林骥。  时光荏苒，在这个瞬息万变的时代，我们总是希望能够把握事物的变化规律。
+想象一下，假如你有个人成长的详细数据，借助时间序列分析模型，能够洞见隐藏在数据背后的秘密，那么就能更好地规划未来发展的路径。  下面介绍  [ 100
+种分析思维模型
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+的第 93 种： **时间序列** ，它能 **帮助我们更好地预测未来，从而做出更加明智的决策** 。  **1\. 为什么学习时间序列？**
+学习时间序列的主要原因包括：  **① 探索规律** 通过探索时间序列数据，我们可以发现隐藏在其中的模式和规律。  **② 预测趋势**
+通过对时间序列数据进行分析，我们可以建立相应的模型，对未来一段时间内的趋势进行预测。  **③ 优化决策**
+我们可以找出影响数据变化的关键因素，为制定有效的决策提供支持。
+总之，通过学习时间序列，不仅有助于我们更好地理解现状，而且可以预测未来的趋势，还能帮助我们优化决策。  **2\. 什么是时间序列？**
+时间序列是指按照时间排列的数据，用来反映事物发展变化的趋势或规律，具有 **动态性和随机性** 。  早在 7000
+年前，古埃及人就把尼罗河的涨落情况记录下来，从而构成了一个时间序列，并因此发现了涨落的规律。随着社会的发展和进步，时间序列的作用正在变得越来越重要。
+现代时间序列分析包括很多种不同的模型，其中比较常用的一种模型是 SARIMA（Seasonal Autoregressive Integrated
+Moving Average Model）模型，中文翻译为：季节性自回归积分滑动平均模型。  **SARIMA 模型**
+**主要用来处理具有季节性变化的时间序列数据，它的基本思想，是通过识别数据背后的模式，并假设这种模式会重复发生，然后利用数据本身的历史信息，采用外推的方式来进行预测。**
+我们通常用折线图来展示时间序列数据。例如，下面是用 statsmodels 库生成的一张 SARIMA 模型预测图，用来直观地对比实际与预测之间的差距。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0aZUvmfFenI1ZibVFMNpzHF2lU4ic7x7AKe0mkZAUuxSjSRmPgkAiaJddBKXA36aEyArMEdT1hBzcNA/640?wx_fmt=png&from=appmsg)
+需要注意的是，如果事物发展的自然规律不是可重复的，那么利用时间序列模型预测的结果可能就会偏差较大。  所以，时间序列的模式识别非常重要。  **3\.
+怎么运用时间序列？**
+时间序列的运用非常广泛，包括天文、地理、生物、物理、化学、图形识别、语音通信、医学工程、市场经济、生产管理、人口预测、天气预测、商业分析等众多领域。
+时间序列可以用来描述事物的发展状况、结果、趋势及规律，并可以据此进行统计、分析和预测。  在运用时间序列的时候，通常包括以下几个步骤：
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0aZUvmfFenI1ZibVFMNpzHFbQ9ceUoZVXXfqRI8ZgK3ZurIQgu4EhuF9lM98q4W7ibkHlV77ACtbOA/640?wx_fmt=png&from=appmsg)
+**① 准备数据** 首先，我们需要提前准备好时间序列数据，确保数据的完整性和准确性，并对数据进行清洗、整理、变换等操作，以满足时间序列分析的要求。
+**② 识别模式** 其次，我们可以通过观察时间序列图，识别数据的周期性和趋势性，然后选择合适的时间序列分析模型。  **③ 选择参数**
+第三，根据模式识别的结果，选择合适的参数。  **④** **拟合** **模型** 第四，使用统计软件中的库（如  Python 中的
+statsmodels 等），对模型进行拟合。  **⑤ 验证优化** 第五，通过对比分析和交叉验证，评估模型的预测性能，并根据需要对模型进行优化。
+**⑥ 预测决策** 最后，利用拟合好的模型，对未来一段时间进行预测，并根据预测的结果，做出相应的决策。
+如果模型拟合的效果比较好，那么预测的结果就会比较准确，可以用来辅助决策。  比如，用时间序列分析模型来制订未来的销售目标。
+如果决策是基于模型的预测，而不是基于「拍脑袋」，那么相对来说会更有说服力。  **最后的话** 通过分析时间序列数据，我们会发现：
+**很多时候，过去的选择影响着现在的行动，而现在的行动则预示着未来的结果。**
+通过重复昨天的行为，我们将自己拽入可以预测的明天，但结果可能沦为单调和枯燥的生活，失去了创新和成长的可能性。
+在运用时间序列分析的过程中，我们还需要根据具体情况，灵活运用合适的方法和技术，以获得更好的预测效果和决策支持。
+时间序列的应用是一个复杂的过程，涉及到数据质量、模型选择、参数调整等多个方面，上面只是简单的介绍。  关于时间序列的应用案例，可以参考「
+**数据化分析案例库** 」。  延伸阅读：  《时间序列分析》（乔治·博克斯，1927年）  相关文章：  [ 100 种分析思维模型系列
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+欢迎订阅我的专栏： **数据化分析案例库** 。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1ndZ8zwM4bAQ0AibHjDGJD5c8hl6Ueia26r6oicjibtdlHLic3pmoHvy7yOhgr5sAbKsVQSFZAz7bk4fA/640?wx_fmt=png&from=appmsg)
+
+↑ 点击此卡片关注 ↑
+
+↑  周二早八点阅读  ↑
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+轻触阅读原文
+
+![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
+
+林骥
+
+
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+

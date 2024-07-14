@@ -1,0 +1,95 @@
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwFoutRxlH5hdeE4iap4Wibrx44SYWib8vDvREmw2VIkZOx1VQOSrKGf36w/0?wx_fmt=jpeg)
+
+#  100种分析思维模型之：MECE 法则
+
+原创  林骥  [ 林骥 ](javascript:void\(0\);)
+
+**林骥**
+
+微信号  linjiwx
+
+功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
+
+__ __
+
+__ _ _ _ _
+
+你好，我是林骥。  想象你正在玩一种拼图游戏，每个碎片都要准确无误地找到它的专属位置，整个画面才能变得清晰而完整。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwBhzhhdDQhkrkNB42ooaLjZAu6R15aaFrsXLK4ibFLHEwx7iaaJwNVuuQ/640?wx_fmt=png&from=appmsg)
+在日常工作和生活中，当我们遇到难题的时候，可以尝试运用一种类似「思维拼图」的工具—— **MECE 法则** 。
+很多人在写作或工作汇报的时候，让人感觉思维逻辑比较混乱，主要是因为没有用好 MECE 法则。  下面介绍  [ 100 种分析思维模型
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+的第 85 种： **MECE** **法则** ，它能帮助我们 **更好地组织信息结构，使其更容易理解和处理，让思考更加全面和系统化，避免重复和遗漏**
+。  **1\. 为什么学习** **MECE** **法则？** 学习 MECE 法则有很多好处，主要包括以下几个方面：  **① 提升分析思维能力**
+MECE 法则是一种系统化的思维方式，通过把问题分解为更小、更容易管理的部分，我们可以更好地分析问题、拆解任务，从而提高分析思维能力和解决问题的效率。
+**② 增强决策判断能力** MECE 法则可以帮助我们更好地梳理信息，把握问题的核心和关键点，从而做出更加准确的判断和更加明智的决策。  **③
+提高沟通表达能力** 通过学习和运用 MECE 法则，我们可以更加清晰、全面地表达自己的想法和观点，让沟通表达变得更加高效。  **2\. 什么是**
+**MECE** **法则？** **MECE** **** 是 **M** utually **E** xclusive， **C**
+ollectively **E** xhaustive 的首字母缩写，是麦肯锡咨询顾问芭芭拉·明托在《金字塔原理》中提出的一个重要原则，意思是「
+**相互独立，** **完全穷尽** 」，也就是「 **不重叠，不遗漏** 」，它由 **ME** 和 **CE** **** 两个部分组成。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwnZEqibElbuZaWyQRxAGp0215vYichITJCqqne6IFBqoP9mRxnjrKic7Ow/640?wx_fmt=png&from=appmsg)
+**① ME：相互独立、不重叠** ME 代表的是不同子问题之间没有交集，否则在后续解决问题的时候，就会带来工作重复的情况，导致时间等资源的浪费。
+比如，假设我们把女性客户细分为：年轻女性、漂亮女性、老年女性，那么就可能存在交集，因为在年轻女性中包含一部分漂亮女性。  **②** **CE**
+**：** **完全穷尽** **、不遗漏** ME 代表的是全部问题没有遗漏，否则可能导致工作不完整，进而导致工作失败。
+比如，假设我们把男性客户细分为：青年男性、老年男性，那么就遗漏了中年男性、少年男性等。  ** 总之，MECE
+法则是细分思维的核心法则，它要求细分之后的子分类相互独立，且加起来能够完全穷尽所有可能。  ** **3\. 怎么运用** **MECE** **法则？**
+在管理、咨询和决策分析等领域中，MECE 法则经常被用来梳理问题、整理数据、提出解决方案等。  具体来说，常用的方法有 5 种：  **①**
+**二分法** ：比如，内、外。  **② 模型法** ：比如，PEST 等。  **③ 过程法** ：比如，前、中、后。  **④** **矩阵法**
+：比如，分为四个象限。  **⑤** **公式法** ：比如，利润 = 收入 - 成本。  假设一家企业想要增加利润，  运用 MECE 法则的公式法，
+要么增加收入，  要么  降低成本  。  但是，只分析到这里还远远不够，可以继续运用 MECE 法则，把问题进一步细分下去，直到能够采取具体改善的行动。
+有些人在接到任务之后，没有运用 MECE 法则，就有可能导致在后续环节做无用功或出现遗漏。  **在运用 MECE
+法则进行细分的时候，不要停留在事物表面的特征分类，而要洞见事物的本质，按照事物最本质的特征进行分类。**
+比如，关于如何有效激励员工，如果只是简单地按照性别、年龄、地区、工龄、学历等维度来划分，可能就没有切中问题的要害。
+如果按照马斯洛层次需求理论，把人的需求分为 5
+个层次：生理需求、安全需求、社会需求、尊重需求和自我实现的需求，然后提出相应的激励方式，就有可能起到更好的激励效果。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwBE4dWqXd3zPO8GZt7r9g452LNV3PzaEB72uctU0ibYvIibeG2h0Hateg/640?wx_fmt=png&from=appmsg)
+在生活中，我们也可以运用 MECE 法则。假如  你犯了一个错误，可以运用 MECE 法则，从内因和外因两个方面进行分析。  在「数据化分析系统」中，我运用
+MECE 法则，把时间划分为 9 个大类，让每个大类相互独立，且完全穷尽。  **最后的话** 19 世纪哲学家拉尔夫·沃尔多·爱默生说：
+
+> 世间方法千千万万，法则却少之又少。那些参透法则的人，能够成功地选出属于自己的方法；而一味拘泥于方法，却忽略法则的人，注定会陷入麻烦。
+
+** 现实世界纷繁复杂，学会灵活运用 MECE 法则，你将能更好地用数据化解难题。  **
+
+总之，MECE
+法则是一个简单而强大的分析思维工具，它能帮我们以更有条理的方式思考和解决问题，避免重叠、遗漏和混淆，让我们更加有效地应对工作和生活中的各种挑战。
+延伸阅读：  《金字塔原理》（芭芭拉·明托，2019年）  《每个人的商学院》（刘润，2019年）  相关文章：  [ 100 种分析思维模型系列
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png&from=appmsg)
+
+↑ 点击此卡片关注 ↑
+
+↑  周二早八点阅读  ↑
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+轻触阅读原文
+
+![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
+
+林骥
+
+
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+

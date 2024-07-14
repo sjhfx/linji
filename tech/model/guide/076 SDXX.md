@@ -1,0 +1,106 @@
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo03SkfgxaW7WiclRpsbAezCSJoMLMXdK5KLTxU7JB6EdA8uOBpxJ7MCAKWic5ibo8X7HgqY9U3rFRrdw/0?wx_fmt=jpeg)
+
+#  100种分析思维模型之：深度学习
+
+原创  林骥  [ 林骥 ](javascript:void\(0\);)
+
+**林骥**
+
+微信号  linjiwx
+
+功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
+
+__ __
+
+__ _ _ _ _
+
+你好，我是林骥。  
+2016 年，谷歌旗下的 DeepMind 公司开发的
+AlphaGo，打败了围棋世界冠军李世石，后来又击败了当时世界排名第一的柯洁，让许多人感到震惊，点燃了大家对人工智能的热情。
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3mhMUnhPADzL5DqvsNp31203OvPkmf7eZcnXKG57nVk62Gf1aAWGbEw/640?wx_fmt=jpeg)
+2022 年，OpenAI 公司发布 ChatGPT，从此各种大语言模型蜂拥而至，生成式 AI 获得蓬勃的发展。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ37RypoSZibS1arxFyz1rvtXjbD9CMRia9q0Lqglv1ibXibgq0rBWVY2Xebg/640?wx_fmt=png)
+回顾人类社会发展的历史，一旦科学技术实现重大的突破，人们的生活就会发生翻天覆地的变化。  在 AlphaGo 和 ChatGPT
+等应用程序的背后，都离不开一项关键的技术，那就是深度学习。  下面介绍  [ 100 种分析思维模型
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+的第 75 种： **深度学习** ，它是能帮助我们更好地 **理解世界运行的底层规律。** **1\. 为什么学习** **深度学习** **？**
+深度学习是人工智能领域的前沿科技，该技术已经融入到了我们的日常工作、生活和学习中。  如今，各行各业开始运用深度学习的人，已经明显提升了工作效率。
+与此同时，大量简单重复的工作将会被机器替代，很多人将会面临失业的风险。
+随着深度学习技术的快速发展，未来人类从事的几乎所有活动，都可能受其影响，包括科学、医学、制造、能源、交通、农业、艺术等。
+也许有一天，深度学习的应用程序将成为你的得力助手，甚至成为你的亲密朋友，它可能比任何人都更了解你，能够回答你的问题，会帮你教育好孩子，并呵护你的健康。
+**2\. 什么是** **深度学习** **？** 深度学习是机器学习的一个分支，而 ChatGPT 是深度学习的应用之一。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo03SkfgxaW7WiclRpsbAezCSgwPZypDsz1Ruib3UCEEWa1UicNGynOicwgZs3zUUzpu97X8icu2eAXlKKw/640?wx_fmt=png)
+深度学习的起源，可以追溯到 1943 年，当时神经生理学家 Warren McCulloch 与数学家 Walter Pitts
+合作，发表了一篇题为《神经活动内在思想的逻辑演算》的论文，其中提出了一个神经元模型，实现用一个简单电路来模拟大脑神经元的行为，证明可以使用逻辑演算的方式，描述神经网络的运行机理，奠定了深度学习的基础。
+学习的本质是改善性能。  著名学者赫伯特·西蒙说：“如果一个系统，能够通过执行某个过程，就此改进了它的性能，那么这个过程就是学习。”
+深度学习是通过「神经网络」的连接来传递信息，实现将「特征工程」完全自动化，因此让解决问题变得更高效、更简单。
+由于互联网的兴起，使得收集和分发数据变得简单可行。如果说深度学习是工业革命中的蒸汽机，那么数据就如同煤炭和石油，驱动着深度学习快速发展。
+深度学习的过程，符合  [ DIKW 模型
+](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481106&idx=1&sn=34818d71e37a146e8c131479898d9d90&scene=21#wechat_redirect)
+的规律，即：从数据中提取有用的信息，信息积累成知识，知识演变为智慧。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3GSrRDuT4ZCXp2icG7PdiaiaDsJWGB0pR33LBAj1lmwNbcdGA9JSu92Q1g/640?wx_fmt=png)
+深度学习以数学、计算机科学和神经科学为基础，从数据中进行学习。随着学习层次的不断深入，机器将会变得越来越智能。  **3\. 怎么运用** **深度学习**
+**？**
+深度学习的应用场景非常广泛，包括图像分类、语音识别、机器翻译、文字与语音互转、数字助理、查找资料、辅助编程、辅助写作、辅助办公、艺术创作、健康诊断、自动驾驶、营销活动、下围棋、玩游戏、回答用自然语言提出的问题……
+** 随着计算机处理的速度越来越快，数据越来越丰富，任何企业甚至个人都可以用深度学习来提升自己。  ** 比如，借助 ChatGPT
+等应用程序，每个人都可以通过跟机器聊天的方式来进行深度学习。
+但是，学习和运用深度学习是一段漫长的旅程，需要学习的知识有很多，多到一本书都无法涵盖所有的内容，市面上关于深度学习的书不计其数，粗略估计不下 100
+本，而且这个数量还在不断增长。
+如果你不是人工智能领域的从业者，那么其实不必深究其中的代码和公式，只需结合自身的实际情况，有针对性地学习和运用相关的知识即可，因为一个人的时间、精力和能力都是有限的。
+我比较关注深度学习在个人成长方面的运用，希望自己能够运用深度学习，去分析过去记录的数据和写作的文字材料，让其成为我的得力助手，进而更加了解自己，并成为更好自己。
+运用深度学习主要包括 3 个步骤： **定义任务、开发模型和部署模型。** **① 定义任务**
+学习通常是从明确目标、定义任务和提出问题开始，了解问题背后的业务逻辑，并开始收集数据。比如，如何用数据赋能成长？目前有哪些数据可用？是否需要收集更多数据？
+**② 开发模型** 把数据准备好之后，就可以尝试选择一个合适的模型，然后对其进行调优和检验，不断改进模型的性能。  **③ 部署模型**
+将优化之后的模型部署到目标环境中，监控模型在真实环境中的表现，并继续收集更多的数据，形成深度学习的闭环。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3kicyFI8zfvqNAJNmf5rUibZUcMX3VbnWlJ7UnQq6bOg86G2icH8NuTyZA/640?wx_fmt=png)
+深度学习的步骤，有点类似于《数据化分析》的过程，
+从收集数据开始，到改善数据，再到分析数据和化解难题，然后又反过来收集更多的数据，形成一个用数据解决实际问题的增强回路。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3KFzUsH9exSykwColfgJHpyLGODLicqbxiakOvZsWJrhzZPYrWX4pb0oA/640?wx_fmt=png)
+
+**最后的话** 未来，我们每个人都有可能会用到深度学习，就像今天的互联网技术一样普及，极大地解放人类的生产力，并显著提升人们的认知能力。
+尽管深度学习的应用非常广泛，但是也要请你注意，深度学习并不是一把万能的钥匙，有些问题并不适合用深度学习的方法来解决，可能是因为数据还不够多，也可能是因为还有其他更好的方法。
+当你手中只有一把「锤子」的时候，看什么都像「钉子」。但如果你手中既有锤子，又有螺丝刀，还有起子和扳手等，那么就可以根据实际情况，选择使用合适的工具，这样解决问题就会变得更加高效。
+所以，我们需要抱着终身学习的理念，学习更多的分析思维模型，并在实际工作和生活中加以应用，从此开启更加美好的未来。  延伸阅读：
+《深度学习》（[美]特伦斯·谢诺夫斯基，2019年）  《深度学习进阶》（[日]斋藤康毅，2020年）
+《Python深度学习》（[美]弗朗索瓦·肖莱，2022年）  相关文章：  [ 100 种分析思维模型系列
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
+
+↑ 点击此卡片关注 ↑
+
+↑  周二早八点阅读  ↑
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+轻触阅读原文
+
+![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
+
+林骥
+
+
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+

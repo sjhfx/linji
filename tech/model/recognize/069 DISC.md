@@ -1,0 +1,143 @@
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFBLJPqajl6YURtstetA99SoicHwDxOYwmrCvhFBGcOJJpt9Mf4yPZEfw/0?wx_fmt=jpeg)
+
+#  100种分析思维模型之：DISC 模型
+
+原创  林骥  [ 林骥 ](javascript:void\(0\);)
+
+**林骥**
+
+微信号  linjiwx
+
+功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
+
+__ __
+
+__ _ _ _ _
+
+你好，我是林骥。  在这个千变万化的世界中，不同人的性格和行为方式差别很大，我们如何才能更好地相互理解呢？  下面介绍  [ 100 种分析思维模型
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+的第 69 种： **DISC 模型** ，它能帮助我们更好地 **悦纳自己和读懂他人，进而能够更好地合作交流** 。  **1\. 为什么学习 DISC
+模型？** 通过学习和运用 DISC 模型，你将能获得以下好处：  **① 深入了解自己** DISC
+模型提供了一套简单的方法，帮助我们更好地洞察自己的特质和偏好，进而认清自己的优势和劣势，发现并挖掘自己的潜能。  **② 改善人际关系** 学习 DISC
+模型之后，用来分析自己和他人的行为和反应模式，可以更好地适应不同的沟通风格，减少误解和冲突，建立更加和谐的人际关系。  **③ 提高团队效能**
+在团队中，了解每个成员的 DISC 类型，可以帮助我们更好地沟通协作，相互支持和理解，增强彼此的信任感，进而充分发挥每个人的优势，取得更好的工作成果。
+** 总之，通过学习 DISC 模型，  可以帮助我们更好地认识自己和理解他人，提升人际关系的质量，改善沟通和合作的效果，进而促进个人和团队的发展。  **
+**2\. 什么是 DISC 模型？** DISC
+模型是美国心理学家威廉·莫尔顿·马斯顿在《常人之情绪》中提出来的一个理论原型，他被誉为「测谎仪之父」，还创作了「神奇女侠」这个漫画人物。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFX1ugiczHJMdibKqh27B1VvRUJDibwNLE7fmZycz99yazY1XpPMura3fiaA/640?wx_fmt=png)
+**在 DISC 模型中，包括 2 个维度，一个维度是关注人或事，另一个维度是反应快或慢。** 对上面 2 个维度两两进行组合，就能得出 4 种类型：
+** D 型  ** ：反应快、关注事  ** I 型  ** ：反应快、关注人  ** S 型  ** ：反应慢、关注人  ** C 型  **
+：反应慢、关注事
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFlVvlhIOV4oOqLX3DlpJdmpLicq0bQ1vSHibicbYgkiarj1yoia2uaQsk8HQ/640?wx_fmt=png)
+
+**D** 代表 Dominance，有 **支配、直接、控制、独断** 等含义，与 D 相关的单词有：  Dynamic（精力充沛的）
+Driving（起推动作用的）  Dictator（发号施令者）  Demanding（苛求的）  Determined（坚决的）
+Decisive（果断的）  Dogmatic（自以为是的）  Defiant（挑战的）  D 型特质的人，可能是一个比较好的 **领导者或指挥者**
+，目标通常比较明确，好胜心比较强，喜欢发号施令，希望能掌控一切。面对压力时，情绪容易波动，脾气比较火爆。  D
+型特质的人像老虎，充满自信，勇于接受挑战，善于克服困难，喜欢掌控人生。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF4cwQ5JrGvxPaibpkaXnfLXbMWEKb83LTMx6hKsefTmkZcGrjLicT5dZw/640?wx_fmt=png)
+**I** 代表 Influence，有 **影响、爽朗、友善、外向、激动、热情** 等含义，与 I 相关的单词有：
+Inspirational（鼓舞人心的）  Inducing（诱导的）  Impressive（印象深刻的）  Interactive（互动的）
+Interesting（有趣的）  Impressionable（易受影响的）  Inconsistent（反复无常的）  I 型特质的人，可能是一个
+**社交达人或有影响力的人**
+，沟通和说服能力通常比较强，喜欢被肯定和被看到，害怕失去认同。面对压力时，容易冲动，凭直觉办事，不太注意细节，偶尔会显得情绪化，但情绪来得快去得也快。  I
+型特质的人像孔雀，充满激情，做事比较积极乐观，善于社会交往，喜欢快意人生。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFQzu1Kf6TcTZS4TUkiacBiaECubfBXpPA1GAbVCfDbW4yOleYPDMvb52A/640?wx_fmt=png)
+**S** 代表 Steadiness，有 **稳健、稳定、谨慎、耐心、忠诚、有同情心** 等含义，与 S 相关的单词有：  Supportive（支持的）
+Submissive（顺从的）  Stable（稳定的）  Sentimental（感伤的）  Shy（害羞的）  Specialist（专职的）
+Security（保障性）  S 型特质的人，可能是一个很好的 **支持者**
+，崇尚和平的环境，相对比较保守，不喜欢与人产生冲突，会顾及他人的感受，不善于拒绝别人。面对压力时，可能会表现得犹疑不决，反应、决策和行动的速度比较慢。  S
+型特质的人像考拉，值得信赖，做事比较稳重，善于和平共处，喜欢佛系人生。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFvMibHwv3zBtlg0S2zticNfvCrUNcpGDsoZg5CGOEPTmCSEqCNWvU0IUA/640?wx_fmt=png)
+**C** 代表 Compliance，有 **服从、谨慎、组织、细节、事实、精准、准确** 等含义，与 C 相关的单词有：  Cautious（谨慎的）
+Competent（称职的）  Concerned（忧虑的）  Careful（细致的）  Contemplative（沉思的）
+Consistent（一致的）  Corrector（修正者）  C 型特质的人，可能是一个 **善于思考的人**
+，特别善于用数据说话，非常注重逻辑和分析，讲求事实与细节，希望通过组织、程序和规章来掌控环境，追求完美，喜欢以任务为导向，较少关注别人的感受，害怕被批评。面对压力时，可能会比较忧虑，喜欢三思而后行，对自己和他人的要求很高，很难表扬与鼓励他人。
+C 型特质的人像猫头鹰，谨慎低调，做事追求精确，善于数据分析，喜欢规划人生。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF3e3AhD9f8V2iaanLIN9tev1JsROjia4Uia8icDJbnRyDXT6LkxWoprfkiaA/640?wx_fmt=png)
+以上是 D、I、S、C 型的一些典型特征，其实在每个人的身上，都或多或少会有各种类型的表现，只是比例不同而已。比如，我们说一个人 D
+型特质很高，只是说这方面的特征比较突出，并不代表没有其他特征。  不同类型的特质，本身并没有好坏对错之分，因为每种类型都有其自身的优势。比如，D
+型的人给世界带来更多希望，I 型的人给世界带来更多欢乐，S 型的人给世界带来更多和平，C 型的人给世界带来更多智慧。
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3YygI0XeCb7WVhfETMbcIich3a6VibZibDoya4oA1744z0XueWwpuibtZczIh6ibyue5sBPLMiaiaaWcjxg/640?wx_fmt=jpeg)
+特质相邻的类型，存在一些共性和差异：  **① D 型和 I 型** ：都属于外显机制，同样是行动快，D 型快在带方向，I 型快在带节奏。  **② I
+型和 S 型** ：都属于人际导向，同样是关注人，I 型更关注自己，S 型更关注他人。  **③ S 型和 C 型** ：都属于内敛机制，同样是行动慢，S
+型慢在纠结中，C 型慢在评估中。  **④ C 型和 D 型** ：都属于任务导向，同样是关注事，C 型更关注细节，D 型更总揽全局。
+**认识自己是个人成长的基础，理解他人则是有效沟通的关键。**
+当遇到问题的时候，有些人反应比较快，喜欢「三下五除二」，迅速做出决策并采取行动；而另外有些人则反应比较慢，喜欢「三思而后行」，要经过深思熟虑之后才肯开始行动。
+当一群人收到一个关于培训的通知时，有些人关注：培训师是谁？颜值如何？多少人参加？而另外有些人则关注：培训的主题是什么？培训的时间是什么时候？对工作有没有影响？
+运用 DISC 模型，不是简单地把人分成 4
+种类型，而是把它当成一种知己解彼的有效工具；不是机械地给人「贴标签」，而是懂得人与人之间存在不同；不是单一地看待一个人的行为风格，而是全面、客观地进行评估和分析，搞懂事物背后的逻辑和原理。
+**3\. 怎么运用 DISC 模型？** **虽然有很多人质疑 DISC 模型在心理学专业领域的有效性和可信度，但这并不影响它的实际应用价值。**
+比如，有很多企业在招聘的时候，会参考 DISC 模型，了解候选人的性格特征，看看是否与岗位需求相匹配，以便提高招聘的准确率，降低用人的试错成本。
+**据说，在世界 500 强的企业中，有超过 50% 都有运用 DISC 模型的经验。** 再比如，有些教育机构把 DISC 模型应用在教学上，采用 I+S
+的方式，也就是「 **循序善诱、因势利导** 」的方式，而不是采用 D+C
+的方式，因为这样更能激发学习者的热情，避免让学习者产生挫败感和痛苦感，进而提升教学的质量。  **我们在日常工作和生活中，也可以试着运用 DISC
+模型，去分析领导、同事、家人、朋友的性格特征，然后采取更加适合他们的沟通方式，就能有效改善人际关系。** 比如，给 D
+型领导汇报工作的时候，要结论先行，以目标为导向，让领导看到你的执行力，帮助领导树立权威的形象。  与 I
+型同事沟通的时候，要以情动人，热情回应同事的需求，称赞同事的风趣幽默，帮助同事摆脱烦恼。  与 S
+型的家人沟通的时候，要和平共处，给家人安全感，感恩家人的支持和关爱，一起创造家的氛围。  与 C
+型朋友沟通的时候，要注意细节，尊重朋友的专业性，给予充分的信任。  甚至当我们在娱乐休闲的时候，比如看小说、电影或电视剧时，也可以试着运用 DISC
+模型，对其中的人物性格进行分析，以便提升自己的分析能力。  比如，我们可以运用 DISC
+模型来分析《西游记》中主要人物的性格。这是一个「仁者见仁、智者见智」的问题，并没有标准的正确答案，因为人性是复杂多变的，每个人看待事物的角度也不一样，你完全可以根据自己的理解，得出自己心中的答案。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF8ibHNnT3LY5vUTOqYGb4n48nAG3g6wd3rtDTL75hYoraIic9xOyv7wQA/640?wx_fmt=png)
+运用 DISC 模型进行测试，不是用来给人「算命」，也不是一次测试定终身，而是用来觉察和改善我们生活的状态，让我们未来的生活变得更加幸福。
+在不同的场景中，我们还要具体问题具体分析，因为现实中你遇到的人，也许是刻意伪装的，也许是正在调整的，也许是复合型的 ……
+就像一个人在成长的过程中，刚开始工作的时候，更多关注的是事，后来成为团队领导之后，就要更多关注人。有些人经过刻意训练之后，反应速度也会变快，因此可能从 C
+型转变为 D 型或 S 型或复合型。  有些人会  基于实际的需要，  根据环境和对象，主动改变自己，灵活展示自己的特质，获得更大的影响力。  ** **
+对自己，更多关注性格的可塑性，扩大自己的掌控范围。  对别人，更多关注性格的稳定性，用合适的方式去沟通。  下面是我的一个 DISC 测试结果：
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFSd4L9cbdGJQrM0bZpNyibicbGhYd54FToOiaiciavYqlsajADgdjRbZDwAQ/640?wx_fmt=png)
+为了更好地展现 DISC 的行为模式，下图用一个蓝色的星星在象限图中表示出来：
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF5OrIDUn9icLol36RCZSc0TRySnkgxaB1LMYia7ehoBeEB7HJT9Jr3BHQ/640?wx_fmt=png)
+从图中可以比较直观地看出，我的行为模式倾向于 CS 型，属于比较典型的 **思考者** ，通常是以任务为导向，反应速度比较慢。
+为了提升自己的领导力和影响力，我一方面在努力发挥自己的优势，另一方面也在努力提高自己的反应速度，向复合型靠拢。
+在一个团队中，通常需要平衡各种类型人员的比例，做好不同角色的分工，鼓励互补与合作。  所谓「一山不容二虎」，当团队中存在两个 D
+型人的时候，就有可能会产生冲突，需要有人适当做出调整。
+有人说，唐僧团队是一个比较完美的团队，因为师徒四人基于环境的变化和团队的需要，及时调整自己的角色定位，最终修成正果。  **最后的话** 对个人来说，用好
+DISC 模型，不仅可以完善人格，而且能够提高情商，还能增强领导力。  对组织来说，运用 DISC
+模型，不仅可以甄选人才，而且能够提高绩效，还能加强团队管理。
+不同的人有不同的个性特征，有些人像火（D），有些人像风（I），有些人像木（S），有些人像山（C），这些都是自然现象，我们要学会认识自己和悦纳自己，并学会理解他人和接纳他人。
+性格本身没有好坏之分，关键在于你怎么用，用对了地方就是优点，用错了地方就是缺点。  ** ** 心理学家阿德勒认为：
+**环境并不能决定人生的意义，真正会影响人生的是我们对环境的理解和解读。** 要知道，  人是可以自主进行选择的，而不是只能被动地被环境所塑造。
+有很多自我实现的人，也遭遇过童年的创伤，但他们能够选择积极去奋斗，最后活出了非常精彩的人生。  **
+真正束缚一个人能力的，不是遗传、环境或性格等因素，而是自己的思想和认知水平。  ** 一个人越了解自己，就越能驾驭自己。  让我们学习和运用 DISC
+模型，站在现在看未来，努力成为更好的自己。  延伸阅读：  《常人之情绪》（马斯顿，1928年）  《自卑与超越》（阿德勒，2016年）
+《懂得》（俞亮，2021年）  相关文章：  [ 100 种分析思维模型系列
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+[
+](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
+
+↑ 点击此卡片关注 ↑
+
+↑  周二早八点阅读  ↑
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+轻触阅读原文
+
+![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
+
+林骥
+
+
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+
