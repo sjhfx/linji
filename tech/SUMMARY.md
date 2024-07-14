@@ -12,5 +12,5 @@
     * [杜邦分析](model/analyze/du-bang-fen-xi.md)
   * [▶️ 指引未来](model/guide/README.md)
     * [福格行为模型](model/guide/fu-ge-xing-wei-mo-xing.md)
-* [🔄 系统 system](xi-tong-system.md)
+* [🔄 系统 system](system.md)
 * [AI 智能体](https://www.coze.cn/s/i6oWAwCV/)
