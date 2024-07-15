@@ -1,23 +1,10 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFBLJPqajl6YURtstetA99SoicHwDxOYwmrCvhFBGcOJJpt9Mf4yPZEfw/0?wx_fmt=jpeg)
+在这个千变万化的世界中，不同人的性格和行为方式差别很大，我们如何才能更好地相互理解呢？  
 
-#  100种分析思维模型之：DISC 模型
+下面介绍**DISC 模型** ，它能帮助我们更好地 **悦纳自己和读懂他人，进而能够更好地合作交流** 。  
 
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
+**1\. 为什么学习 DISC 模型？** 
 
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在这个千变万化的世界中，不同人的性格和行为方式差别很大，我们如何才能更好地相互理解呢？  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 69 种： **DISC 模型** ，它能帮助我们更好地 **悦纳自己和读懂他人，进而能够更好地合作交流** 。  **1\. 为什么学习 DISC
-模型？** 通过学习和运用 DISC 模型，你将能获得以下好处：  **① 深入了解自己** DISC
+通过学习和运用 DISC 模型，你将能获得以下好处：  **① 深入了解自己** DISC
 模型提供了一套简单的方法，帮助我们更好地洞察自己的特质和偏好，进而认清自己的优势和劣势，发现并挖掘自己的潜能。  **② 改善人际关系** 学习 DISC
 模型之后，用来分析自己和他人的行为和反应模式，可以更好地适应不同的沟通风格，减少误解和冲突，建立更加和谐的人际关系。  **③ 提高团队效能**
 在团队中，了解每个成员的 DISC 类型，可以帮助我们更好地沟通协作，相互支持和理解，增强彼此的信任感，进而充分发挥每个人的优势，取得更好的工作成果。
@@ -101,43 +88,12 @@ DISC 模型，不仅可以完善人格，而且能够提高情商，还能增强
 **环境并不能决定人生的意义，真正会影响人生的是我们对环境的理解和解读。** 要知道，  人是可以自主进行选择的，而不是只能被动地被环境所塑造。
 有很多自我实现的人，也遭遇过童年的创伤，但他们能够选择积极去奋斗，最后活出了非常精彩的人生。  **
 真正束缚一个人能力的，不是遗传、环境或性格等因素，而是自己的思想和认知水平。  ** 一个人越了解自己，就越能驾驭自己。  让我们学习和运用 DISC
-模型，站在现在看未来，努力成为更好的自己。  延伸阅读：  《常人之情绪》（马斯顿，1928年）  《自卑与超越》（阿德勒，2016年）
-《懂得》（俞亮，2021年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
+模型，站在现在看未来，努力成为更好的自己。  
 
-↑ 点击此卡片关注 ↑
+延伸阅读：  
 
-↑  周二早八点阅读  ↑
+《常人之情绪》（马斯顿，1928年）  
 
-预览时标签不可点
+《自卑与超越》（阿德勒，2016年）
 
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《懂得》（俞亮，2021年）

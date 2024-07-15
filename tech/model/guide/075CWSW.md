@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3vIbFzKicYRjdMQY2My09DcxW9XMFEGNzKy6SRExibZHBNk2Mv1WHGktzf25SRjghzryRtOIASRPOw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：财务思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  我们在日常工作和生活中，几乎每天都要与金钱打交道。  下面介绍  [ 100 种分析思维模型
+我们在日常工作和生活中，几乎每天都要与金钱打交道。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 75 种： **财务思维** ，它能帮助我们更好地 **用数字金额来衡量各种事物，进而做出更加科学的决策。** **1\. 为什么学习财务思维？**
 通过学习运用财务思维，并应用到日常工作和生活中，你将 **看得更远、悟得更透、想得更开** 。  **① 看得更远** 只有站得更高，才能看得更远。
@@ -61,44 +45,4 @@ __ _ _ _ _
 是 Input 输入，帮助我们 **理解现状和看见差距** ；P 是 Process 处理，帮助我们 **分析原因和洞见可能** ；O 是 Output
 输出，帮助我们 **预测未来和预见指数** 。  祝愿你在财务思维的帮助下，提升你的思维和认知，未来取得更大的成就。  延伸阅读：
 《财务思维》（梅泽真由美，2020年）  《肖星的财务思维课》（肖星，2020年）  《贾宁财务讲义》（贾宁，2020年）
-《好懂秒懂的财务思维课》（郝旭烈，2023年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《好懂秒懂的财务思维课》（郝旭烈，2023年） 

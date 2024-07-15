@@ -1,26 +1,8 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo2X8lIKYdM4T25CtKm29ujibhraZa11piafFFt2AHJnYlCGBxtxxcBiaPwEa6Lz400555UAqxcYfVBeA/0?wx_fmt=jpeg)
-
-#  如何用假设检验模型验证想法？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 运用概率思维，我们可以检验假设的合理性。
 
-今天介绍的第 **017** 号分析思维模型： **假设检验模型** ，能帮我们更好地验证想法。
+下面介绍的**假设检验模型** ，能帮我们更好地验证想法。
 
-**1\. 模型介绍**
+## **1\. 模型介绍**
 
 假设检验，按照字面意思来理解，就是先提出一个假设，然后再检验这个假设。
 
@@ -70,7 +52,7 @@ __ _ _ _ _
 
 比如说，法官在审理案件的时候，首先会假设被告方无罪，然后根据指控方提供的证据，试着推翻一开始无罪的假设，从而接受与之相反的结论，即被告方有罪。
 
-**2\. 应用举例**
+## **2\. 应用举例**
 
 假设检验模型广泛应用于许多领域，包括现代医学、心理学、经济学、社会学、计算机科学等等。
 
@@ -102,7 +84,7 @@ __ _ _ _ _
 
 也就是说，我们可以认为：这位女士确实能够品尝出不同奶茶的区别。
 
-**最后的话**
+## **最后的话**
 
 没有经过验证的想法，都是空想。
 
@@ -115,86 +97,3 @@ __ _ _ _ _
 假设检验的基本思想，是在不确定性的条件下，相信小概率事件不会经常发生，如果真的发生了，那么就选择拒绝原来的假设。
 
 假设检验并非绝对可靠，但是通过弄清楚最有可能的解释，我们可以更好地认识世界上的许多现象，从而得出更有价值的分析结论。
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-[ 福格行为
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477258&idx=1&sn=b55e3f648f903eec82177e78494e1f5f&scene=21#wechat_redirect
-"福格行为") [ 杜邦分析
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477282&idx=1&sn=3507ad55727800c2c0a2089665a61634&scene=21#wechat_redirect
-"杜邦分析") [ 矩阵分析
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477299&idx=1&sn=cdb2c2f2f7ac510f8de918f7dfca7b8c&scene=21#wechat_redirect
-"矩阵分析")
-
-[ 夏普利值
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477319&idx=1&sn=a5e8945da69db7cd14e76173694fbc73&scene=21#wechat_redirect
-"夏普利值") [ RFM分析
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&scene=21#wechat_redirect
-"RFM分析") [ 销售漏斗
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&scene=21#wechat_redirect
-"销售漏斗")
-
-[ 正态分布
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477503&idx=1&sn=49d9b1e1355358a85a3ae15198ff2757&scene=21#wechat_redirect
-"正态分布") [ 幂律分布
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477556&idx=1&sn=d2642afe4a49f020d73cc73b07b075a1&scene=21#wechat_redirect
-"幂律分布") [ A/B 测试
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477755&idx=1&sn=6097fc38a9d2aa0562d0aaca39cb9222&scene=21#wechat_redirect
-"A/B 测试")
-
-[ 线性回归
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477762&idx=1&sn=bfc400a41d0f344016de3529de612fef&scene=21#wechat_redirect
-"线性回归") [ 相关分析
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477819&idx=1&sn=b8aabdb1e2511fe5829bb75880036be4&scene=21#wechat_redirect
-"相关分析") [ 聚类分析
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477838&idx=1&sn=4064489391aeaef9de2c3b69af564e68&scene=21#wechat_redirect
-"聚类分析")
-
-[ 帕累托
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477874&idx=1&sn=cffe7167aa2a92a46a3fb26147cb5bde&scene=21#wechat_redirect
-"帕累托") [ 本福特
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478148&idx=1&sn=a4d7a79a41b239afb126f1373015205f&scene=21#wechat_redirect
-"本福特") [ 决策树
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478210&idx=1&sn=5024df4a09dd12c817f68c3bde37277b&scene=21#wechat_redirect
-"决策树") [ 同期群
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478233&idx=1&sn=5d304747a17105f0827a727b268d3289&scene=21#wechat_redirect
-"同期群")
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。  点击左下角的  阅读原文  可加入  我的  **免费** 知识星球  。  
-如果对你有启发，麻烦你  点赞  支持一下  ，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ** ** ** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

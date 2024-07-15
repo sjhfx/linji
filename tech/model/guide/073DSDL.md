@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3zyFFOG5zwPMqryRicwcPxpCyDmUl2MaBR2galicmLx6Ofg9zmALcSX6xedXibRcEkuGzQWDzo2wRBA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：大数定理
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在我们的日常工作、生活和学习中，经常会面对着各种不确定性的随机事件，此时我们不妨运用  [ 统计思维
+在我们的日常工作、生活和学习中，经常会面对着各种不确定性的随机事件，此时我们不妨运用  [ 统计思维
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653482063&idx=1&sn=9551c83768d296d841640eebf652be45&scene=21#wechat_redirect)
 ，发现事物背后的规律。  在统计思维的背后，还有一把神奇的钥匙，那就是大数定理。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -76,44 +60,4 @@ Python 代码模拟了抛硬币的过程：
 然而，有些人却违背大数定理去做事。比如，想要靠赌博发家致富，这几乎是不可能的，因为赌场早已算准了赌徒输钱的概率。  **一个人的认知，决定了一个行为。**
 如果我们学会运用大数定理，也许就不会去做赌博和盲目投资之类的傻事了。  人只能赚到自己认知范围之内的钱，凭运气赢得的财富，最后都会凭实力输回去。
 只有努力提升自己的认知水平，从过去收集数据，到现在分析思考，再到未来指导行动，做好风险的管控，才能让生活变得更加幸福。  延伸学习：
-《刘嘉概率论通识讲义》（刘嘉，2021年）  《30 天认知训练营》（王烁，2020年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《刘嘉概率论通识讲义》（刘嘉，2021年）  《30 天认知训练营》（王烁，2020年）

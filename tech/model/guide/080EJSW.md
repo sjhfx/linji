@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3Px18llj9RcxteAzHo3cBBiaico1uZibnv5wU8WqKfxT6gzDxGic51MAqktsGicVica8s7EIfEqu7gFQ1Q/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：二阶思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  很多人在做决策的时候，习惯运用「一阶思维」，也就是停留在问题的表面，只考虑它的直接影响和结果。
+很多人在做决策的时候，习惯运用「一阶思维」，也就是停留在问题的表面，只考虑它的直接影响和结果。
 然而，一个人现在做出的小决策，可能会对未来产生很大的影响，甚至会产生连锁反应。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 80 种： **二阶思维** ，它能帮助我们 **更好地预见未来可能的结果** 。  **1\. 为什么学习二阶思维？** 二阶思维有助于
@@ -59,47 +43,4 @@ __ _ _ _ _
 **时间和情绪的习惯** ， **看见** 现实与目标的差距， **洞见** 产生差距的可能原因，并采取相应的改进措施  ，  **预见**
 未来将获得指数级的成长  。  我相信，通过学习和运用二阶思维，凡事 **多想一步**
 ，综合考虑问题的长期影响和多种可能性，并反思自己的决策和行动，就能有效提升自己的洞察力，成为一个更有智慧的人  。  延伸阅读：
-《思维模型》（[美]彼得·霍林斯，2020年）  《思考的框架》（[加]沙恩·帕里什，2023年）  《笔记的方法》（刘少楠等，2023年）  相关文章：
-[ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑  
-封面故事：用 AI
-生成的一张图，其中有一匹白马在森林的缝隙中奔跑。有双重的含义，一是代表林中之骥，二是代表白驹过隙。源自《庄子·知北游》：“人生天地之间；若白驹之过隙；忽然而已。”用来比喻人生非常短暂，时间转瞬即逝，就像白马飞快地穿过一道缝隙。强调生命是非常宝贵的，我们应该珍惜时间，过好当下的每一天。
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《思维模型》（[美]彼得·霍林斯，2020年）  《思考的框架》（[加]沙恩·帕里什，2023年）  《笔记的方法》（刘少楠等，2023年）

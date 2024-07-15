@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1ndZ8zwM4bAQ0AibHjDGJD5ibx4Rlicp0LDdC9hsib0qnyfntTib9NS7HxmuC3hdHyGXVaOWiaUjLXBDCQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：时间序列
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  时光荏苒，在这个瞬息万变的时代，我们总是希望能够把握事物的变化规律。
+时光荏苒，在这个瞬息万变的时代，我们总是希望能够把握事物的变化规律。
 想象一下，假如你有个人成长的详细数据，借助时间序列分析模型，能够洞见隐藏在数据背后的秘密，那么就能更好地规划未来发展的路径。  下面介绍  [ 100
 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -46,45 +30,4 @@ statsmodels 等），对模型进行拟合。  **⑤ 验证优化** 第五，通
 通过重复昨天的行为，我们将自己拽入可以预测的明天，但结果可能沦为单调和枯燥的生活，失去了创新和成长的可能性。
 在运用时间序列分析的过程中，我们还需要根据具体情况，灵活运用合适的方法和技术，以获得更好的预测效果和决策支持。
 时间序列的应用是一个复杂的过程，涉及到数据质量、模型选择、参数调整等多个方面，上面只是简单的介绍。  关于时间序列的应用案例，可以参考「
-**数据化分析案例库** 」。  延伸阅读：  《时间序列分析》（乔治·博克斯，1927年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-欢迎订阅我的专栏： **数据化分析案例库** 。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1ndZ8zwM4bAQ0AibHjDGJD5c8hl6Ueia26r6oicjibtdlHLic3pmoHvy7yOhgr5sAbKsVQSFZAz7bk4fA/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+**数据化分析案例库** 」。  延伸阅读：  《时间序列分析》（乔治·博克斯，1927年）

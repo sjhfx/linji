@@ -1,20 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2Cza1OkCVvhXRicFxFq4eFROD1awlhrHz4xiaofqM1hC0IumulkpQjUIt1icVOVjnXLuU5EDKErJ3Pw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：费米估算
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
 我在招聘面试数据分析师时，喜欢问候选人这样一个问题：  你估算中国有多少个数据分析师？  有很多候选人都没能正确地运用数据分析思维，缺乏分析问题的逻辑性。
 下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -57,45 +40,4 @@ __ _ _ _ _
 费米估算是一种训练大脑的好方法，你可以抱着游戏的心态，就像玩益智游戏一样，在日常工作和生活中反复进行练习，并享受这个练习的过程，直到养成经常运用费米估算来解决问题的习惯。
 比如，当你走在大街上时，脑海中就自然而然地想到：中国有多少辆汽车？中国有多少辆自行车？中国有多少家公司？中国有多少家便利店？中国有多少个红绿灯？……
 **运用费米估算时，重要的不是结果，而是分析和思考的过程。** 延伸阅读：  《全世界有多少只猫》（日本东大案例学习研究会，2023年）
-《数据化决策》（道格拉斯·W.哈伯德，2018年）  《图解数据科学》（增井敏克，2023年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-欢迎订阅我的新专栏： **数据化分析案例库** 。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3Da3vKruObHeBcicq071XpX0bcaLbADMzLBLw2J1icYkjlRk3ZDyC4ec8rmMJIib3V2KrhaQN5RCjpQ/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《数据化决策》（道格拉斯·W.哈伯德，2018年）  《图解数据科学》（增井敏克，2023年）

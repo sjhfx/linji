@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3RnuibmpI1w1BMVIiazZIlUbkWyljEX4YevSzxPTrloZic8Q4ialNVVl46Auk3zSbCIrPrYtECuxZX0A/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：排列组合
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 查理·芒格说：
 
 > 在我的学生时代，当我学到排列组合的知识的时候，我眼前为之一亮。  ……
@@ -136,45 +118,3 @@ C(3, 2) = 3! / (2! (3-2)!) = 3
 《时间贫困》（凯茜·霍姆斯，2023年）
 
 《高中数学》（人民教育出版社）
-
-相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYH1aegqc840zKG1yoNlcxrhycs1h3ryM5YFIqNv964t225E8Dd8JMZg/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：系统思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  假如你感觉头痛，你会怎么办？  引发头痛的原因可能有很多，比如睡眠不足，也许通过改善睡眠质量，头痛的症状自然就会消失。  下面介绍  [
+假如你感觉头痛，你会怎么办？  引发头痛的原因可能有很多，比如睡眠不足，也许通过改善睡眠质量，头痛的症状自然就会消失。  下面介绍  [
 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 59 种： **系统思维** ，它能帮我们更加全面地思考问题，进而提升我们的决策能力。  **1\. 为什么学习系统思维？**
@@ -80,39 +64,4 @@ __ _ _ _ _
 可以认识一些新的朋友，或者知道一些新的机会，或者掌握一些新的资源，或者学到一些新的知识……
 系统思维涉及的知识有很多，本文只是从一些侧面，介绍了系统思维的概念和应用案例，希望能帮你打开系统思维的大门。
 如果你想了解更多关于系统思维的相关知识，可以阅读一些相关的书籍，例如：  《系统之美》（德内拉·梅多斯，2012）
-《系统思考》（丹尼斯·舍伍德，2014）  相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-点击上面公众号卡片关注
-
-每周二早上八点原创更新  和你一起用数据化解难题
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《系统思考》（丹尼斯·舍伍德，2014）

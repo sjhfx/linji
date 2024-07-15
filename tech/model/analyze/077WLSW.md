@@ -1,24 +1,10 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0T3l9SfWPibiayaa7gZ68E2CG6JXdtRf1H2IyIAC7yImxcTNbt2ppxRIgEcRmnsnh8PIUXIo0gEbeQ/0?wx_fmt=jpeg)
+著名诗人北岛写过一首名为《生活》的诗，其内容只有一个字：  网  。  如今，我们生活在网络时代，每天都在接触各种各样的网络和思维模型。  
 
-#  100种分析思维模型之：网络思维
+下面介绍**网络思维** ，它能帮助我们 **快速找到解决问题的突破口。** 
 
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
+**1\. 为什么学习网络思维？** 
 
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-著名诗人北岛写过一首名为《生活》的诗，其内容只有一个字：  网  。  如今，我们生活在网络时代，每天都在接触各种各样的网络和思维模型。  下面介绍  [
-100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 77 种： **网络思维** ，它能帮助我们 **快速找到解决问题的突破口。** **1\. 为什么学习网络思维？** 查理·芒格说：
+查理·芒格说：
 
 > 要想成为一个有智慧的人，你必须拥有多个模型。而且，你必须将你的经验，无论是间接的，还是直接的，都放到构成这些模型的 **网格** 上。
 
@@ -74,44 +60,3 @@ __ _ _ _ _
 **如果缺乏网络思维，你可能会受到认知偏差的影响，处理数据的能力也会受到限制。**
 希望你在网络思维的帮助下，适应互联网时代的需求，更好地理解和应对复杂的问题，提升自己的创新能力和核心竞争力，成为一个更加睿智的人。  延伸阅读：
 《网络》（ [意]圭多·卡尔达雷利，2018年）  《人类网络》（ [美]马修·杰克逊，2019年）  《模型思维》（ [美]斯科特·佩奇，2023年）
-相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

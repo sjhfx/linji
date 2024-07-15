@@ -1,27 +1,10 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo0qGTv5OwPMh23pH0YEWquJsMJQelLGCicFOlR4sYaCeHMvTZWvicqMFUExd17jdicP2Te0uUmeD5vPw/0?wx_fmt=jpeg)
+在现实世界中，你看不到一吨重的老鼠，也看不到一斤重的大象。你有没有想过这是为什么呢？
 
-#  100种分析思维模型（007号）
+下面介绍的**正态分布模型**，可以很好地回答这个问题。
 
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
+## 1 模型介绍
 
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-在现实世界中，你看不到一吨重的老鼠，也看不到一斤重的大象  。  你有没有想过这是为什么呢？
-
-今天介绍的第  **007** 号分析思维模型，可以很好地回答这个问题。
-
-**1\. 模型介绍**
-
-在统计学里面，  正态分布  是一种很常见的模型  ，像  人的  寿命、血压、考试成绩、测量误差等等，都属于正态分布  。
+在统计学里面，  正态分布是一种很常见的模型  ，像人的寿命、血压、考试成绩、测量误差等等，都属于正态分布。
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ztVNxbkwc6fyxqbYqzibQNzExsicNWibkIj1X28qPR9KOORibJZw7HOXqItAuB2s2lGJGlwy7pMqEicQ/640?wx_fmt=jpeg)
 
@@ -33,7 +16,7 @@ __ _ _ _ _
 
 正态分布  的  特点，是大部分数据都离平均值很近，几乎不可能出现极端异常的值。所以  在现实世界中，你看不到一吨重的老鼠，也看不到一斤重的大象  。
 
-**2\. 应用举例**
+## 2. 应用举例
 
 正态分布在生产管理中经典应用是「 **六西格玛** 」  方法，简写为「 **6σ** 」，也就是  对产品属性进行建模  ，  明确误
 差要减小到什么程度，产品合格率才算达标。  这样企业就有了量化的目标，从而可以花大力气去改善产品的质量。
@@ -53,10 +36,9 @@ __ _ _ _ _
 
 我们学习分析思维模型，也不是理解了它的原理就好了，而是要把它应用到实践中，用它来解决现实中遇到的难题。
 
-**3\. Python实践**
+## 3. Python实践
 
-我用  P  ython 模拟六个骰子，每个骰子的点数是随机的，从 1 到 6 的概率都是 1/6，如果把六个骰子的
-点数相加，然后画出分布图，与正态分布很接近  。
+我用 Python 模拟六个骰子，每个骰子的点数是随机的，从 1 到 6 的概率都是 1/6，如果把六个骰子的点数相加，然后画出分布图，与正态分布很接近。
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6uefVdY5hkL4dyemAfF2cV8IQFwXC8EMj7z2LLrJgmIibhRF3SIvUnUjA/640?wx_fmt=png)
 
@@ -115,86 +97,10 @@ __ _ _ _ _
 
   
 
-**小结**
+## 最后的话
 
 虽然世界是复杂多变的，但是  多种独立因素  综合起来的结果，又能用简单直观的正态分布模型来解释，这充分体现了数学之美。
 
 用数学和图表来展现  分析思维  模型  ，能够帮助我们更好地理解世界运行的规律。
 
-掌握多种分析思维模型，能够提高我们推理、解释、设计、沟通、行动、预测和探索的能力，从而  实现对世界更加细致的理解  。
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-  
-
-点击链接
-
-[
-
-100种分析思维模型（006号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&chksm=8bf235bbbc85bcadf8b2ae77e3ec9e146ca3ae03a294f5d76d021a57b59030ef1685debd50cc&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（005号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&chksm=8bf23662bc85bf74762ea1476323160388ec0ee56df605c39c39f62448e52a8d6429e402ce58&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（004号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477319&idx=1&sn=a5e8945da69db7cd14e76173694fbc73&chksm=8bf23655bc85bf4313685fc70a540c0f1febe17d5a1810a2ccba143992cfa5103a843f893dec&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（003号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477299&idx=1&sn=cdb2c2f2f7ac510f8de918f7dfca7b8c&chksm=8bf23621bc85bf37a4ed9ee9e808fe57101676478d3a572bf1820f3ee04ec3b552aa8119e1a7&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（002号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477282&idx=1&sn=3507ad55727800c2c0a2089665a61634&chksm=8bf23630bc85bf268eed086a28d0ff0bb3f000769ef019d381ade9385f836147892fbfea83b0&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（001号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477258&idx=1&sn=b55e3f648f903eec82177e78494e1f5f&chksm=8bf23618bc85bf0ef32f2e6a64d128163cd872e5728ec12c3eb0b026231100865fd210f3b6fd&scene=21#wechat_redirect)  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ** ** ** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+掌握多种分析思维模型，能够提高我们推理、解释、设计、沟通、行动、预测和探索的能力，从而  实现对世界更加细致的理解。

@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1fSxtpwhvbeRPDKNWXciczicBT2wFfgHBXbgA2FfwGwxPkqhaHG0ah9B6jSGaDZQsESmVfvtrZIqRQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：增长思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 增长是一个范围很广的话题，  国家希望经济获得增长，企业希望收入和利润获得增长，个人希望财富获得增长……
 
 在工作中，我们希望  收入获得  增长。
@@ -177,43 +159,3 @@ __ _ _ _ _
 《增长思维 30 讲》（梁宁，2019）
 
 《增长思维》（李云龙，2019）
-
-  
-
-相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-作者简介：林骥，《数据化分析》作者，从 2008 年开始从事数据分析相关工作，致力于用数据化解难题，让分析更加有效，用数据赋能成长，让人生更加美好。
-
-点击上面公众号卡片关注
-
-每周二早上八点原创更新  和你一起用数据化解难题
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

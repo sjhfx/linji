@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo3x4RoFEEHg4f9CM2aGickfNajmlr1lHdHpgA7Dicn6icMXPbZiaKx7hib3TyPZetbhLjp6MTMMCn8hnqQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型（006号）
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  今天介绍第  006  号分析思维模型：  销售漏斗模型  。  1\. 模型介绍
+**1\. 模型介绍**
 
 1898 年，美国有一个叫 Elmo Lewis 的人，提出了 **漏斗模型** 的概念，后来被总结为 **AIDA** 模型，也称为「  **爱达**
 」公式，首字母分别代表：
@@ -29,7 +13,7 @@ __ _ _ _ _
 
 从吸引客户的注意，到引起客户的兴趣，再到产生拥有的欲望，最后形成购买的行动，每个环节都会有客户流失，越靠后的环节，客户数量往往就越少，画出来的图形，就像一个漏斗。
 
-2\. 应用举例
+**2\. 应用举例**
 
 以常见的销售过程为例，我们可以把客户细分为目标客户、意向客户和订购客户：
 
@@ -120,70 +104,9 @@ __ _ _ _ _
 
 如果没有标准化的流程，那么就难以沉淀成功的经验。
 
-小结
+**最后的话**
 
 销售漏斗模型，是科学反映销售效率的一个模型，本质上是对销售过程的细化管理，可以帮助我们把流程标准化并沉淀下来。
 
 最后，提醒一下：  任何一个分析思维模型，都不可能解决所有的问题  。
 我们应该根据实际情况，把更多的时间和精力，用来灵活地选择和应用多种分析思维模型，从而做出更加科学的决策。
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-  
-
-点击下面链接
-
-[
-
-100种分析思维模型（005号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&chksm=8bf23662bc85bf74762ea1476323160388ec0ee56df605c39c39f62448e52a8d6429e402ce58&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（004号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477319&idx=1&sn=a5e8945da69db7cd14e76173694fbc73&chksm=8bf23655bc85bf4313685fc70a540c0f1febe17d5a1810a2ccba143992cfa5103a843f893dec&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（003号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477299&idx=1&sn=cdb2c2f2f7ac510f8de918f7dfca7b8c&chksm=8bf23621bc85bf37a4ed9ee9e808fe57101676478d3a572bf1820f3ee04ec3b552aa8119e1a7&scene=21#wechat_redirect)  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ** ** ** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

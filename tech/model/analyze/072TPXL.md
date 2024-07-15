@@ -1,28 +1,17 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3tpzqEt4ianRAoeq0uBgqytAEsibVziaX729xSE7yAeVXRrn2xNqqrQ9BgbeK6BXeGpmUUUibmWwrvpQ/0?wx_fmt=jpeg)
+你曾经是否因为误判而后悔或懊恼过？  
 
-#  100种分析思维模型之：误判心理
+下面介**误判心理** ，它能帮助我们 **减少误判，提升做出正确判断和决策的概率** 。  
 
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
+**1\. 为什么学习误判心理？**
 
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-你曾经是否因为误判而后悔或懊恼过？  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 72 种： **误判心理** ，它能帮助我们 **减少误判，提升做出正确判断和决策的概率** 。  **1\. 为什么学习误判心理？**
 人性是复杂多变的，但也是有规律可循的。  人类的感知和认知系统很容易出错，如果你不小心加以提防的话，就有可能会被别人故意操控，导致上当受骗而不自知。
 认知往往取决于情景，哪怕是同一个人思考同一个问题，当情景不同的时候，也会引起不同的结论。
 要想更好地解决问题，我们需要拥有更好的理论框架，以及更多的思维模型，这样才能更好地解释遇到的各种现象，进而做出正确的判断和决策。
 **要想获得正确判断的方法，通常需要先收集各种错误判断的例子，然后再考虑怎么才能避免产生误判。**
-通过学习误判心理，可以帮助我们拓宽思维的边界，然后再用思维去驾驭工具，就能让工具发挥出更大的价值。  **2\. 什么是误判心理？**
+通过学习误判心理，可以帮助我们拓宽思维的边界，然后再用思维去驾驭工具，就能让工具发挥出更大的价值。  
+
+**2\. 什么是误判心理？**
+
 在《穷查理宝典》，查理·芒格总结了 25 种容易让人误判的心理倾向，它们是就像开关一样，拨一下就有反应。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3tpzqEt4ianRAoeq0uBgqytxcxlENru59VUH11eLnHZPOTDwkibavxj8HLPHzWnZSCTUX5HPTZ0UOA/640?wx_fmt=png)
 下面简要介绍这 25 种误判心理，为了帮助理解和记忆，我对名称做了修改或简化，并举例予以说明。  **(1) 激励机制**
@@ -77,55 +66,16 @@ __ _ _ _ _
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653482063&idx=1&sn=9551c83768d296d841640eebf652be45&scene=21#wechat_redirect)
 ，并充分考虑反对者的意见，努力做到三思而后行，这样就能更加客观地看待问题，进而做出更加理智的决策。
 **无论多么困难，我们都要直面真相，减少妒忌心理，增加自己的好奇心，保持消息灵通，这样就能减少误判心理导致的不良后果，进而拥有更多的智慧。**
-**最后的话** 误判心理就像一把双刃剑，不是所有时候都好，也不是所有时候都坏，关键在于人们怎么利用它。
+
+**最后的话** 
+
+误判心理就像一把双刃剑，不是所有时候都好，也不是所有时候都坏，关键在于人们怎么利用它。
 坏人可能利用误判心理，给社会造成巨大的伤害，例如：道德败坏、效率低下、有失公允等。
 好人可能利用误判心理，帮助自己和他人避免落入误判的陷阱。就像在黑暗中行走的时候，手中拥有一支明亮的手电筒，能够照亮周围的世界。
-**如果有更多人能够学习并运用误判心理，为社会多做一些善事，那么我们的世界将会变得更加美好。** 延伸阅读：  《穷查理宝典》（彼得·考夫曼，2021年）
-《影响力》（罗伯特·西奥迪尼，2021年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-如果你对数据分析感兴趣，欢迎阅读【  [ 数据分析学习指南
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)
-】（用 10 个微信豆兑换，目前已经有 600+ 人兑换）。  想要更加深入地学习数据分析，欢迎购买我写的书《数据化分析》，  [
-点击了解这本书出版背后的故事
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481526&idx=1&sn=ac2341c2770e87736b1a88d841b0c60a&chksm=8bf205a4bc858cb28cfb5daf788b60c573d20362290606876ab939e1fce8142c1d67c6f36816&scene=21#wechat_redirect)
-（⬅️可点击）  。
+**如果有更多人能够学习并运用误判心理，为社会多做一些善事，那么我们的世界将会变得更加美好。** 
 
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
+延伸阅读：  
 
-↑ 点击此卡片关注 ↑
+《穷查理宝典》（彼得·考夫曼，2021年）
 
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《影响力》（罗伯特·西奥迪尼，2021年） 

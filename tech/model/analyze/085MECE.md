@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwFoutRxlH5hdeE4iap4Wibrx44SYWib8vDvREmw2VIkZOx1VQOSrKGf36w/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：MECE 法则
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  想象你正在玩一种拼图游戏，每个碎片都要准确无误地找到它的专属位置，整个画面才能变得清晰而完整。
+想象你正在玩一种拼图游戏，每个碎片都要准确无误地找到它的专属位置，整个画面才能变得清晰而完整。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3qKibvZKWFF3IFV38eSWXXwBhzhhdDQhkrkNB42ooaLjZAu6R15aaFrsXLK4ibFLHEwx7iaaJwNVuuQ/640?wx_fmt=png&from=appmsg)
 在日常工作和生活中，当我们遇到难题的时候，可以尝试运用一种类似「思维拼图」的工具—— **MECE 法则** 。
 很多人在写作或工作汇报的时候，让人感觉思维逻辑比较混乱，主要是因为没有用好 MECE 法则。  下面介绍  [ 100 种分析思维模型
@@ -52,44 +36,4 @@ MECE 法则，把时间划分为 9 个大类，让每个大类相互独立，且
 
 总之，MECE
 法则是一个简单而强大的分析思维工具，它能帮我们以更有条理的方式思考和解决问题，避免重叠、遗漏和混淆，让我们更加有效地应对工作和生活中的各种挑战。
-延伸阅读：  《金字塔原理》（芭芭拉·明托，2019年）  《每个人的商学院》（刘润，2019年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《金字塔原理》（芭芭拉·明托，2019年）  《每个人的商学院》（刘润，2019年）

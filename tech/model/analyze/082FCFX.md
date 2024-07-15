@@ -1,30 +1,15 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMARM4eQ7KFKfM6EpyUfs71kLv4ba47rIdsuAt8hXNICHzx0RrKoh0JQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：方差分析
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
 2023 年 11 月 28 日，著名投资家查理·芒格去世，享年 99.9 岁。
 虽然每个人都终有一死，而且他算是非常高寿的了，但当我得知这个消息的时候，还是感到很难过。
 在《穷查理宝典》这本书中，查理·芒格引用法国哲学家西塞罗的一个观点：「最令人伤心的噩耗，是那些你正在向其学习的人的死亡」。  此刻，我感同身受。  查理 ·
 芒格认为： **「模型是我们用来思考和理解世界的工具，任何能够帮助你更好理解现实世界的框架，都可以称之为模型」。**
 要想更好地解决问题，不能只局限于学习自己领域的知识，而要掌握多个重要学科的重要原理，包括数学、物理、化学、生物学、医学、心理学、经济学、工程学等。
-这种思考和解决问题的方法，就是查理 · 芒格提出的「 **多元思维模型** 」。  我写作  [ 100 种分析思维模型
+这种思考和解决问题的方法，就是查理 · 芒格提出的「 **多元思维模型** 」。  
+
+我写作  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-系列文章，也是起源于查理·芒格的思想，目前还在努力向他学习中。  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 82 种： **方差分析** ，它可以帮助我们 **更好地理解数据，并做出更加科学的决策** 。  **1\. 为什么学习** **方差分析**
+系列文章，也是起源于查理·芒格的思想，目前还在努力向他学习中。  
+
+下面介绍**方差分析** ，它可以帮助我们 **更好地理解数据，并做出更加科学的决策** 。  **1\. 为什么学习** **方差分析**
 **？** 学习方差分析的原因主要有以下几点：  **① 发现数据规律**
 通过方差分析，可以探索数据之间的关系，确定不同因素对变量的影响是否显著，从而帮助我们发现数据背后的规律。  **② 解读统计结果**
 方差分析提供了一种解读数据统计结果的方法，进而有助于更深入地理解和洞察业务的实际情况。  **③ 提升决策质量**
@@ -68,44 +53,6 @@ crit 时，代表有显著差异。  所以，从上面的结果可以看出，�
 回顾查理·芒格和亨利·基辛格的百岁人生，我发现：很多勤于思考的人都比较长寿。
 如果有足够多的数据支持，我们也许可以运用方差分析，证明人类的长寿与勤于思考有关。  **从一般的常识来推断，勤于思考可以锻炼大脑的** **神经网络**
 **，对认知功能产生积极的影响，因此更有可能养成良好的生活习惯，保持身心健康，从而延长寿命。** 希望我们都能成为勤于思考、善于思考、拥有智慧的人。
-延伸阅读：  《女士品茶》（戴维·萨尔斯伯格，2016年）  《穷查理宝典》（彼得·考夫曼，2021年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  
+《女士品茶》（戴维·萨尔斯伯格，2016年） 
+ 《穷查理宝典》（彼得·考夫曼，2021年） 

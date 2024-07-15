@@ -1,20 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo03SkfgxaW7WiclRpsbAezCSJoMLMXdK5KLTxU7JB6EdA8uOBpxJ7MCAKWic5ibo8X7HgqY9U3rFRrdw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：深度学习
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
 2016 年，谷歌旗下的 DeepMind 公司开发的
 AlphaGo，打败了围棋世界冠军李世石，后来又击败了当时世界排名第一的柯洁，让许多人感到震惊，点燃了大家对人工智能的热情。
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3mhMUnhPADzL5DqvsNp31203OvPkmf7eZcnXKG57nVk62Gf1aAWGbEw/640?wx_fmt=jpeg)
@@ -63,44 +46,4 @@ AlphaGo，打败了围棋世界冠军李世石，后来又击败了当时世界�
 当你手中只有一把「锤子」的时候，看什么都像「钉子」。但如果你手中既有锤子，又有螺丝刀，还有起子和扳手等，那么就可以根据实际情况，选择使用合适的工具，这样解决问题就会变得更加高效。
 所以，我们需要抱着终身学习的理念，学习更多的分析思维模型，并在实际工作和生活中加以应用，从此开启更加美好的未来。  延伸阅读：
 《深度学习》（[美]特伦斯·谢诺夫斯基，2019年）  《深度学习进阶》（[日]斋藤康毅，2020年）
-《Python深度学习》（[美]弗朗索瓦·肖莱，2022年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《Python深度学习》（[美]弗朗索瓦·肖莱，2022年）

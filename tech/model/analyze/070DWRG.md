@@ -1,27 +1,14 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0aJyaQCkjnKFuUXADf0vv9Mk2ddU62S7TbIEPSAkbGK04HTS56UvMQvn2tShqRH4oZfJ0ztBkq8Q/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：大五模型
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  关于人格测试的模型有很多种，到底哪一种更好？  不同人的回答可能不一样，有人觉得  [ MBTI
+关于人格测试的模型有很多种，到底哪一种更好？  不同人的回答可能不一样，有人觉得  [ MBTI
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653482022&idx=1&sn=b2e7af761ba34ef2709cb1d26fd380e0&scene=21#wechat_redirect)
 更好，也有人觉得  [ DISC
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653482048&idx=1&sn=579a998513ebc1d88d8a94474ba116ab&scene=21#wechat_redirect)
 更好，还有人觉得大五模型更好。  不同的分析思维模型，提供了观察事物的不同角度，我们不妨运用 **多元思维模型**
-，也就是综合运用多种不同的模型去思考，这样才能更加全面地看清事物的真相。  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 70 种： **大五模型** ，它可以帮助我们 **更好地认识自己，进而成为更好的自己** 。  **1\. 为什么学习大五模型？**
+，也就是综合运用多种不同的模型去思考，这样才能更加全面地看清事物的真相。  
+
+下面介绍**大五模型** ，它可以帮助我们 **更好地认识自己，进而成为更好的自己** 。  
+
+**1\. 为什么学习大五模型？**
+
 学习大五模型的好处有很多，我总结了以下 3 点：  **① 更好地了解自己**
 大五模型提供了一种评估和理解自己的方法，让你可以更清楚地认识自己的优势、劣势和倾向，了解自己的潜力和发展方向。  **② 更好地提升自己**
 运用大五模型了解自己之后，可以有针对性发挥自身的优势，不断提升自己的能力。  **③ 更好地发展自己**
@@ -64,43 +51,10 @@ OCEAN 模型或人格海洋，就像海洋一样，蕴含着巨大的生命力�
 按照《突破天性》这本书的观点，一个人想要突破天性去做事，重点是做好自己的个人计划，不断去理解、体会、深入挖掘自己核心计划的意义。
 学习大五模型，就像在人格的海洋中航行，我们可以从中发现很多奇妙的故事。  有些人拥抱 **开放性** 的创新。  有些人展现 **尽责性** 的可靠。
 有些人绽放 **外倾性** 的光芒。  有些人传递 **宜人性** 的温暖。  有些人借助 **敏感性** 的力量。
-你不妨运用大五模型，更准确地认识自己和提升自己，进而更好地掌控自己的人生。  延伸阅读：  《突破天性》（布赖恩·利特尔，2018年）
-《做自己擅长的事，还是喜欢的？》（阿尔约沙·诺伊鲍尔，2022年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
+你不妨运用大五模型，更准确地认识自己和提升自己，进而更好地掌控自己的人生。  
 
-↑ 点击此卡片关注 ↑
+延伸阅读：  
 
-↑  周二早八点阅读  ↑
+《突破天性》（布赖恩·利特尔，2018年）
 
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《做自己擅长的事，还是喜欢的？》（阿尔约沙·诺伊鲍尔，2022年）  

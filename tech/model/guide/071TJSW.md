@@ -1,20 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3O8tqf7N3WR3XOMQwrzOydxEEkt5icCgvnyRCWZxuWgerorZExmB62uBUHtJNzIP9ZGAmWMaZ318w/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：统计思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你  好  ，我是林骥。  
 在信息爆炸的时代，不同的信息获取方式，可能让我们会产生不同的判断和决策。  究竟什么是真？什么是假？什么是有益的？什么是有害的？  下面介绍  [ 100
 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -79,50 +62,4 @@ AI（人工智能）技术的发展，我们可以快速处理和分析海量的
 人生是由一系列选择组成的，我们每天都要做出各种各样的选择，从早上几点钟起床，到早餐吃什么，再到一天的时间怎么安排，以及晚上几点钟睡觉等等。
 基于统计思维做出的选择，通常都会比随意选择得到的结果要好得多。  **
 学会运用统计思维，就像拥有一种透视镜，让我们能够透过表面的现象，看到事物背后的规律和趋势，进而做出更加睿智的决策。  ** 延伸学习：
-《统计思维》（Allen B. Downey，2015年）  《统计学 20 讲》（刘嘉，2022）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-如果你对数据分析感兴趣，欢迎阅读【  [ 数据分析学习指南
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)
-】（用 10 个微信豆兑换，目前已经有 600+ 人兑换）。  想要更加深入地学习数据分析，欢迎购买我写的书《数据化分析》，了解 [ 这本书出版背后的故事
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481526&idx=1&sn=ac2341c2770e87736b1a88d841b0c60a&chksm=8bf205a4bc858cb28cfb5daf788b60c573d20362290606876ab939e1fce8142c1d67c6f36816&scene=21#wechat_redirect)
-（⬅️可点击）  。
-
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《统计思维》（Allen B. Downey，2015年）  《统计学 20 讲》（刘嘉，2022）

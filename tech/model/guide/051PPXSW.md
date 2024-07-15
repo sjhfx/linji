@@ -1,27 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3JcwqlZ4GQmp5xeEDfIwJyg8xtVfHqVib7pHiblyzkyBcKgTEUjvvkSqNLHC0l51rNWNh1fqIbj8yQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：批判性思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 51 种： **批判性思维** 。
-
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IhJSe9pII22V2DOX3LHKdK4WMJLugvMID5UuE99ic31XRGgSI8O2VCgfGl5uMwdfEDtu4Tiac4zGg/640?wx_fmt=png)
-
 **1\. 为什么学习批判性思维？**
 
 当你看到一篇标题是「 **必看！这是未来 3 年你必须知道的秘密** 」的文章，你会不会忍不住想要打开看看？
@@ -173,44 +149,3 @@ AI「一本正经地胡说八道」，就算被 AI「骗」了，自己可能还
 正如《思辨与立场》中所说：「  当我们抱着一种提升自己思维的想法思考自己的思维时，批判性思维就启动了。  」
 
 以上，就是我对批评性思维的一些思考和总结，你也可以运用批评性思维，自己去思考这些内容背后的逻辑是什么，然后做出自己的判断。
-
-相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-点击上面公众号卡片关注  每周二早上八点原创更新  和你一起用数据赋能成长
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-  
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

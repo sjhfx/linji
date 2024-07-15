@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo03YO8cexBGVoTzjgL9ibibqVMU0jL4Mgd8HUgnpcJcTzFr5kEufJvZjbvrBLVOjq9JR1uibL5le3n9w/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：本质思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  北京有个出租车司机，原来住在四合院，房改之后，他就把四合院卖了，买了一辆桑塔纳，当时感觉风光无限，现如今则是后悔不已。
+北京有个出租车司机，原来住在四合院，房改之后，他就把四合院卖了，买了一辆桑塔纳，当时感觉风光无限，现如今则是后悔不已。
 假如这个出租车司机当时具有本质思维，也许就不会做出卖房买车的决定。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 97 种： **本质思维** ，它能帮助我们 **更好地看清事物的本质，进而做出更加明智的决策** 。  **1\. 为什么学习本质思维？**
@@ -51,41 +35,4 @@ __ _ _ _ _
 从相同的起点出发，如果你选择乘坐高铁，就能比坐绿皮火车的人更快到达终点。  这本质上不是因为你比别人更努力，而是因为你搭上了更快的列车。
 **假如你享受到了时代的红利，你不必感到沾沾自喜；假如你经历了转型的阵痛，也不必感到迷茫和焦虑。**
 通过深入学习和运用本质思维，你将不会叹息自己没有赶上好时代，而会更加清晰地知道自己当前的定位，并且更好地把握未来发展的趋势，进而做出更加明智的决策。
-延伸阅读：  《商业的本质》（杰克·韦尔奇，2016年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1KY2kzDOEicurhLWsyib6EGPQ4YsiasIoWQ1db4cNrsyR3LusBUKHuAOy8ibmcickbKescJO0KVcdw1nw/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《商业的本质》（杰克·韦尔奇，2016年）

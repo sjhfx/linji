@@ -1,28 +1,15 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0lBdL9ea5JR8xicwjaksxKgJvQibF1jvxribicfiaeh7SSjZN2FYGPAeiaZScucOJMlF72iauianA5EOG13A/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：设计思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在我们的日常生活中，可能会遇到一些让人感觉「很别扭」的设计。
+在我们的日常生活中，可能会遇到一些让人感觉「很别扭」的设计。
 比如，电源插座上面的孔挨得很近，导致不能一起使用。尽管有人说这是为了安全考虑，但应该有更好的解决方案。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lBdL9ea5JR8xicwjaksxKge21ic1vfN7xU5Us3oc1RCUuO10IEpkokqLBCYL90ee9X2zKmILLtRAQ/640?wx_fmt=png)
 为了解决这个问题，有人设计出了一种圆盘插座，既能避免孔位互相挤占空间，又能兼容 2 孔和 3 孔的插头，还增加了 USB
 插口，满足了人们经常给手机和电器充电的需求。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lBdL9ea5JR8xicwjaksxKgk0LQFicjIicSujQIgYreF1QneIqw1qjnvOu2onDK5D3HBXpRC0fels1Q/640?wx_fmt=png)
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 78 种： **设计思维** ，它能帮助我们 **更好地解决问题。** **1\. 为什么学习** **设计思维** **？**
+
+下面介绍**设计思维** ，它能帮助我们 **更好地解决问题。** 
+
+**1\. 为什么学习设计思维？**
+
+
 无论你是否从事设计工作，学习设计思维都能让你从中获益，主要包括：  **① 提升创新能力**
 设计思维强调用创新的方式解决问题，通过学习设计思维，能够帮你培养创新思维，从不同的角度去思考问题，找到创新的解决方案。  **② 改进用户体验**
 设计思维以用户为中心，注重深入了解用户的需求和体验，学习设计思维可以帮你更好地理解用户的行为，设计出更加符合用户期望的产品或服务，提升用户的满意度和忠诚度。
@@ -64,44 +51,4 @@ __ _ _ _ _
 比如，有些重要的文件，在修改并关闭之后，想要恢复到修改之前的版本，以前需要靠人去保存好，而现在有很多软件，会帮助我们自动保存文件的历史修改记录，这样就再也不用担心误改了重要的文件。
 **如果有更多人懂得运用** **设计思维** **，设计出更加好用又好看的产品，那么我们的工作、生活和学习将会变得更加便利，世界也会因此变得更加美好。**
 延伸阅读：  《写给大家看的设计书》（[美]罗宾·威廉姆斯，2009年）  《设计心理学》（[美]唐纳德·A·诺曼，2015年）
-《全新思维》（[美]丹尼尔·平克，2023年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《全新思维》（[美]丹尼尔·平克，2023年）

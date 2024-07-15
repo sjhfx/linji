@@ -1,26 +1,8 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo1Hic0cMMOzlzqPd7ZG1K4u9CkPibPgOSxicU3wEypLJlCEVlvibFXibmNN5qxDgWPhru9fd6g1iafHG4Gg/0?wx_fmt=jpeg)
-
-#  100种分析思维模型（010号）
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 数据分析的最终目的是为了辅助决策，从而创造价值。
 
-今天介绍的第 **010** 号分析思维模型： **线性回归模型** ，能帮助我们做出更好的决策。
+下面介绍的**线性回归模型** ，能帮助我们做出更好的决策。
 
-**1\. 模型介绍**
+## **1\. 模型介绍**
 
 线性回归是指利用线性的方法，研究不同变量之间的关系。例如：广告费与商品销量之间的关系。
 
@@ -36,7 +18,7 @@ __ _ _ _ _
 
 如果用图形画出来，那么显示的是一条直线。
 
-**2\. 应用举例**
+## **2\. 应用举例**
 
 线性回归模型的应用十分广泛，它可以帮我们找到不同变量之间的关系，为数据分析的「大胆假设」提供良好的基础。
 
@@ -123,7 +105,7 @@ __ _ _ _ _
 
 需要注意的是，线性回归有其适用的范围，比如说，商品的销量并不能无限地增加，  当广告费增大到一定程度时  ，销量的增长  速度肯定会放缓。
 
-**最后的话**
+## **最后的话**
 
 数据分析在「大胆假设」的基础上，我们一定要「小心求证」。
 
@@ -137,75 +119,4 @@ __ _ _ _ _
 
 随着技术的快速发展，工具应用类的技术门槛将变得越来越低，很多人的职业都将被机器人取代。
 
-学习、思考、实践 100 种分析思维模型  ，积极应对未来的变化，  是我应对潜在风险的一种策略。  
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-点击链接
-
-[
-
-100种分析思维模型（009号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477755&idx=1&sn=6097fc38a9d2aa0562d0aaca39cb9222&chksm=8bf234e9bc85bdffe674b108995697a94dd0a37b458bc589665fb7c3841c9f0b8b809dd0ec8f&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（008号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477556&idx=1&sn=d2642afe4a49f020d73cc73b07b075a1&chksm=8bf23526bc85bc308847d3af71a3a222ec8c2c6217f236af64fbc931ceed96db10624eda8c7c&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（007号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477503&idx=1&sn=49d9b1e1355358a85a3ae15198ff2757&chksm=8bf235edbc85bcfb903fc46f98af249252a5265179fd88593c72172105424670f94e00dd9900&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（006号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&chksm=8bf235bbbc85bcadf8b2ae77e3ec9e146ca3ae03a294f5d76d021a57b59030ef1685debd50cc&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（005号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&chksm=8bf23662bc85bf74762ea1476323160388ec0ee56df605c39c39f62448e52a8d6429e402ce58&scene=21#wechat_redirect)
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ****** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+学习、思考、实践 100 种分析思维模型  ，积极应对未来的变化，  是我应对潜在风险的一种策略。

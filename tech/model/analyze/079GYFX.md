@@ -1,29 +1,14 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0kQQup61aV2mdWMxPE6C1dOE1FlxbibGbFvDVCDjLt72NP0ZybCv8lDsteoqvcsmwAibicicJbEb8dpw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：归因分析
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 影响世界变化的因素正在变得越来越复杂，很多问题不能简单地进行归因。
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0kQQup61aV2mdWMxPE6C1dq1sPnzC0zgEVUIHY9JUpXT2FHAic5Sko3QeoGmw7h14fibrjAzIuc5CQ/640?wx_fmt=png)
 比如，小明在某网上商城的首页看到一款商品，点进去查看商品的详情，然后又去看了其他用户的评价，最终选择下单购买。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0cv3uSwsibc6KWovayE0YXxfoiagWSrZwFDOYOeEodk8pbqaQKHeibAHboApcks6iaicJ3Df0XQLP8lxw/640?wx_fmt=png)
-请问：哪个因素对最终成交的影响最大？  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 79 种： **归因分析** ，它能帮助我们 **做出更加正确的判断和决策** 。  **1\. 为什么学习归因分析？**
+请问：哪个因素对最终成交的影响最大？  
+
+下面介绍**归因分析** ，它能帮助我们 **做出更加正确的判断和决策** 。  
+
+**1\. 为什么学习归因分析？**
+
 通过学习归因分析，我们可以更好地厘清事物之间的因果关系，避免基于片面或主观的判断，导致做出错误的决定。  **
 当我们面对复杂问题的时候，可能会受到多种因素的影响，此时就需要运用归因分析的方法，准确地找到问题的根源。  **
 当我们深入分析各种因素之后，识别出哪些因素是需要改进或调整的，进而有针对性地优化工作流程，就能避免陷入低效忙碌和迷茫的状态，减少盲目决策的风险。
@@ -88,44 +73,4 @@ __ _ _ _ _
 带了 5 块饼干，所以 C 其实吃了 A 带的 5 - 8/3 = 7/3 块饼干，吃了 B 带的 3 - 8/3 = 1/3 块饼干。  因此，从 A 和
 B 给 C 的贡献来看，A 应该拿 7 块钱，B 应该拿 1 块钱。  你看，这样一个简单故事的背后，其实也蕴含着归因分析的思想。
 如果你不懂得正确运用归因分析，可能就会像上面故事中的两位同学那样，自己吃了亏都不知道。  ** ** 延伸学习：  《活用数据》（陈哲，2019年）
-《张潇雨·商业经典案例课》  《李松蔚·心理学通识》  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《张潇雨·商业经典案例课》  《李松蔚·心理学通识》

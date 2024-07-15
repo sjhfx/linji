@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0ocX2376dLTcL7mSz4rbhgBSrFCj1YPA3AnW8hgB5Bn9AvB5Azac7aLzZIsbgfdW7QgfmsENaaCA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：随机森林
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你  好，我是林骥。  
-
 俗话说： **三个臭皮匠，赛过诸葛亮。** 也就是说，如果大家能够一起商量、同心协力、集思广益，就有可能想出比诸葛亮还要好的办法。
 自然界也存在很多类似的规律。比如，森林是由很多棵树组成的，森林中的树越多，森林通常也就越健壮。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -47,44 +29,4 @@ GPT，实现起来变得简单很多。  为了帮助更多人用数据化解难
 」，这个法则在很多领域都是通用的。  无论是在学习中，还是在生活中，或者是在工作中，都普遍存在 20% 的投入带来 80%
 产出的现象，关键在于找到最重要的那 20%。  **最后的话** 在学习的过程中，  我们既要知道事物的表面现象，也要知道事物的本质及其产生的原因。
 当你能够熟练运用随机森林之后，就能更好地理解事物的本质，进而做出更加睿智的决策。  而且， **你掌握的思维模型和案例越多，解决问题的能力就越强。**
-延伸阅读：  《现代决策树模型及其编程实践》（黄智濒，2022年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《现代决策树模型及其编程实践》（黄智濒，2022年）

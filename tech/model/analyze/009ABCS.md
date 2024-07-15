@@ -1,27 +1,9 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo30JVzkegjK3UPM0YbWYlnfzHAYtvcCPsibe1J2Zd4fPmo1IJS7Oeic9v0Xqa1MAZJ2FyTialIibKZZUQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型（009号）
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 假设你是某个 APP 的负责人，你的团队成员正在  争论不休  ，因为一个页面的设计  改版  ，现在面临一个选择难题：到底是选择 A 方案好？还是 B
 方案好呢？
 
-今天介绍的第  **009** 号分析思维模型：  **A / B 测试模型** ，能帮你做出更加科学的选择。
+下面介绍的**A / B 测试模型** ，能帮你做出更加科学的选择。
 
-**1\. 模型介绍**
+## **1\. 模型介绍**
 
 A / B 测试，是指在同一时间段，给同类用户分别展示优化前和优化后的方案，并通过数据分析，判断是否符合预期的一种试验方法  。
 
@@ -35,23 +17,22 @@ A / B 测试，是指在同一时间段，给同类用户分别展示优化前�
 
 **互联网时代，细节决定成败。**
 
-谷歌、脸书、字节跳动等知名互联网公司，都在大量应用 A / B 测试，无论是颜色的调整，还是位置的摆放，或者是文案的设计，很多细节都会通过 A / B
-测试来进行验证，  从而实现产品的持续优化。
+谷歌、脸书、字节跳动等知名互联网公司，都在大量应用 A / B 测试，无论是颜色的调整，还是位置的摆放，或者是文案的设计，很多细节都会通过 A / B 测试来进行验证，  从而实现产品的持续优化。
 
-**2\. 应用举例**  
+## **2\. 应用举例**  
 
 A / B 测试在互联网、医疗、金融等领域都有着广泛的应用，  以  APP  设计  方案的  选择为例：
 
-** 首先  ** ，要明确判断好坏的指标是什么，例如转化率高代表好。  
+**首先** ，要明确判断好坏的指标是什么，例如转化率高代表好。  
 
-** 其次  ** ，要合理地分割流量，保证 A 组和 B 组的用户特征基本一致，并且都具有代表性，能够代表总体用户特征。
+**其次** ，要合理地分割流量，保证 A 组和 B 组的用户特征基本一致，并且都具有代表性，能够代表总体用户特征。
 
 如果总体流量比较大，为了减少测试可能造成的损失，在刚开始测试的时候，建议先小范围尝试，例如拿 2% 的流量，其中 1% 的用户作为 A 组，另外 1%
 的用户作为 B 组。
 
 当流量足够大时，还可以根据用户的特征（如年龄、性别等）切分出更细致的用户群体分别进行 A / B 测试，尽量排除其他因素的互相干扰。  
 
-** 然后  ** ，通过数据分析，对比测试结果，并做显著性检验。
+**然后** ，通过数据分析，对比测试结果，并做显著性检验。
 
 你可以利用网上的AB测试结果分析工具，输入访问数和转化数，就能自动计算出转化率和统计显著性数值。
 
@@ -84,7 +65,7 @@ A / B 测试在互联网、医疗、金融等领域都有着广泛的应用，  
 
 这也是为什么我们要牢记二八法则，用 20% 的高效时间，重点去做好那些能产生 80% 效果的重要的事。
 
-**最后的话**
+## **最后的话**
 
 应用 A / B 测试模型，也要遵循要事优先的原则，运用全局思维，优先去做那些对业务影响比较大的测试，而不是不分轻重缓急，眉毛胡子一把抓。
 
@@ -103,64 +84,3 @@ A / B 测试在互联网、医疗、金融等领域都有着广泛的应用，  
 > 我可以预测天体的运动，却无法预测人类的疯狂。
 
 在用数据化解难题的过程中，一种分析思维模型的应用，可以增进自己对另一种模型的理解，这是我学习总结 100 种分析思维模型的额外收获。
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-往期推荐
-
-[
-
-100种分析思维模型（008号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477556&idx=1&sn=d2642afe4a49f020d73cc73b07b075a1&chksm=8bf23526bc85bc308847d3af71a3a222ec8c2c6217f236af64fbc931ceed96db10624eda8c7c&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（007号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477503&idx=1&sn=49d9b1e1355358a85a3ae15198ff2757&chksm=8bf235edbc85bcfb903fc46f98af249252a5265179fd88593c72172105424670f94e00dd9900&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（006号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&chksm=8bf235bbbc85bcadf8b2ae77e3ec9e146ca3ae03a294f5d76d021a57b59030ef1685debd50cc&scene=21#wechat_redirect)
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ****** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

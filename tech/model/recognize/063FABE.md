@@ -1,24 +1,5 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo335vkNgYJXbFibeWyic6MSsvIFw9nvnpdcTGwy49zN0v7xrZiacYCKS2Q0DH1Q8bDzaoe9iccDhhBflQ/0?wx_fmt=jpeg)
+**1\. 为什么学习 FABE 模型？**
 
-#  100种分析思维模型之：FABE 模型
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，  我是林骥。  
-
-现代社会，交易几乎无处不在，所以我认为每个人都需要掌握一点「销售能力」。  下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 63 种： **FABE 模型** ，它可以帮助我们 **提升销售能力，赢得别人的尊重和信任。** **1\. 为什么学习 FABE 模型？**
 FABE 模型广泛应用于很多领域，无论是销售实体产品，还是推荐虚拟物品，或者是给领导介绍一个方案，都可以运用它。  FABE
 模型提供了一个系统的框架，让我们的表达更加清晰、论述更有条理，帮助我们更好地展示产品或服务的优势，进而更加有效地传递价值。  具体来说，学习 FABE
 模型的好处主要包括以下几个方面。  **① 理解客户的需求**
@@ -57,9 +38,13 @@ dvantages（优点）、 **B** enefits（利益）、 **E** vidence（证据）�
 万高清摄像头（特征），所以拍出来的照片特别清晰（优点）。您看，有很多客户购买这款手机之后，都纷纷把照片分享到自己的朋友圈（证据）」。  **
 在销售的过程中，不仅要看见产品的特征和优点，更要洞见客户的利益诉求，做到对症下药，才能预见未来，获得想要的成果。  **
 下面这张图直观反映了随着时间的推移，产品的特征、优点和利益对客户的影响程度。
+
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo335vkNgYJXbFibeWyic6MSsvkM1SPBmRnJRNcAlPL7xeUyTZB5EoXMxGsWcRXf0icsMaac3zpGEqSbw/640?wx_fmt=png)
-因此，在运用 FABE 模型的时候，要
-**重点关注客户的核心需求，用利益去打动客户，并根据客户的反馈和实际情况，灵活调整销售的策略，避免一味强调产品本身的特征和优点。** **最后的话**
+
+因此，在运用 FABE 模型的时候，要**重点关注客户的核心需求，用利益去打动客户，并根据客户的反馈和实际情况，灵活调整销售的策略，避免一味强调产品本身的特征和优点。** 
+
+**最后的话**
+
 任何一种模型都不是万能的，每种模型  有它的局限性和适用范围，我们不妨把它看成是解决某一类问题的武器  。
 在我们的武器库中，有很多种不同的武器。当你遇到具体问题的时候，不要全部都用「锤子」来解决，而要根据实际情况和目标，可能选用「锯子」或「斧头」来解决。
 关于销售的思维模型还有很多，针对不同类型的客户，可能需要采用不同的思维模型，比如有一个 AIDA 模型（也叫爱达公式），其中：  A 代表 **A**
@@ -68,54 +53,13 @@ ttention：引起 **注意** I 代表 **I** nterest：诱发 **兴趣** D 代表
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo335vkNgYJXbFibeWyic6MSsvSWstWnFr2NaTHKeLWMR48HR7vl16fhqQoSqDuUicLibJ8ph4bVZEC4bw/640?wx_fmt=png)
 [ AIDA
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&scene=21#wechat_redirect)
+
 模型把销售的过程分成 4 个步骤，我们可以结合前面介绍的 FABE 模型，
 **用利益引起注意，用特征诱发兴趣，用优点刺激欲望，用证据促成购买，实现步步为赢。**
+
 销售的本质是价值交换，卖方提供合适的产品或服务，满足用户的需求，并从中获得回报。  销售的最终效果，不要靠主观的感觉，而要靠客观的数据来检验。
-归根到底，销售要用 **共赢思维** ，让自己成为客户可信赖的专家和帮手，最大限度地去满足客户的需求，为客户创造价值，构建合作共赢的关系。  参考资料：
-《快速成交》（俞赛前，2020）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-作者简介：林骥，著有《数据化分析》，借助 [ GPT
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481745&idx=1&sn=100d8717c3a4a973871dd104e18a03ba&chksm=8bf20483bc858d9507d1c7a61b192e319af65c518254bc2b8e7397b2ed415cc66057398799a3&scene=21#wechat_redirect)
-写了一首 28 个字的小诗：
 
-数据化解难题处
+归根到底，销售要用 **共赢思维** ，让自己成为客户可信赖的专家和帮手，最大限度地去满足客户的需求，为客户创造价值，构建合作共赢的关系。
 
-分析更加  有  效助
-
-赋能成长启迪路
-
-生活美好展宏图
-
-↑点击此卡片关注↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+参考资料：
+《快速成交》（俞赛前，2020）

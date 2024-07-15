@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3UCgsKQibYu7KzibmdR5h3sxcLetFcam6aR2ejPmU4fskVwQajTs6bGVK0dQUj5YAMnicZfybKnLkZg/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：逻辑思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  假设给你无限的资源，请问你能造出火箭吗？  面对这种从来没有遇到过的难题，很多人可能会有点迟疑。
+假设给你无限的资源，请问你能造出火箭吗？  面对这种从来没有遇到过的难题，很多人可能会有点迟疑。
 但如果你拥有逻辑思维，也许就会自信地做出回答：肯定能。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 100 种： **逻辑思维** ，它能帮助我们 **找到化解难题的方法，获得可重复、可叠加的成功** 。  **1\. 为什么学习逻辑思维？**
@@ -56,48 +40,4 @@ __ _ _ _ _
   2. 《数学通识 50 讲》（吴军，2019 年） 
 
   3. 《逻辑思维，只要五步》（下地宽也，2017 年） 
-
-* * *
-
-到此，100 种分析思维模型系列文章更新完毕，从 2021 年 1 月 19 日开始更新 [ 第 001 号分析思维模型
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477258&idx=1&sn=b55e3f648f903eec82177e78494e1f5f&scene=21#wechat_redirect)
-，至今已经过了 1203 天。
-
-在这 3 年多的时间里，我阅读了几百本书，参考了大量的资料，学习了一些相关的课程，提炼总结了 100
-个分析思维模型，用来指导自己的工作和生活，感觉收获颇丰。  接下来，我计划在公众号上面开启一个新的文章系列：  AI 数据化分析  ，希望借助 AI
-的力量，提升数据的价值。  另外，我还将持续更新「数据化分析案例库」这个专栏，通过理论与实践相结合，提升用数据化解难题的能力。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2boJeyb3JJ2WUeGDzj9ra6PxwxBbojraGXaPiaeA51g9hFDkBXEnriaMe1icRFPyEMrtyHaw54ibNTDQ/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
 

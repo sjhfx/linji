@@ -1,22 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2Eub2ECG4nAvR6KNToBsULxkibdVdLYmfxibfB2gOBwckt0MMjGvBg9ZZVTQha9pOjcl37gKTYrUrA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：金字塔原理
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  下面介绍  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 48 篇： **金字塔原理** 。  **1\. 为什么学习金字塔原理？**
+ **1\. 为什么学习金字塔原理？**
 假如你辛辛苦苦加班做的方案或者写的报告，信心满满地去向领导汇报，结果领导却打断你说：你能不能讲重点？等你想清楚了再说！  你会不会觉得委屈？
 比委屈更严重的后果是，你失去了一次真正展示自己才华的机会。  汇报工作和完成工作一样重要，表达和做事一样重要。  甚至
 在某些场合下，表达比做事更重要。要想让自己脱颖而出，就要提升你的表达能力。  我们在汇报、交流、培训、写作或演讲的时候，都希望自己的表达能够
@@ -61,45 +43,4 @@ __ _ _ _ _
 向上汇报的核心，其实是你的思维方式，关注对方真正需要什么，心中装着对方的需求，并把它精准地表达出来，让对方觉得「你懂我」，最终实现双方共赢。
 **最后的话** 一个好的表达，就像放风筝一样。受众就像是风筝，你不停地释放手中的线，让风筝越飞越远。但是，你需要经常拉一下线，让他能够集中注意力。  **
 提出问题，就像是  拉  线；给出答案，就像是放线。  **
-在具体表达的时候，你可以先提出问题，以激发人的好奇心，再用答案来传递信息，不断循环往复地推进下去，直到  完  成  目标。  相关文章： [ 100
-种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)  
-推荐文章：  [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)  
-点击上面公众号卡片关注  每周二早上八点原创更新  和你一起用数据赋能成长
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-  
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+在具体表达的时候，你可以先提出问题，以激发人的好奇心，再用答案来传递信息，不断循环往复地推进下去，直到  完  成  目标。

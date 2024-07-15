@@ -1,20 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3xZCBLWq9LIiapMUeoOibhCiaCzicmmaNOIcPOGukz8mXoExGxMJsh6Kvu4YT1woujmf0xmaENQtrmZQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：数学归纳法
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
 有「数学王子」之称的数学家高斯，从小就展现出非凡的数学天赋。  据说高斯在 8 岁的时候，老师出了一道题目：从 1 加到 100 的总和是多少？
 老师本想用这道题，让全班的同学安静一节课的时间，却没想到高斯只用了不到 2 分钟的时间，就说出了答案：5050。
 如果你学过数学归纳法，就会明白只要方法运用得当，其实类似上面这样的题目并不难。  下面介绍  [ 100 种分析思维模型
@@ -47,45 +30,14 @@ __ _ _ _ _
 个任务也能完成。比如把目标分解下去，确保每个人都能按期完成目标之后，项目的整体目标也能完成。  **③ 结论** ：项目将会按期完成。
 需要注意的是，上面这个例子其实并不是严格意义上的数学证明，而是为了体现一种逻辑推理的过程，帮助你更好地理解数学归纳法的思想。
 在实际工作和生活中，我们无法仅用数学归纳法来证明项目必将大获成功，也无法仅用数学归纳法来证明一个袋子中装的全部都是大米，但是我们可以运用数学归纳法的思考模式来分析问题，从而提升我们的逻辑思维和解决问题的能力。
-**最后的话** 对于数学归纳法，很多人通常会把注意力放在第 ② 步：递推，却很容易忽略第 ① 步：奠基，最后导致白忙一场。  **
+
+**最后的话** 
+
+对于数学归纳法，很多人通常会把注意力放在第 ② 步：递推，却很容易忽略第 ① 步：奠基，最后导致白忙一场。  **
 就像很多人在考虑问题的时候，往往只盯着下一步，却忘记了出发的初衷，结果发现一开始就走错了方向，导致浪费了很多时间。  **
-运用数学归纳法思考问题的方式，不仅能提升我们的逻辑思维能力，而且能让我们行动的方向与目标保持一致，尽量少走一点弯路。  延伸学习：
-《数学归纳法》（华罗庚，2002 年）  《逻辑思维训练 50 讲》（吴军，2024 年）  [
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481286&idx=1&sn=c6928e75a43ef7c7a566dfb37f5b0a03&chksm=8bf206d4bc858fc204ae25e2ca5bd3da198d6586504d5a8ea975574bdcf3b14c9f07ffadb910&scene=21#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2vxTTWezGjnck3Ljo0qjZN2AibKmcgU5RCROvACS9kqcc621URzrbZFJwnZgYGWJZIjqb3VaTdHfw/640?wx_fmt=png&from=appmsg)
+运用数学归纳法思考问题的方式，不仅能提升我们的逻辑思维能力，而且能让我们行动的方向与目标保持一致，尽量少走一点弯路。  
 
-↑ 点击此卡片关注 ↑
+延伸学习：
+《数学归纳法》（华罗庚，2002 年）  
 
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《逻辑思维训练 50 讲》（吴军，2024 年） 

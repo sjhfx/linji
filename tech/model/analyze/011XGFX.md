@@ -1,32 +1,12 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo3IlicNZCaSAKyia7nlLkgE3L0PVsem5qXMX3v5QnPEKEBJBjkVFibCMWQqcClLg60KYRhL2rhbO4OhA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型（011号）
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-上次介绍的  [ 线性回归模型
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477762&idx=1&sn=bfc400a41d0f344016de3529de612fef&scene=21#wechat_redirect)
-，与下面将要介绍的模型有很大的关系，但是侧重点有所不同。
+[线性回归模型](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477762&idx=1&sn=bfc400a41d0f344016de3529de612fef&scene=21#wechat_redirect)与下面将要介绍的**相关分析模型**有很大的关系，但是侧重点有所不同。
 
 线性回归模型中的两个变量，分别称为自变量和应变量，它们之间有逻辑上的主次之分，侧重于分析自变量给应变量带来的影响。
 
 比如说，广告费是自变量，商品销量是应变量，我们重点分析的是广告费能给商品销售带来多少增量，而不是反过来。
 
-今天介绍的第 **011** 号分析思维模型： **相关分析模型** ，是寻找变量之间的「相互」关系，并没有主次之分，侧重于解释变量之间的关联。
+**相关分析模型** 是寻找变量之间的「相互」关系，并没有主次之分，侧重于解释变量之间的关联。
 
-**1\. 模型介绍**
+## **1\. 模型介绍**
 
 相关分析，其实就是寻找变量之间相互关联的程度。
 
@@ -78,7 +58,7 @@ __ _ _ _ _
 需要注意的是，相关系数与显著性检验的 p 值不同，相关系数用来反映相关性的强弱，而 p 值用来检验是否存在相关关系，一般情况下，当 p 值小于 0.05
 时，才可以判断存在相关关系。
 
-**2\. 应用举例**
+## **2\. 应用举例**
 
 以 Tableau 自带的超市数据为例，我们应用相关分析模型，分析技术类产品的子类别之间是否有相关关系。
 
@@ -154,64 +134,3 @@ __ _ _ _ _
 一种合理的解释是，诺贝尔奖的数量与巧克力的消费量，很可能都是由其他变量导致的，例如国民的受教育程度和富裕程度。
 
 最后，请一定要牢牢记住， **相关关系不等于因果关系** 。  ****
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-点击链接
-
-[
-
-100种分析思维模型（010号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477762&idx=1&sn=bfc400a41d0f344016de3529de612fef&chksm=8bf23410bc85bd06dcadc9c6d3ed9fd4bbda565f7808135ea5f5edb2eea6d626f2b037cfe6ae&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（009号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477755&idx=1&sn=6097fc38a9d2aa0562d0aaca39cb9222&chksm=8bf234e9bc85bdffe674b108995697a94dd0a37b458bc589665fb7c3841c9f0b8b809dd0ec8f&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（008号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477556&idx=1&sn=d2642afe4a49f020d73cc73b07b075a1&chksm=8bf23526bc85bc308847d3af71a3a222ec8c2c6217f236af64fbc931ceed96db10624eda8c7c&scene=21#wechat_redirect)
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ****** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

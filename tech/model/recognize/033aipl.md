@@ -1,27 +1,4 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo25HFY3mgKhrRQnAk0EicautSYfxZQiaHjiatOsj6e6DqMk67taOXOOwsoQulj3CyyawY2eI2Nnly50A/0?wx_fmt=jpeg)
-
-#  如何用 AIPL 模型实现用户增长？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-
-  
-
-有一天，我在微信公众号上看到一条广告，点击打开了一个小程序，看到自己感兴趣的商品，就下单购买了一件。在
-使用了一段时间之后，我觉得体验非常好，所以又买了一件。
-
-  
+有一天，我在微信公众号上看到一条广告，点击打开了一个小程序，看到自己感兴趣的商品，就下单购买了一件。在使用了一段时间之后，我觉得体验非常好，所以又买了一件。
 
 我的这段消费旅程，经历了看到广告、产生兴趣、下单购买、重复购买的过程，正好符合下面将要  介绍一种模型： **AIPL** **模型**
 ，它反映了消费者行为的 4 个阶段，可以帮助我们更加全面地认识消费者群体，从而更有针对性地制定运营或营销的策略，进而实现用户增长  ** 。  **
@@ -115,37 +92,4 @@ AIPL 模型本身并不复杂，但是，在实践应用过程中，关键是在
 ① **A** ttention  吸引注意  ② **I** nterest  唤起兴趣  ③ **D** esire  刺激欲望  ④ **A**
 ction  促成行动  
 我认为，这个 AIDA 公式与 AIPL 模型背后的原理其实也是相通的，关键在于结合业务的实际场景，灵活加以运用。  
-总之，结合数据分析的思维和方法，  利用  模型的力量  ，  做到有的放矢，才  能更好地实现用户增长  。  
-相关文章： [ 如何用生命周期模型理解客户？
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478327&idx=1&sn=4bd1bb87e2d06bf6089fb29ce6b80b8e&chksm=8bf23225bc85bb33634354100202657a9f6a416906e2e0d8895f2a1a5d8d3100bf15b8829e44&scene=21#wechat_redirect)  
-参考：  《数据运营》  《推销技巧》
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+总之，结合数据分析的思维和方法，  利用  模型的力量  ，  做到有的放矢，才  能更好地实现用户增长  。 

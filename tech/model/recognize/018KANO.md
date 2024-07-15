@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo1SgVDcyZVhb8m9ZicNpyU0ickMcaK1dQIoUKFNlwfJc28lqkuJsA22T7oYL1PB89ne5g8txvI3qlOQ/0?wx_fmt=jpeg)
-
-#  如何用 Kano 模型分析需求？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 对于一个多功能的产品，  你是否想知道：
 
 哪些功能是必须具备的？  
@@ -149,35 +131,3 @@ E.不喜欢这样  |  -2  |  4
 
 所以，我非常重视每一位读者的宝贵意见  ，为了让问卷调查的分析结果更加准确，倾听您的真实声音，了解您的真实想法，希望您能抽出 3
 分钟左右的时间，把您的真实感受和意见建议告诉我。
-
-请  ** ☟  ** 点击左下角的  阅读原文  ，参  与问卷调查（我将送出一份小奖品），已经填写过的朋友请不要重复提交，抽奖时会排除重复。
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

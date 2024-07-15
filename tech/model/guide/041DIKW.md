@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0epiazQC9csOVsBjG7dpQnibVsEfmwFQN1ymrQNI8Y1sJur03mWV6RX9veGDkmq1aiaRs2aDJMyyndA/0?wx_fmt=jpeg)
-
-#  如何用 DIKW 模型建立属于自己的知识体系？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 今天分享一种用 DIKW 模型建立知识体系的方法。
 
 ** 什么是 DIKW 模型？  **
@@ -203,43 +185,3 @@ DIKW 模型是以下四个英文单词的首字母缩写：
 
 总之， **记录数据和收集信息只是基础，而深度思考和付诸行动才是关键**
 。努力把别人的知识，内化到自己的知识体系中，经过不断完善、修改和丰富，用来指导决策和行动，才能创造更大的价值。
-
-相关文章：  [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-关注林骥公众号，更多干货早知道。
-
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2ju45w6zibTHmEQW7AjIKUGPhepojmzfYLkagGXUwGia3ymTH8o1O1hevwVKs56OoPayq2Ciadl1drA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：进化思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在当今快速变化的世界中，我们面临着各种各样的挑战和机遇。
+在当今快速变化的世界中，我们面临着各种各样的挑战和机遇。
 那些固守旧观念和不能适应环境变化的人，可能无法跟上时代发展的步伐，就会被时代抛在后面，错失发展的机会。
 而那些能够拥抱世界的不确定性和适应环境变化的人，往往都走在了时代的前列，进化成为更厉害的人。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -54,43 +38,4 @@ __ _ _ _ _
 **最后的话** 未来我们还会遇到什么挑战？在复杂多变的世界中，我们如何才能找到确定性？  运用进化思维，我的答案是：
 **终身学习、不断思考、主动进化。** 唯有持续学习和思考，才能更好地适应世界的变化。要想改变外部世界，就要从改变自己开始，主动去适应环境的变化。
 **行有不得，反求诸己** 。  让我们主动去「 **探索、改进和反思** 」，持之以恒地追求智慧，等到时机成熟的时候，就能在快速变化的世界中脱颖而出。
-延伸阅读：  《基因之河》（理查德·道金斯，2019）  《王立铭进化论讲义》（王立铭，2022）  《进化的力量 2》（刘润，2023）  相关文章：
-[ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2MvibglEmzqTiaH1ZTkbndxmXldia6aicaVElu3RjgZwUeReI0ROnZO611DNs0y5KoUib9zFqEh6xKWJg/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《基因之河》（理查德·道金斯，2019）  《王立铭进化论讲义》（王立铭，2022）  《进化的力量 2》（刘润，2023）

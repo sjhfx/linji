@@ -1,24 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3aiaQONdYxuDJ3YGewpiaDqz1Cls2ez0F3rJrSN2prCicnXicGjPUN83ubXiaVSJV0pYRer68VodA2jTQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：概率思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好  ，我是林骥。  
-
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 53 种： **概率思维** 。  **1\. 为什么学习概率思维？**
+**1\. 为什么学习概率思维？**
 在我们的日常工作、生活和学习中，充满了各种不确定性，并且需要做出各种各样的决策。  比如，选择做什么事，和谁结婚，看哪本书 ……
 而决策的质量，影响着工作是否顺利、生活是否幸福、学习是否进步 ……  另外，  当今的科技前沿，包括大数据、  [ GPT
 ](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481745&idx=1&sn=100d8717c3a4a973871dd104e18a03ba&scene=21#wechat_redirect)
@@ -102,38 +82,3 @@ ChatGPT 的回复如下：
 《底层逻辑》
 
 《底层逻辑 2》
-
-相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-点击上面公众号卡片关注  每周二早上八点原创更新  和你一起用数据赋能成长
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

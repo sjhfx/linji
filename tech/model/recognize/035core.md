@@ -1,34 +1,9 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo25lJbAx13v5Vfy3qKcEq3PqcmhROSX6KpO0BT9DFwpIJaibhH8ct0MnBE2mibBjWGxkD0p8mAYicFVA/0?wx_fmt=jpeg)
-
-#  如何用 CORE 模型走出逆境？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-  
-
 你是否经历过逆境？是如何走出来的？
-
-  
 
 假如以后再遇到类似的情景，你会怎么处理？
 
-  
-
 下面  介绍的  CORE  模型  ，也许能对你有所启发。  ****
-
-  
+ 
 
 CORE 是以下 4 个英文单词的缩写：
 
@@ -278,40 +253,3 @@ Lead 这个英语单词的意思是「领导」，作为自己人生的 CEO，�
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2U8Q00hZDGlpjCnuRgGGesibTIdd4IPEVtu3ajoKrpeD87Nrqfry56r58OzzqamOuuyb9oJIDjAcw/640?wx_fmt=jpeg)
 
   
-
-相关文章： [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)
-
-  
-
-参考：  《  逆商  》及得到的  语音  解读
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

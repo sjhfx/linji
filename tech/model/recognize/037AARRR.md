@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1JrZlUdaGZNqel0CEp8up7kDdowQibqNPQBj1OpaamajEVsqIAReRNJC0r2Jbx0ReW8VnHC3a8YdQ/0?wx_fmt=jpeg)
-
-#  如何用海盗模型实现掠夺式的增长？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1JrZlUdaGZNqel0CEp8up7jh6uIukBqWBBntTuKkXRZzL6tTOIvKUe2IWOJXz0qHZVHzraYiarr2g/640?wx_fmt=png)  
-你好，我是林骥。  
 无论是在工作中，还是在生活中，我们都可以经常运用数据分析思维模型，去解决现实中遇到的一些难题。  
 一个好用的思维模型，能给我们提供一种观察问题的视角和拆解问题的框架，帮助我们理清数据分析的思路，提高解决问题的效率，  从而  获得更加满意的结果。  
 在《论语》中，孔子说：「  工欲善其事，必先利其器。  ** 」  **  
@@ -93,39 +75,3 @@ __ _ _ _ _
 哪怕前期获取用户的成本比较高，只要用户生命周期价值（LTV），大于用户获取成本与经营成本之和，就意味着产品能够实现良性增长。  
   
 运用数据分析的细分思维，只要 **找到合适的推广渠道，在合适的时间，把合适的产品，推给合适的用户** ，找到可以优化的环节，就能实现掠夺式的增长。  
-相关文章： [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-关注林骥的公众号，更多干货早知道。
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

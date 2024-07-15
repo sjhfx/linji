@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2iaPSvb8bMlSUPtqsMEbQiczjiazOBBzsbBCOgPHL1OH7b73AFibN9M2gT7EQY4UcicKH5RpqLHYdcdMw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：故事思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在 2023 年高考作文的新课标 I 卷中，有这么一段话：
+在 2023 年高考作文的新课标 I 卷中，有这么一段话：
 **好的故事，可以帮我们更好地表达和沟通，可以触动心灵、启迪智慧；好的故事，可以改变一个人的命运，可以展现一个民族的形象……故事是有力量的。**
 这段话引发了你怎样的联想和思考？  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -78,40 +62,3 @@ STORY 公式背后的逻辑，内核是一个可以让听众感知到的挑战�
 《善用图表》
 
 《千面英雄》
-
-相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-点击上面公众号卡片关注
-
-每周二早上八点原创更新  和你一起用数据化解难题
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

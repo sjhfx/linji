@@ -1,25 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo37VlU185PpibsBfkFNvSNJzU6gFCExxDSibdxfdoWS6vwO4NPrmfh2Xf2PcwHWrTPqevOewzWnH8yA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：博弈思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 55 种： **博弈思维** 。
-
 **1\. 为什么学习博弈思维？**
 
 我们在工作和生活中遇到的很多问题，其实都可以看作是一种「博弈」，因为人与人在交往的过程中，通常都存在着竞争或合作的关系。
@@ -139,41 +117,4 @@ B  监禁5  年
 不要把博弈当成一种零和游戏，更不要把博弈当成一种负和游戏，而要把博弈当成一种正和游戏，一起把蛋糕做大，让每个参与其中的人都能获得更多。
 **一个有智慧的人，通常不会吝啬分享自己的收益，而会努力创造机会，形成合作共赢的关系，让各方的收益都最大化，这才是博弈思维的真谛，也是运用博弈思维应有的正确姿态。**
 总之，博弈思维是一种重要的分析和决策模型，能帮助我们应对不确定性的环境。通过学习和运用博弈思维，我们可以更好地理解他人，预判利益相关者的行为，并制定相应的策略，进而做出更加明智的决策并取得成功。
-延伸阅读：  《吴军数学通识讲义》  《博弈：所有问题都是一场赛局》  相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-点击上面公众号卡片关注
-
-每周二早上八点原创更新  和你一起用数据化解难题
-
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《吴军数学通识讲义》  《博弈：所有问题都是一场赛局》

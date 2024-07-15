@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWSsN6rgTJ3XiaZRqJAIBA7tfzgiaRYv61WELFULzpODgjdByJLSnzvdPcA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：数学思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  你觉得数学难吗？  大多数人的回答可能是：很难！
+你觉得数学难吗？  大多数人的回答可能是：很难！
 作为一个数学系毕业的研究生，我曾经也觉得数学很难。但是，如果掌握了数学思维，我认为有些数学知识并没有想象中的那么难。
 **数学其实可以变得很有趣，也很实用。** 下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
@@ -71,45 +55,4 @@ __ _ _ _ _
 虽然有些数学知识学起来可能非常复杂，但数学背后所蕴含的思维通常都比较简单。所以，每个人都可以学习和运用数学思维，用来改善自己的工作、生活和学习方式。
 
 **总之，数学思维可以促进我们思考，让我们变得更有智慧。** 延伸阅读：  《魔鬼数学》（乔丹·艾伦伯格，2015年）  《数学思维》（郑乐隽，2020年）
-《原来数学可以这样学》（刘薰宇，2020年）  《数学之美》（吴军，2020年）  《吴军数学通识讲义》（吴军，2021年）  相关文章：  [ 100
-种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《原来数学可以这样学》（刘薰宇，2020年）  《数学之美》（吴军，2020年）  《吴军数学通识讲义》（吴军，2021年）

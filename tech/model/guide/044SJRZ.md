@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1Mu0AVzoESmj4MK59FnvTl9AYQpH4g0k7FrqYRjxYhia3ialoTtZfCJyAVWd3IoXrdNqKiansQJlHMA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：数据认知
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你  好，我是林骥。  
-
 在《万物皆数》这本书中，作者追溯到 150
 万年前的旧石器时代，原始人类经过一代又一代的思考、琢磨和传承，打造出了「手斧」形状的工具，它可以用来砍树、割肉、在毛皮上钻洞，以及挖地等。
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Mu0AVzoESmj4MK59FnvTlMSCIp7iaDMlLxNicU3aDvMdBib4s15ERyVMb416Ohnib28q3CicIRaEOk0w/640?wx_fmt=png)
@@ -75,45 +57,4 @@ SMART 原则进行量化，  分类  遵循 MECE 法则
 
 ** 智慧  ** 是掌握多种不同的分析思维模型。
 
-一旦你能熟练运用多元思维模型，懂得用思维去驾驭工具，那么数据认知水平将会迅速得到提升。  相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)  
-推荐文章：  [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)  
-点击上面公众号卡片关注  每周二早上八点原创更新
-
-和你一起用数据赋能成长
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+一旦你能熟练运用多元思维模型，懂得用思维去驾驭工具，那么数据认知水平将会迅速得到提升。 

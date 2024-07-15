@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8Vu7wX1CboKwHxZKrHWEiaGm6Me1gxpKV3qEEwYvUTiaSF0QGh2JXPn3weg/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：边际思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-
 最近，我看到一篇文章：  [ 不要笑话那朵玫瑰
 ](https://mp.weixin.qq.com/s?__biz=MjM5OTM3NjIyMA==&mid=2651644458&idx=1&sn=2f2c493f28cec37aa7a259fd05e20476&scene=21#wechat_redirect)
 ，其中关于玫瑰花的故事，让我联想到「 **边际思维** 」。
@@ -125,44 +107,4 @@ __ _ _ _ _
 从某种意义上来说， **选择比努力更重要** 。学会正确运用边际思维，你将会做出更好的选择。
 
 参考资料：  《经济学的思维方式》（保罗·海恩等，2023年）  《经济学的意义》（姚洋，2023年）  《经济学好实用》（丹尼·罗德里克，2023年）
-《薛兆丰经济学讲义》（薛兆丰，2018年）  《思维导图高效决策法》（西蒙·米勒等，2021年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《薛兆丰经济学讲义》（薛兆丰，2018年）  《思维导图高效决策法》（西蒙·米勒等，2021年）

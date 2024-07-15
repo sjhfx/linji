@@ -1,21 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0lotmUYmsepTFGdyibRGpsRub1ib8lViciau7EUt5JNfXNq0RSt2Gyias6Nduf9LFcraI3AFpl4OxRibug/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：GRPI 模型
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
 在工作中，我们通常都属于某个团队中的一员。
 
 在团队中，如果出现 **目标不清晰、职责不明确、流程不规范、或者与同事的关系不和谐等情况** ，就会影响工作的效率、质量和体验。
@@ -165,42 +147,3 @@ L. 团队讨论允许开放地表达不同意见和感受（5）
 ，也就是把 GRPI 模型反过来用，从互动的人际关系出发， **先解决心情，再解决事情** ，如此才能更好地进行问题诊断和分析研究，进而更加高效地化解难题。
 
 **总之，学习和运用 GRPI 模型，有助于打造高绩效团队，这是迈向成功的重要因素。**
-
-相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0wbduHslWPSAU51u2Tn6hd8MBKK10rnk3jzPOxNrC6Dib21WmL1JjDgu9T4ibIITdgwcqqOzyRtP7Q/640?wx_fmt=png)
-
-↑点击此卡片关注↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

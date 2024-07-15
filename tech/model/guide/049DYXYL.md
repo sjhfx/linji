@@ -1,25 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0AwmVic7k1770vnfiaByyoC0fVJAsYEDrBKu5tq7tO7cib4BeZ1loezNtQeibJ92vsIRx0mJL9uoKOibw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：第一性原理
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 49 种： **第一性原理** 。
-
 **1\. 为什么学习第一性原理？**
 
 在电影《教父》中，有一句经典的台词：
@@ -149,43 +127,4 @@ SpaceX、电动汽车特斯拉公司等，他的梦想是让人类能够移民�
 很多人因为缺乏对问题本质的深入思考，不知道自己到底想要什么，人云亦云，随波逐流，盲目跟风，结果白白浪费了很多宝贵的时间。  ** **
 
 运用第一性原理，建立一套属于自己的系统能力，打造一套属于自己的核心算法，学会看透事物的本质，把时间才会花在更有价值的地方，这样就能让生活变得更加美好。
-
-相关文章： [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-点击上面公众号卡片关注  每周二早上八点原创更新  和你一起用数据赋能成长
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-  
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
 

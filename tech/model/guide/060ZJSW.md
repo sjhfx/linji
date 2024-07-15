@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1dbFU5iaawVDrp7kviaLGNSgDsYOviak2PJQWwwURibicyKedo6FyBKFq3MFGgOsUDcYiay8DzXg9PzTbg/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：终局思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  假设你的人生即将走到终点，你现在最想做些什么呢？  下面介绍  [ 100 种分析思维模型
+假设你的人生即将走到终点，你现在最想做些什么呢？  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 60 种： **终局思维** ，它能帮助我们提升决策的质量，减少由于决策失误带来的遗憾。  **1\. 为什么学习终局思维？**
 学习终局思维的好处有很多，简单来讲，主要包括 2 个方面：  **① 提升决策质量** 终局思维可以让我们提前思考最终的结果，  预测未来发展的趋  势，
@@ -71,40 +55,4 @@ __ _ _ _ _
 
 《远见：如何规划职业生涯 3 大阶段》（布赖恩·费瑟斯通豪，2017）
 
-《最小阻力之路》（罗伯特·弗里茨，2021）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-作者简介：林骥，《数据化分析》作者，从 2008 年开始从事数据分析相关工作，致力于用数据化解难题，让分析更加有效，用数据赋能成长，让人生更加美好。
-
-点击上面公众号卡片关注
-
-每周二早上八点原创更新  和你一起用数据化解难题
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《最小阻力之路》（罗伯特·弗里茨，2021） 

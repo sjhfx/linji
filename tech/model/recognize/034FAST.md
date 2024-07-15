@@ -1,24 +1,4 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo0sVLjXJE4jXRD1Q9ReJsNfibya0IkdQkkpR9BuZ30aR4x6kU0bqBKNHfL6Bjib9D1DwUicMrPOeRuibQ/0?wx_fmt=jpeg)
-
-#  如何用 FAST 模型进行精细化运营？
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-  
-
-今天  介绍一种衡量用户运营健康度的模型： **FAST** **** **模型**
+下面介绍一种衡量用户运营健康度的模型： **FAST** **** **模型**
 ，它可以从数量和质量上来衡量用户运营的健康度，通过对人群进行适当的划分，让运营变得更加精细化  ** 。  **
 
   
@@ -74,38 +54,4 @@ uperiority  高价值  会员总量  ** ④  ** **T** hriving 会员活跃率
 从上面的应用案例可以看出，分析思维模型的应用往往不是孤立的，而是互相配合、交叉验证的关系。  
 对于同一个问题，可能存在着多种不同的解决方案，选择适合的模型和方法，才能对业务问题进行改进，让数据分析在业务中发挥更加重要的作用。  
   
-灵活运用分析思维模型，关键在于深刻理解业务的背景，结合业务的实际情况，做出更加明智的决策。  
-  
-相关文章： [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)  
-参考：  《数据运营》
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+灵活运用分析思维模型，关键在于深刻理解业务的背景，结合业务的实际情况，做出更加明智的决策。 

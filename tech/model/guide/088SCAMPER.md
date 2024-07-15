@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo13lJU5hPN6N8LiaBm03ibafTNwZOhJ2htGxtsJ073ZHVKRTF582GLRpRReMzmV6OrjPTWWkvg40hyw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：SCAMPER 模型
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  在我们的日常工作、生活和学习中，创造性思维正在变得越来越重要。
+在我们的日常工作、生活和学习中，创造性思维正在变得越来越重要。
 无论是解决一些小问题，还是想要取得大突破，可能都需要我们发挥创意和想象力。  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 88 种： **SCAMPER 模型** ，它能帮助我们 **培养创造性思维，提升解决问题的能力** 。  **1\. 为什么学习 SCAMPER
@@ -68,44 +52,4 @@ SCAMPER 模型进行分析和优化。  **① 替换（Substitute）** ：考虑
 来辅助记忆和赋予意义，这也是一个锻炼创意思维的过程。  例如，我编了一个简短的小故事： **替整** 个团队 **调** 休（ **修**
 的谐音），结果却没有调好， **变** 成一件 **消** 除和 **重** 组的工作。
 你可以自由想象上面故事的场景，或者另外再编一个新的故事，你的联想越丰富，就能记得越牢固。  让我们一起学习和运用 SCAMPER 模型，开启创新思考之旅。
-延伸阅读：  《创新能力训练》（朱洁，2020年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2wnePy2w2NuLaicpGiaDsyibMzKibAicuvMt5K2AZoueWhlL9e14F1gzlQN3FDlm8nlHwj2VA1ZMjwo1Q/640?wx_fmt=png)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+延伸阅读：  《创新能力训练》（朱洁，2020年）

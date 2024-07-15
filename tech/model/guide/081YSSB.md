@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0NBh7uW9kPnr7KceYW89luA5W3WFia7AeN1licYQMpp6dLXJxicicibAEXrQvmhIgzdDHO8uRMiaBWUBQA/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：优势思维
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  你是否知道自己的优势是什么？  下面介绍  [ 100 种分析思维模型
+你是否知道自己的优势是什么？  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 81 种： **优势思维** ，它能帮助我们 **发现并发挥自身的优势** 。  **1\. 为什么学习优势思维？**
 学习优势思维的好处有很多，主要包括：  **① 发现个人优势**
@@ -82,47 +66,4 @@ __ _ _ _ _
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo15zVVa0wX0IGxqStAMALJVpybeDDuMEGYWHcAIYnLOicEw91tEIJiblia4yK88kao9uSx6OBYe3foFA/640?wx_fmt=png&from=appmsg)
 由于制作「优势识别表 2.0」花了我不少时间，所以适当收取一点费用， **优惠期** **特价** **28 元** 。
 非常感谢你的信任与支持，请你认真考虑清楚之后再联系我， **不要冲动购买** 。  延伸阅读：  《发现你的天赋》（[英]肯·罗宾逊，2015年）
-《盖洛普优势识别器 2.0》（[美]汤姆·拉思，2016年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0NBh7uW9kPnr7KceYW89luJd3PHlDrPdxXDXqUdkgTUK6f8cjXqw3cgAs12fJbMqyMYGUcn8IAxw/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑  
-** 封面故事  ** ：用 AI 生成的一张图，其中有一匹白马在森林的缝隙中奔跑。有双重的含义，一是代表林中之骥，二是代表白驹过隙。  
-源自《庄子·知北游》：「 **人生天地之间；若白驹之过隙；忽然而已。** 」  
-用来比喻人生非常短暂，时间转瞬即逝，就像白马飞快地穿过一道缝隙。生命是非常宝贵的，我们应该珍惜时间，过好当下生活的每一天。
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《盖洛普优势识别器 2.0》（[美]汤姆·拉思，2016年）

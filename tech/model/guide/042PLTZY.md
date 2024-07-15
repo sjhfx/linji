@@ -1,25 +1,3 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0blpT1ficPfCpovWAzPyVxLGHK8pg4qqrvqTruF13Cr7TkLrZpezvNBpAB16v49yaBlbG2tQD25yw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：帕累托最优
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。
-
-下面继续更新 [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-文章，今天介绍第 42 种分析思维模型：  帕累托最优  。
-
 **1\. 模型介绍**
 
 帕累托是意大利的经济学家，他不仅提出了著名的「  [ 二八法则
@@ -58,46 +36,4 @@ __ _ _ _ _
 你不妨思考一下：自己所在的行业最看重什么样的专业能力组合？如何让自己获得以上的专业能力组合？自己处在帕累托最优曲线的什么位置？
 要想获得更多的发展机会，你需要做出适当的改变，并具有一定的灵活性。
 把不同的专业技能组合在一起，将会带来更大的价值。比如，一个有销售能力的工程师，或者一个懂软件编程的数据分析师，都会更有价值。
-对我来说，重点发展的专业能力组合是：  数据分析和技术研发。  展望未来，我希望  运用成长型思维，不断增强自己的核心竞争力  。  相关文章： [ 100
-种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)  
-推荐文章：  [ 数据分析学习指南V3.0
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480464&idx=1&sn=705acda96cbfe2e2b1be5972457ef251&chksm=8bf20982bc8580943fad25a83a462188c8d6e8258b544557b377d4d8ca4c7d78de4120e5c5a0&scene=21#wechat_redirect)  
-点击上面公众号卡片关注  每周二早上八点原创更新
-
-和你一起用数据赋能成长
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-  
-  
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+对我来说，重点发展的专业能力组合是：  数据分析和技术研发。  展望未来，我希望  运用成长型思维，不断增强自己的核心竞争力  。

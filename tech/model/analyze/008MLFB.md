@@ -1,24 +1,4 @@
-![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6uwibCoU8TtYZJJjludlsgFvqKwJCh6X6sKAIiaafkWhrs7yXR0A7bIzyQ/0?wx_fmt=jpeg)
-
-#  100种分析思维模型（008号）
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  
-
-今天介绍第  **008** 号分析思维模型：  **幂律分布模型** 。
-
-**1\. 模型介绍**
+## **1\. 模型介绍**
 
 幂律分布，也称为长尾分布，因为把这种分布画成图形时，会有一条很长的尾巴形状。
 
@@ -38,7 +18,7 @@ __ _ _ _ _
 
 当弱者听到这句话，会把它当作借口，而强者则把它当成警钟。  
 
-**2\. 应用举例**  
+## **2\. 应用举例**  
 
 幂律分布  的产生  ，通常要求非独立性，一般以正反馈的形式出现。  
 
@@ -63,7 +43,7 @@ __ _ _ _ _
 更为引人注目的是，类似的规模法则还适用于心率、基因组长度、大脑灰质、寿命、树木高度等等，当取对数之后，画出来的图形都是一条直线，而且斜率是 1/4
 的整数倍，所以有科学家推测，这是因为我们生活在四维空间中。
 
-**最后的话**
+## **最后的话**
 
 幂律分布让世界变得难以捉摸，让一些概率非常小的极端事件发生，就像超大规模的自然灾害，虽然发生的概率极低，但我们知道它一定会发生，却又不知道到底什么时候会发生。
 
@@ -78,64 +58,3 @@ __ _ _ _ _
 虽然幂律分布模型让人难以预料，但它却能  帮助我们更好地认识世界  ，让世界变得更有活力，是我们对抗熵增的一种有效武器。
 
 分析思维模型为探索世界提供助力，而经验和知识就像催化剂，帮助我们加速理解事物的本质。
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/n0NOdjkypXiccrnz7SvRYPwwblnYyZU2xHfzEt8V1LXPK6ibrQ9BaQ2YH7ZFx3CbYkgXbZeuPUc6PNrA57Fu2y8Q/640?wx_fmt=gif)
-
-往期推荐
-
-[
-
-100种分析思维模型（007号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477503&idx=1&sn=49d9b1e1355358a85a3ae15198ff2757&chksm=8bf235edbc85bcfb903fc46f98af249252a5265179fd88593c72172105424670f94e00dd9900&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（006号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477417&idx=1&sn=f12ee0f36a8b459060dcb517088b22d8&chksm=8bf235bbbc85bcadf8b2ae77e3ec9e146ca3ae03a294f5d76d021a57b59030ef1685debd50cc&scene=21#wechat_redirect)
-[
-
-100种分析思维模型（005号）
-
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&chksm=8bf23662bc85bf74762ea1476323160388ec0ee56df605c39c39f62448e52a8d6429e402ce58&scene=21#wechat_redirect)
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/iaOib7ro3AqzmN91fpfXS59xeURluqkMibVtr0e3xHBVBO500PJCI3ZftE81I2WiaClictvjqLE91j0mkUibSBXr1yug/640?wx_fmt=png)
-
-关注林骥的公众号，更多干货早知道。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0IvXVY910XS9h5qCC6kuVt2ZPOUWUib2SrDxeYP8iawPXDOIDzPb0dUgtXtOj30gB0QqnxAM6iaEehw/640?wx_fmt=png)
-欢迎加入我的  **免费** 知识星球，点击左下角的  阅读原文  即可加入。  如果你觉得文章对你有帮助或启发，麻烦你动动手指支持鼓励一下，
-分享、收藏、点赞、  在  看，  谢谢！
-
-#  ** ☟分享  ** ☟收藏  ** ****** ❤  ** ** ** ** ** ☟  ** ** 点赞 ☟  ** ** 在看  **
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-

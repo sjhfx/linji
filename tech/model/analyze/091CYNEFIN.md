@@ -1,20 +1,4 @@
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3heDMGulTc9pC6JT2PkWlH2zbyIkLDTDKFR5icpL57VOgXXgibJHDbwjGesDicpxj6c0ydrZMNddvYw/0?wx_fmt=jpeg)
-
-#  100种分析思维模型之：Cynefin框架
-
-原创  林骥  [ 林骥 ](javascript:void\(0\);)
-
-**林骥**
-
-微信号  linjiwx
-
-功能介绍  《数据化分析》作者，从事数据分析工作 16 年，致力于用数据化解难题，让分析更加有效。
-
-__ __
-
-__ _ _ _ _
-
-你好，我是林骥。  我们在日常工作、生活和学习中，经常会遇到各种各样的问题，有些问题看似非常简单，有些问题则相当复杂。
+我们在日常工作、生活和学习中，经常会遇到各种各样的问题，有些问题看似非常简单，有些问题则相当复杂。
 你是否知道：如何才能更好地看透问题的本质，并找到合适的解决办法？  下面介绍  [ 100 种分析思维模型
 ](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
 的第 91 种： **Cynefin 框架** ，它能 **帮助我们提升识别和解决问题的能力** 。  **1\. 为什么学习 Cynefin 框架？**
@@ -54,45 +38,4 @@ __ _ _ _ _
 如果你一直都在处理一些简单和容易的问题，那么你的能力就很难得到提升。所以，你应该多去解决一些复杂的问题，多去做那些困难而正确的事情。  运用 Cynefin
 框架，当你遇到混乱的问题时，不妨先行动起来，一开始不用想太多，只管去做，因为只有行动，可破焦虑。  总之，借助 Cynefin
 框架，你可以更好地识别问题所在的领域，并采取合适的应对策略， **** 从而实现更快的个人成长。  延伸阅读：
-《正确敏捷》（尤里根·赫斯伯格，2020年）  《精益数据方法论》（史凯，2022年）  相关文章：  [ 100 种分析思维模型系列
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-[
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-欢迎订阅我的专栏： **数据化分析案例库** 。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3heDMGulTc9pC6JT2PkWlHAxaDNLJCwkylx8JKAOkAGRGlq0ORp4Eib1WBS0gv8iaSw9IiciclQTk1zQ/640?wx_fmt=png&from=appmsg)
-
-↑ 点击此卡片关注 ↑
-
-↑  周二早八点阅读  ↑
-
-预览时标签不可点
-
-微信扫一扫  
-关注该公众号
-
-
-
-轻触阅读原文
-
-![](http://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3rBmMJ1emiaHxRCj3Om1wuZZCsgHvFSR3sVQrPsicIlRiaGUicJD8KCZibrmu0FzGBc6aBzfBz3HLIeDA/0?wx_fmt=png)
-
-林骥
-
-
-
-
-
-
-
-****
-
-
-
-****
-
-
-
-  收藏
-
+《正确敏捷》（尤里根·赫斯伯格，2020年）  《精益数据方法论》（史凯，2022年）
