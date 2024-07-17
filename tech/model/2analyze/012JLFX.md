@@ -2,14 +2,13 @@
 
 下面介绍**聚类分析模型** 。
 
-## **1\. 模型介绍**
+## **1. 模型介绍**
 
 聚类分析，也被称为群分析，就是把一些原来没有分类的数据，通过某种算法，让相似的数据「 **聚** 」在一起，划分为不同的「 **类**
+
 」，从而揭示出数据内在的特征和规律。
 
-比如说，我们现在有客户的性别、年龄、地区等个人信息，还有 [ RFM
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&scene=21#wechat_redirect
-"RFM") 等购物信息，如果是要分析客户的购物特征，那么可以先排除客户的个人信息，只使用购物信息进行聚类，从而避免聚类结果被个人信息所影响。
+比如说，我们现在有客户的性别、年龄、地区等个人信息，还有 [RFM](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653477360&idx=1&sn=be2c4457318600fd9b5702c061c63672&scene=21#wechat_redirect "RFM") 等购物信息，如果是要分析客户的购物特征，那么可以先排除客户的个人信息，只使用购物信息进行聚类，从而避免聚类结果被个人信息所影响。
 
 当我们得到聚类结果之后，可以再结合客户的个人信息，把客户分成若干个不同的类别，给客户打上相应的标签，按照二八法则，识别出优质客户，提供个性化的服务，从而为客户创造价值。
 
@@ -31,79 +30,91 @@
 
 在商业上，可以用来发现不同的客户群体；在生物上，可以用来对动植物和基因进行分类。
 
-## **2\. 应用举例**
+## **2. 应用举例**
 
 下面以 sklearn 中自带的鸢尾花数据集为例，对它进行聚类分析。
 
 为了方便进行数据可视化，我们只选取数据集中的 2 个变量：花萼长度和花瓣长度。
 
-```python
-# 导入相关库
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap
-from sklearn import datasets
-from sklearn.cluster import KMeans
+```python # 导入相关库
+
+import numpy as np import matplotlib.pyplot as plt from matplotlib.colors import ListedColormap from sklearn import datasets from sklearn.cluster import KMeans 
 
 # 加载鸢尾花数据集
-iris = datasets.load_iris()
+
+iris = datasets.load_iris() 
 
 # 为了方便可视化，只选取 2 个特征
+
 X = iris.data[:, [0, 2]]
 
 # 设置聚类的数量
-n_clusters = 3
+
+n_clusters = 3 
 
 # 调用 K-means 聚类算法
-km = KMeans(n_clusters)
-km.fit(X)
+
+km = KMeans(n_clusters) km.fit(X) 
 
 # 聚类的标签
+
 lbs = km.labels_
 
 # 聚类的中心点
+
 cts = km.cluster_centers_
 
 # 定义绘制决策边界的函数
+
 def plot_decision_boundary(model, axis):
+
     # 生成绘图数据
+
     x0, x1 = np.meshgrid(
+
         np.linspace(axis[0], axis[1], int((axis[1]-axis[0])*100)).reshape(-1,1),
-        np.linspace(axis[2], axis[3], int((axis[3]-axis[2])*100)).reshape(-1,1)
-    )
-    X_new = np.c_[x0.ravel(), x1.ravel()]
+
+        np.linspace(axis[2], axis[3], int((axis[3]-axis[2])*100)).reshape(-1,1)     )     X_new = np.c_[x0.ravel(), x1.ravel()]
+
     # 用模型进行预测
-    y_predict = model.predict(X_new)
-    zz = y_predict.reshape(x0.shape)
-    # 定义颜色
-    custom_cmap = ListedColormap(['#EF9A9A','#FFF59D','#90CAF9'])
-    # 绘图
+
+    y_predict = model.predict(X_new)     zz = y_predict.reshape(x0.shape)     # 定义颜色
+
+    custom_cmap = ListedColormap(['#EF9A9A','#FFF59D','#90CAF9'])     # 绘图
+
     plt.contourf(x0, x1, zz, cmap=custom_cmap) 
 
 # 设置图形大小
-plt.figure(figsize=(8, 6))
+
+plt.figure(figsize=(8, 6)) 
 
 # 绘制决策边界
-plot_decision_boundary(km, axis=[3, 8, 0, 8])
+
+plot_decision_boundary(km, axis=[3, 8, 0, 8]) 
 
 # 绘制散点图
+
 for c in range(n_clusters):
-    plt.scatter(X[lbs == c, 0], X[lbs == c, 1])
+
+    plt.scatter(X[lbs == c, 0], X[lbs == c, 1]) 
 
 # 画出每个聚类的中心点
-plt.scatter(cts[:, 0], cts[:, 1], marker='*', c='r', alpha=0.9, s=200)
+
+plt.scatter(cts[:, 0], cts[:, 1], marker='*', c='r', alpha=0.9, s=200) 
 
 # 显示图形
-plt.show()
-```
+
+plt.show() ```
 
 运行代码，结果如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0c2xTbl0MdLpOYqGR1sOVm8uHD8HrCcT6qF3lWS68wto5CB2wiaAFy0buErGwWAGhc4rhicGpzyVrw/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo0c2xTbl0MdLpOYqGR1sOVm8uHD8HrCcT6qF3lWS68wto5CB2wiaAFy0buErGwWAGhc4rhicGpzyVrw/640?wx_fmt=jpeg) 
 
 其中不同的颜色代表不同的类别，红色的五角星符号代表聚类的中心点。
 
-## **最后的话**
+## 
+
+**最后的话**
 
 做聚类分析的时候，首先要考虑解决的问题是什么，然后再选择适当的变量进行聚类。
 

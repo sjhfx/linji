@@ -1,18 +1,14 @@
-最近，我看到一篇文章：  [ 不要笑话那朵玫瑰
-](https://mp.weixin.qq.com/s?__biz=MjM5OTM3NjIyMA==&mid=2651644458&idx=1&sn=2f2c493f28cec37aa7a259fd05e20476&scene=21#wechat_redirect)
-，其中关于玫瑰花的故事，让我联想到「 **边际思维** 」。
+最近，我看到一篇文章： [不要笑话那朵玫瑰](https://mp.weixin.qq.com/s?__biz=MjM5OTM3NjIyMA==&mid=2651644458&idx=1&sn=2f2c493f28cec37aa7a259fd05e20476&scene=21#wechat_redirect) ，其中关于玫瑰花的故事，让我联想到「 **边际思维** 」。
 
 无论玫瑰花怎么努力，甚至付出生命的代价，都无法改变这个事实：她和她的孩子无法成为百合花。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8Vu38RvRlRnrxgic8EwHmm9lMZjsqIc88tUKsu5I5vey7sjWRbqFl7W15g/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8Vu38RvRlRnrxgic8EwHmm9lMZjsqIc88tUKsu5I5vey7sjWRbqFl7W15g/640?wx_fmt=png&from=appmsg) 
 
 也就是说，如果玫瑰花想要成为百合花，那么边际成本将会无限大，而边际收益却几乎为零。
 
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 83 种： **边际思维** ，它能帮助我们 **更好地理解世界运行的底层规律，进而做出更加明智的决策** 。
+下面介绍 [100 种分析思维模型](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect) 的第 83 种： **边际思维** ，它能帮助我们 **更好地理解世界运行的底层规律，进而做出更加明智的决策** 。
 
-**1\. 为什么学习边际思维？**
+**1. 为什么学习边际思维？**
 
 边际思维对我们每个人的发展都非常重要，主要原因包括：
 
@@ -23,6 +19,7 @@
 **② 促进创新思考**
 
 边际思维鼓励我们面向未来，  不留恋过去、不辜负现在、不惧怕未来
+
 ，从变化中寻找新的机会和创新点，通过不断试验和优化调整，发现新的方法和解决方案，进而促进创新思考。
 
 **③ 适应环境变化**
@@ -31,13 +28,13 @@
 
 总之，通过学习边际思维，我们可以更好地 **发现问题、分析问题和解决问题** ，避免掉入情绪化的陷阱，进而做出更加理性的选择和决策。
 
-**2\. 什么是边际思维？**
+**2. 什么是边际思维？**
 
 「 **边际** 」是经济学中的一个核心概念，表示 **增量引起的变化** ，核心是「 **向前看** 」。
 
 按照《薛兆丰的经济学课》中介绍的「 **糖果机模型** 」：想象有一种糖果机，把代币塞进去，就能得到相应的糖果。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuEmYL8YCV7B7ImfyX9ibYGhfstKHJHFocr6KNgDCeTGbtuNZaZ2ibx8tQ/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuEmYL8YCV7B7ImfyX9ibYGhfstKHJHFocr6KNgDCeTGbtuNZaZ2ibx8tQ/640?wx_fmt=png&from=appmsg) 
 
 其中代币的生产需要投入原材料，比如时间、金钱、注意力、友情、土地、阳光、能源等。因为原材料数量有限，所以代币的数量有限。
 
@@ -47,7 +44,7 @@
 
 刚开始的时候，随着施肥量的增加，粮食产量也会随之增加。但是，加到某个点之后，施肥量对于粮食产量增长的影响会越来越小，甚至过度施肥还会降低粮食产量。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuNOqECv8YPlsEwuH84YCGQ9mC0Wlz4oe0l5LNbpbsvmJFSrxib1P2Jpg/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuNOqECv8YPlsEwuH84YCGQ9mC0Wlz4oe0l5LNbpbsvmJFSrxib1P2Jpg/640?wx_fmt=png&from=appmsg) 
 
 再比如，我们在非常饿的时候，吃第一口饭带来的满足感很大，等到吃饱之后，再吃下去的话，可能就会感觉撑得慌。
 
@@ -59,11 +56,11 @@
 
 大多数人都会舍不得离开，因为人们通常会受到「沉没成本」的影响。当你熟练运用边际思维之后，就会果断选择马上离开电影院，把宝贵的时间用来做其他更有价值的事情。
 
-**3\. 怎么运用边际思维？**
+**3. 怎么运用边际思维？**
 
 **不要小看边际思维，如果你懂得合理运用它，将会对你的工作、生活和学习产生很大的帮助。**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuaFAZ6EpUTqGiaWuE0LdXiapicuZudcveYB5ewShBKEBXPg0Iibfe2hj1uA/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3EVBOoyW2rokhV7ibz4D8VuaFAZ6EpUTqGiaWuE0LdXiapicuZudcveYB5ewShBKEBXPg0Iibfe2hj1uA/640?wx_fmt=png&from=appmsg) 
 
 比如，如果你想销售一款产品，或者推出一个方案，那么你的工作重点，应该努力去争取那些处在「边际」上的人，也就是那些摇摆不定、犹犹豫豫的人，想办法把这些人转变过来，而不是试图改变那些强烈反对你的人，这样才能有效提升成功的概率。
 
@@ -77,8 +74,7 @@
 
 **但是，如果你懂得运用边际思维，就可以先把问题仔细梳理一遍，确定哪些因素是需要重点考虑的，然后想办法只变动其中一个因素，尽量让其他因素保持不变，看看会发生什么样的变化，这样就容易找到问题的根本原因。**
 
-比如，你想要买件衣服，看中了一件自己比较满意的衣服，售价是 200 元，当你准备付款的时候，服务员说第二件半价，相当于平均每件只要 150
-元，看起来更划算，此时你会怎么选？
+比如，你想要买件衣服，看中了一件自己比较满意的衣服，售价是 200 元，当你准备付款的时候，服务员说第二件半价，相当于平均每件只要 150 元，看起来更划算，此时你会怎么选？
 
 运用边际思维，你不应该去计算平均单价，否则容易掉入商家营销的思维陷阱；你应该思考的是：第二件衣服能给自己带来多大的满足感？是否值得额外再花 100 元？
 
@@ -107,4 +103,5 @@
 从某种意义上来说， **选择比努力更重要** 。学会正确运用边际思维，你将会做出更好的选择。
 
 参考资料：  《经济学的思维方式》（保罗·海恩等，2023年）  《经济学的意义》（姚洋，2023年）  《经济学好实用》（丹尼·罗德里克，2023年）
+
 《薛兆丰经济学讲义》（薛兆丰，2018年）  《思维导图高效决策法》（西蒙·米勒等，2021年）

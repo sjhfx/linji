@@ -8,7 +8,7 @@
 
 下面介绍的**数学思维** ，能**帮助我们提升抽象思维能力，进而透过表面现象看清事物的本质** 。 
 
-**1\. 为什么学习数学思维？**
+**1. 为什么学习数学思维？**
 
 很多人在学习数学的时候，只是为了应付考试，死记硬背书本上的公式、定理等，再通过不断地刷题，希望能够考出好成绩，学习的过程相当痛苦，等考完试之后，就再也不想学习数学了。
 
@@ -22,12 +22,13 @@
 
 如果没有数学思维，很多问题可能会面临无法解决的困境。  
 
-**2\. 什么是数学思维？** 
+**2. 什么是数学思维？**
+
+ 
 
 数学是使用 **符号** 来研究「 **关系** 」的科学。  
 
-比如，1 + 2 = 3，其中 1、+、2、=、3
-都是符号，表示 1 和 2 在这里的关系是相加，相加的结果等于 3。  
+比如，1 + 2 = 3，其中 1、+、2、=、3 都是符号，表示 1 和 2 在这里的关系是相加，相加的结果等于 3。  
 
 事实上，「林骥」也只是一个符号，方便别人称呼我、找到我，与我建立关系。
 
@@ -45,7 +46,7 @@
 
 **④ 复杂而浅显的数学知识**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWS3RJooMyHcicd4PRx9dsoIP5ibQy3S7jGKooAe3NHcU8Dqjua6kZo0mug/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWS3RJooMyHcicd4PRx9dsoIP5ibQy3S7jGKooAe3NHcU8Dqjua6kZo0mug/640?wx_fmt=png&from=appmsg) 
 
 下面分别简单举例说明。  
 
@@ -79,7 +80,9 @@
 
 只有通过数学的实际应用，掌握数学知识背后的思维，发现事物表象背后的规律，我们才能真正懂得「数学之美」。  
 
-**3\. 怎么运用数学思维？** 
+**3. 怎么运用数学思维？**
+
+ 
 
 数学思维在数据科学、人工智能、金融、工程、通信、自然语言处理等领域都有着广泛的应用。  
 
@@ -88,12 +91,18 @@
 「黄金分割法」还能广泛应用于绘画、建筑、摄影、雕塑、投资等领域。  
 
 比如，在达芬奇的作品《蒙娜丽莎》中，可以画一条符合黄金比例的螺旋线，正好经过她的鼻孔、下巴、头顶、手背等重要部位，因此增添了美感。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWSTKzwdoojInfxYZNsfLiaN2rV724oViblRE8eLPBhE6zhYJ9rZno76jiaA/640?wx_fmt=png&from=appmsg)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWSTKzwdoojInfxYZNsfLiaN2rV724oViblRE8eLPBhE6zhYJ9rZno76jiaA/640?wx_fmt=png&from=appmsg) 
 
 再比如，上海东方明珠塔也运用了黄金分割的比例，使其更加协调美观。
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWSiaOZj5O3GaFdghLmd8z9HoKUeO3O0x0Zv44abDyiaXZlw3jzMOuGuWvw/640?wx_fmt=jpeg&from=appmsg)
 
-只要你留心观察，就会发现，在生活中类似的例子还有很多。  **最后的话** 英国著名数学家、哲学家伯特兰·罗素说：
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo1cgLDMgfJxsXPcsSTH7jWSiaOZj5O3GaFdghLmd8z9HoKUeO3O0x0Zv44abDyiaXZlw3jzMOuGuWvw/640?wx_fmt=jpeg&from=appmsg) 
+
+只要你留心观察，就会发现，在生活中类似的例子还有很多。  
+
+**最后的话**
+
+ 英国著名数学家、哲学家伯特兰·罗素说：
 
 > 学习数学的精髓时不能只抱着应付差事的心理，而应该把这些知识融入日常思维，并通过各种激励手段使它们反复出现在你的脑海里。
 
@@ -112,5 +121,8 @@
 《原来数学可以这样学》（刘薰宇，2020年） 
 
 《数学之美》（吴军，2020年）  
+
  
+
 《吴军数学通识讲义》（吴军，2021年）
+

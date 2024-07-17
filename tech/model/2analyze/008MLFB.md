@@ -1,8 +1,8 @@
-## **1\. 模型介绍**
+## **1. 模型介绍**
 
 幂律分布，也称为长尾分布，因为把这种分布画成图形时，会有一条很长的尾巴形状。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6ukJotIf1RcLaRmiclyqs3eqc1wB7cicECOGLRwgqa2ibvCfR9hPibIicTCiaQ/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6ukJotIf1RcLaRmiclyqs3eqc1wB7cicECOGLRwgqa2ibvCfR9hPibIicTCiaQ/640?wx_fmt=jpeg) 
 
 城市人口、物种灭绝、企业规模、链接点击、书籍销量、  大型灾难  等等，都属于幂律分布。
 
@@ -18,7 +18,7 @@
 
 当弱者听到这句话，会把它当作借口，而强者则把它当成警钟。  
 
-## **2\. 应用举例**  
+## **2. 应用举例**  
 
 幂律分布  的产生  ，通常要求非独立性，一般以正反馈的形式出现。  
 
@@ -31,19 +31,22 @@
 社会学家把这种现象称为 **马太效应** 。
 
 后来，人们发现类似的现象广泛存在，  经济学家帕累托发现，20% 的人占有 80% 的财富，所以也称为  **二八法则** 。在管理学等领域中，如果能
+
 抓住决定 80% 的那 20% 关键部分，就能更好的化解难题。
 
 1932 年，生物学家克莱伯做了一组实验，他把各种哺乳动物的体重的对数作为横坐标，代谢率的对数作为纵坐标，发现  所有动物都分布一条直线的附近，
+
 小到几十克的老鼠  ，  大到几  吨  重的大象，  竟然  无一例外。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0r4IQuVCXjl4ibkPA55pOyDjj9j8z7xlUxWQ5RWeNxDEricb9oBceWkNyMZaS44VCOQkxjrmHVkmrQ/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0r4IQuVCXjl4ibkPA55pOyDjj9j8z7xlUxWQ5RWeNxDEricb9oBceWkNyMZaS44VCOQkxjrmHVkmrQ/640?wx_fmt=png) 
 
 人们把这种现象称为  克莱伯定律  ，也称为代谢率规模法则，它适用于所有种群，包括哺乳动物、鸟类、鱼类、植物和细胞。
 
-更为引人注目的是，类似的规模法则还适用于心率、基因组长度、大脑灰质、寿命、树木高度等等，当取对数之后，画出来的图形都是一条直线，而且斜率是 1/4
-的整数倍，所以有科学家推测，这是因为我们生活在四维空间中。
+更为引人注目的是，类似的规模法则还适用于心率、基因组长度、大脑灰质、寿命、树木高度等等，当取对数之后，画出来的图形都是一条直线，而且斜率是 1/4 的整数倍，所以有科学家推测，这是因为我们生活在四维空间中。
 
-## **最后的话**
+## 
+
+**最后的话**
 
 幂律分布让世界变得难以捉摸，让一些概率非常小的极端事件发生，就像超大规模的自然灾害，虽然发生的概率极低，但我们知道它一定会发生，却又不知道到底什么时候会发生。
 

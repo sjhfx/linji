@@ -1,4 +1,4 @@
-**1\. 为什么？**
+**1. 为什么？**
 
 在竞争环境日益复杂的今天，选择一个适合自己的战略非常重要。
 
@@ -8,14 +8,13 @@
 
 这就好比一个拳击高手，往往都擅长随机应变打出组合拳。
 
-**2\. 是什么？**
+**2. 是什么？**
 
-SPACE 矩阵，全称叫「战略地位与行动评价矩阵」，是 Strategic Position and Action Evaluation Matrix
-的英文首字母缩写。
+SPACE 矩阵，全称叫「战略地位与行动评价矩阵」，是 Strategic Position and Action Evaluation Matrix 的英文首字母缩写。
 
 SPACE 矩阵的横轴代表竞争优势和产业优势，纵轴代表财务优势和环境稳定性，组成四个象限，对应四种战略模式：进取、保守、防御和竞争。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4mA8k3ehzibC6U1zUDWFl8kFZia1h1AfvI9VULHAUkBaPaAiamuJ2CKNZw/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4mA8k3ehzibC6U1zUDWFl8kFZia1h1AfvI9VULHAUkBaPaAiamuJ2CKNZw/640?wx_fmt=png) 
 
 其中财务优势和竞争优势属于内部因素，产业优势和环境稳定性属于外部因素。
 
@@ -35,7 +34,7 @@ SPACE 矩阵的横轴代表竞争优势和产业优势，纵轴代表财务优�
 
 衡量环境稳定性的指标通常包括：技术变化、通货膨胀、需求变化性、竞争压力等。
 
-**3\. 怎么用？**
+**3. 怎么用？**
 
 运用 SPACE 矩阵的步骤如下：
 
@@ -61,17 +60,17 @@ SPACE 矩阵的横轴代表竞争优势和产业优势，纵轴代表财务优�
 
 首先，对相关变量分别进行评分，并计算各组变量的总分：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4WdE8t0lIQ9Wb1UPcq5Rnyiapc0CkgL4olMBJQ84xODR3k59z5JYyNXQ/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4WdE8t0lIQ9Wb1UPcq5Rnyiapc0CkgL4olMBJQ84xODR3k59z5JYyNXQ/640?wx_fmt=png) 
 
 其次，计算各组变量的平均分：
 
-财务优势的平均分=23/6=3.83
+财务优势的平均分=23/6=3.83 
 
-竞争优势的平均分=-15/7=-2.14
+竞争优势的平均分=-15/7=-2.14 
 
-产业优势的平均分=33/7=4.71
+产业优势的平均分=33/7=4.71 
 
-环境稳定性的平均分=-14/6=-2.33
+环境稳定性的平均分=-14/6=-2.33 
 
 将横轴的两个平均分相加=-2.14+4.71= **2.57**
 
@@ -79,7 +78,7 @@ SPACE 矩阵的横轴代表竞争优势和产业优势，纵轴代表财务优�
 
 把相加后的两个得分（2.57, 1.5），标注在坐标轴上，画一个交叉点，并连接原点，得到分析结果如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4638KXGPcKUn8e5SgBbH27VDEAC9PdhC9axSwM9XjSGlMICcHoqYYlA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3uricjQF7sQ2taHte5x28d4638KXGPcKUn8e5SgBbH27VDEAC9PdhC9axSwM9XjSGlMICcHoqYYlA/640?wx_fmt=png) 
 
 根据上面的分析结果，该医院应该采取「进取型战略」，比如加大经费投入、引进高端人才、注重专科特色等。
 

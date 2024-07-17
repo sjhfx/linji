@@ -2,45 +2,43 @@
 
 在团队中，如果出现 **目标不清晰、职责不明确、流程不规范、或者与同事的关系不和谐等情况** ，就会影响工作的效率、质量和体验。
 
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 65 种： **GRPI 模型** ，它能帮助管理者 **提升团队的绩效** ，也能帮助团队成员更好地互动。
+下面介绍 [100 种分析思维模型](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect) 的第 65 种： **GRPI 模型** ，它能帮助管理者 **提升团队的绩效** ，也能帮助团队成员更好地互动。
 
-**1\. 为什么学习 GRPI 模型？**
+**1. 为什么学习 GRPI 模型？**
 
-通过学习和运用 GRPI
-模型，可以让我们更加清晰地定义目标，明确角色的职责范围，建立规范的工作流程，并促进有效的互动交流，建立一个更加强大、更加高效、更加和谐的团队。
+通过学习和运用 GRPI 模型，可以让我们更加清晰地定义目标，明确角色的职责范围，建立规范的工作流程，并促进有效的互动交流，建立一个更加强大、更加高效、更加和谐的团队。
 
-如果我们不懂得运用 GRPI
-模型，就有可能会出现目标不清、角色混淆、流程混乱、沟通不畅等问题，导致团队的工作效率低下，团队士气低落，甚至可能导致项目失败等严重后果。
+如果我们不懂得运用 GRPI 模型，就有可能会出现目标不清、角色混淆、流程混乱、沟通不畅等问题，导致团队的工作效率低下，团队士气低落，甚至可能导致项目失败等严重后果。
 
 **GRPI 模型是团队成功的黄金法则，它将目标、角色、流程与互动紧密结合起来，形成一个有机的整体，让团队发展能够更加顺利，进而有效提升绩效和完成目标。**
 
-**2\. 什么是 GRPI 模型？**
+**2. 什么是 GRPI 模型？**
 
 GRPI 模型是 **G** oal（目标）、 **R** ole（角色）、 **P** rocess（流程）、 **I**
+
 nteraction（互动）的首字母缩写。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lotmUYmsepTFGdyibRGpsRb7vyAOYlHVt2cQcHSibe4hhrUMic0tk5rL61iadDJPBPKIKGtHqMJErCQ/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lotmUYmsepTFGdyibRGpsRb7vyAOYlHVt2cQcHSibe4hhrUMic0tk5rL61iadDJPBPKIKGtHqMJErCQ/640?wx_fmt=png) 
 
 **① Goal（目标）**
 
 目标是团队成功的基石，目标通常需要遵循 **SMART** 原则，也就是： **S** pecific（具体的）、 **M**
+
 easurable（可衡量的）、 **A** ttainable（可达到的）、 **R** elevant（相关的）、 **T** ime-
+
 bound（有时间限制的）。
 
 比如，某数据分析团队的目标是：在 2023 年 12 月 31 日之前，累计制作完成 60 份专项数据分析报告，平均 80 分以上。
 
 由分管领导或问题提出者进行评分，100 分代表非常有价值或完美解决问题，80 分代表很有价值或很好地解决问题，60 分代表部分有价值或部分地解决问题 ……
+
 0 分代表完全没有价值或对解决问题没有任何帮助。
 
 虽然主观评分存在不够客观的问题，但是让目标变得具体、可衡量之后，有助于提升工作的质量，也能方便检验最终是否达成目标。
 
 **每个团队成员都需要清楚地了解各自的工作目标，并对实现这些目标有强烈的动力和共识。**
 
-你知道自己在团队中的目标是什么吗？如果还不清楚的话，推荐你学习一下 [ **OKR**
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653474029&idx=1&sn=7f59ff75e63dac3fb9429b490b0506ed&chksm=8bf2237fbc85aa69595641c127effdbb1c4bf2dcbe66dafea696e822d52290b079540914d833&scene=21#wechat_redirect)
-目标管理法，它能帮你更好地实现目标。
+你知道自己在团队中的目标是什么吗？如果还不清楚的话，推荐你学习一下 [**OKR**](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653474029&idx=1&sn=7f59ff75e63dac3fb9429b490b0506ed&chksm=8bf2237fbc85aa69595641c127effdbb1c4bf2dcbe66dafea696e822d52290b079540914d833&scene=21#wechat_redirect) 目标管理法，它能帮你更好地实现目标。
 
 **② Role（角色）**
 
@@ -58,9 +56,7 @@ D. 完善数据指标体系，提高数据产出的效率和价值；
 
 D. 参与研讨会议，认真执行领导交办的其他任务。
 
-你知道自己在团队中的角色定位吗？如果你还不清楚的话，推荐你学习一下 [ **权责利**
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481051&idx=1&sn=ab66647b1d60b37bb419a1da5f5c7623&chksm=8bf207c9bc858edfdd52c80ecc88559824829f18dffdbbb2b50fc4c3d67428d8f9428cc82492&scene=21#wechat_redirect)
-**模型** ，不妨主动去找领导沟通交流一下，明确自己的  权力、责任  和利益，避免在模糊不清的情况下苦苦挣扎。
+你知道自己在团队中的角色定位吗？如果你还不清楚的话，推荐你学习一下 [**权责利**](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481051&idx=1&sn=ab66647b1d60b37bb419a1da5f5c7623&chksm=8bf207c9bc858edfdd52c80ecc88559824829f18dffdbbb2b50fc4c3d67428d8f9428cc82492&scene=21#wechat_redirect) **模型** ，不妨主动去找领导沟通交流一下，明确自己的  权力、责任  和利益，避免在模糊不清的情况下苦苦挣扎。
 
 **③ Process（流程）**
 
@@ -84,11 +80,9 @@ D. 参与研讨会议，认真执行领导交办的其他任务。
 
 你与团队其他成员的关系怎么样？如果关系比较恶劣的话，推荐你学习沟通的方法，虽然不必与同事成为亲密的朋友，但是要努力成为一个值得被信赖的人。
 
-**3\. 怎么运用 GRPI 模型？**
+**3. 怎么运用 GRPI 模型？**
 
-我们可以运用  [ 数据分析的细分思维
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478494&idx=1&sn=7fb2bb4f04f2c6d64561210164529274&scene=21#wechat_redirect)
-，把 GPRI 模型细分为 12 个子维度，用来促进团队能力的发展。
+我们可以运用 [数据分析的细分思维](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653478494&idx=1&sn=7fb2bb4f04f2c6d64561210164529274&scene=21#wechat_redirect) ，把 GPRI 模型细分为 12 个子维度，用来促进团队能力的发展。
 
 请你根据团队目前的现状，对每个维度子进行打分，用 1~5 分进行评估，分别代表：完全不符合、不太符合、部分符合、很符合、非常符合。
 
@@ -129,10 +123,10 @@ L. 团队讨论允许开放地表达不同意见和感受（5）
 从上面的评估结果来看，该团队在流程方面相对比较薄弱，后续可以把这一项作为重点发展的能力，设定团队发展的目标，比如建立团队工作手册，明确工作的规则、流程和方法等，然后安排团队成员去执行。
 
 等执行了一段时间之后，可以再对团队进行重新评估和复盘，运用 **对比思维**
+
 ，对比分析执行前后团队发生的变化，看看是否达成团队发展的目标，找出亮点和不足，并分析原因和总结经验教训，以便将来能够举一反三，改善行动，进而发展得越来越好。
 
-在运用 GRPI
-模型的过程中，我们要注意规避模型的不足之处，作为一种相对静态的模型，它只能反映团队在特定时期内的表现，所以需要定期进行评估，以便了解团队在不同时期的变化情况，进而有针对性地加以改进。
+在运用 GRPI 模型的过程中，我们要注意规避模型的不足之处，作为一种相对静态的模型，它只能反映团队在特定时期内的表现，所以需要定期进行评估，以便了解团队在不同时期的变化情况，进而有针对性地加以改进。
 
 **最后的话**
 
@@ -140,10 +134,8 @@ L. 团队讨论允许开放地表达不同意见和感受（5）
 
 组建一个新的团队时，首先明确目标，然后定义角色分工，再确定工作流程，最后处理好互动的人际关系，这是一个环环相扣的过程，相互作用形成一个有机的整体，共同促进团队的发展。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lotmUYmsepTFGdyibRGpsRiac7ians1JnbDKIdlvPZ80tpUuep4E4M2DrBAwD1LK9kOicEvmCHIbf0A/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0lotmUYmsepTFGdyibRGpsRiac7ians1JnbDKIdlvPZ80tpUuep4E4M2DrBAwD1LK9kOicEvmCHIbf0A/640?wx_fmt=png) 
 
-然而，对于一个相对比较成熟的团队来讲，最容易出问题的其实是人，所以需要运用 [ **逆向思维**
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653476240&idx=1&sn=7993c710b4b697ff52dea011cf66da5f&chksm=8bf23a02bc85b314229dbb0db031f1d415c8e34bbf4dd143ccd45a58a3e415adaf88f85e98a1&scene=21#wechat_redirect)
-，也就是把 GRPI 模型反过来用，从互动的人际关系出发， **先解决心情，再解决事情** ，如此才能更好地进行问题诊断和分析研究，进而更加高效地化解难题。
+然而，对于一个相对比较成熟的团队来讲，最容易出问题的其实是人，所以需要运用 [**逆向思维**](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653476240&idx=1&sn=7993c710b4b697ff52dea011cf66da5f&chksm=8bf23a02bc85b314229dbb0db031f1d415c8e34bbf4dd143ccd45a58a3e415adaf88f85e98a1&scene=21#wechat_redirect) ，也就是把 GRPI 模型反过来用，从互动的人际关系出发， **先解决心情，再解决事情** ，如此才能更好地进行问题诊断和分析研究，进而更加高效地化解难题。
 
 **总之，学习和运用 GRPI 模型，有助于打造高绩效团队，这是迈向成功的重要因素。**

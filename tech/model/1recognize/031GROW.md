@@ -1,13 +1,16 @@
-**1\. 模型介绍**
+**1. 模型介绍**
 
 GROW 是 4 个英文单词的首字母：
 
 ① **G**oal 目标
+
 ② **R**eality现状
+
 ③ **O**ptions 选择
+
 ④ **W**ill 意愿
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48eLuyYYDDbF60t77GoJoqyiaWbQlTCqsjpPmQweUSY8ysslgAc9sEWGAA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48eLuyYYDDbF60t77GoJoqyiaWbQlTCqsjpPmQweUSY8ysslgAc9sEWGAA/640?wx_fmt=png) 
 
 具体来讲，包含以下 4 个步骤：
 
@@ -22,7 +25,9 @@ GROW 是 4 个英文单词的首字母：
 然而，我们既要仰望星空，也要脚踏实地。如果只有长期的终极目标，缺少短期的绩效目标，那么当面临困难的时候，可能会产生畏惧心理，这反而会阻碍我们的行动。
 
 对于绩效目标，通常要符合 SMART 原则，也就是：
+
 具体的（**S**pecific）可衡量的（**M**easurable）可实现的（**A**ttainable）相关的（
+
 **R**elevant）有时间限制的（**T**ime-bound）
 
 **② Reality 现状** 
@@ -69,7 +74,7 @@ GROW 是 4 个英文单词的首字母：
 
 虽然计划失败了，但这仍然可以是一次学习的好机会，所以继续进行反思和觉察，并且承担计划执行结果的责任。
 
-**2\. 应用举例 **
+**2. 应用举例 **
 
 下面我以自己的学习成长为例，演示 GROW 模型的应用过程。
 
@@ -83,19 +88,18 @@ GROW 是 4 个英文单词的首字母：
 
 截止到2022 年5 月 20 日，我平均每天深度学习的时间是 2 小时 25 分钟，超额完成任务目标，主要是因为我每天早上 6 点左右起床，每天早起的第一件事通常就是深度学习。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48emEqYAEJDkJRQ6LW05iaTmiaeJpq0iaEiaQVX54nfpGibImtYYiaLIlogYLyQ/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48emEqYAEJDkJRQ6LW05iaTmiaeJpq0iaEiaQVX54nfpGibImtYYiaLIlogYLyQ/640?wx_fmt=png) 
 
 事实上，如果对数据进行细分，我也有学习时间不足的时候，比如在 2 月 21 日这一天，我只学习了 1 小时 15 分：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2icvicBYE1ZptUBpjBKB4ljIoomMxqyZsWEgq9qlhpQ0siasyOJFal9vlib89Z1XZ50phf6sAk6BtvVQ/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2icvicBYE1ZptUBpjBKB4ljIoomMxqyZsWEgq9qlhpQ0siasyOJFal9vlib89Z1XZ50phf6sAk6BtvVQ/640?wx_fmt=png) 
 
 这是为什么呢？
 
-通过查看当天的时间记录和复盘总结，我发现自己那一天是在外地出差，早上 4 点 30 分醒来，5 点多开始写作并发表了一篇文章： [ 深度学习 19.2 小时，我有什么收获？](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480200&idx=1&sn=3ebff121397e5d493e14fc1cc4a103da&chksm=8bf20a9abc85838cd943ec20f664e1aa3a9125a019732e0bcabe3e3997c1624e431e35e19ccb&scene=21#wechat_redirect)
-[
-](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480200&idx=1&sn=3ebff121397e5d493e14fc1cc4a103da&chksm=8bf20a9abc85838cd943ec20f664e1aa3a9125a019732e0bcabe3e3997c1624e431e35e19ccb&scene=21#wechat_redirect)
+通过查看当天的时间记录和复盘总结，我发现自己那一天是在外地出差，早上 4 点 30 分醒来，5 点多开始写作并发表了一篇文章： [深度学习 19.2 小时，我有什么收获？](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480200&idx=1&sn=3ebff121397e5d493e14fc1cc4a103da&chksm=8bf20a9abc85838cd943ec20f664e1aa3a9125a019732e0bcabe3e3997c1624e431e35e19ccb&scene=21#wechat_redirect) [](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480200&idx=1&sn=3ebff121397e5d493e14fc1cc4a103da&chksm=8bf20a9abc85838cd943ec20f664e1aa3a9125a019732e0bcabe3e3997c1624e431e35e19ccb&scene=21#wechat_redirect) 
 
 后来，由于工作上的事情比较重要而且紧急，我一直加班到晚上 23 点 32 分，所以没有时间继续学习，结果当天没有完成深度学习的目标。
+
 为了弥补学习时间的缺口，我周末多花了一些时间用来学习，因此整体的学习时间是超额完成任务目标的。
 
 **③ Options 选择**
@@ -103,6 +107,7 @@ GROW 是 4 个英文单词的首字母：
 通过记录和分析自己的时间分配，我发现除了利用早起的时间深度学习，在睡觉之前的一段时间，其实也可以用来深度学习。
 
 另外，只要减少刷手机短视频的时间，就能有更多的时间用来学习。
+
 时间就像海绵里的水，只要愿意挤，总还是有的。同样是一天 24 小时，勤勉的人收获智慧和力量，而懒散的人只留下一片悔恨。
 
 所以，只有我们愿意去学习、思考和实践，其实还是有很多选择的。
@@ -112,13 +117,14 @@ GROW 是 4 个英文单词的首字母：
 我将会继续保持每天早起并深度学习的习惯，如果用 1 到 10 分进行打分，我对执行计划的坚定程度是 9 分。
 
 我计划持续记录和分析每天的时间分配，并跟踪目标的实际完成进度。
+
 假如某一天未能完成目标，就在复盘总结的时候，进行反思和觉察，找到失败的原因，并在后续的行动中加以改进。
 
 **最后的话**
 
 无论是工作目标（比如提高效能），还是生活目标（比如健身运动），或者是学习目标（比如深度学习），我们都可以应用 GROW 模型，为自己的成长赋能。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48esgevxALm6LLe5DfCYkOTIIDyJxc4gfR9ew8ALZoRleAN0hgFHZTDDw/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2QljfVaVu1H4jcMhF3C48esgevxALm6LLe5DfCYkOTIIDyJxc4gfR9ew8ALZoRleAN0hgFHZTDDw/640?wx_fmt=png) 
 
 **成长是一个逐渐积累的过程，罗马不是一天建成的，做事不能急于求成，就像培育一粒种子，你需要经年累月地吸收能量，才有可能变成一棵大树。**
 

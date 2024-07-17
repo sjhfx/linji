@@ -6,7 +6,7 @@
 
 **相关分析模型** 是寻找变量之间的「相互」关系，并没有主次之分，侧重于解释变量之间的关联。
 
-## **1\. 模型介绍**
+## **1. 模型介绍**
 
 相关分析，其实就是寻找变量之间相互关联的程度。
 
@@ -30,7 +30,7 @@
 
 把一个变量作为横轴，另一个变量作为纵轴，画出散点图形，观察数据的分布，大致判断相关性。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yYL5baRxdBtZj9Y3w4NxH2Qy9kUXtqwz1vd2cOu6LAs6S1x8xYjCVmA/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yYL5baRxdBtZj9Y3w4NxH2Qy9kUXtqwz1vd2cOu6LAs6S1x8xYjCVmA/640?wx_fmt=jpeg) 
 
 一般情况下，我们所说的相关，都是指线性相关。
 
@@ -45,8 +45,11 @@
 在实际应用中，我们通常把相关系数的取值，分成几个不同的区间，来表示不同的相关程度：
 
   * 0.0 ≤ |相关系数| < 0.3，表示不相关 
+
   * 0.3 ≤ |相关系数| < 0.5，表示弱相关 
+
   * 0.5 ≤ |相关系数| < 0.8，表示中度相关 
+
   * 0.8 ≤ |相关系数| < 1.0，表示强相关 
 
 （2）它不受变量单位的限制
@@ -55,10 +58,9 @@
 
 比如说，身高的单位是厘米，体重的单位是千克，我们也能计算出它们的相关系数。
 
-需要注意的是，相关系数与显著性检验的 p 值不同，相关系数用来反映相关性的强弱，而 p 值用来检验是否存在相关关系，一般情况下，当 p 值小于 0.05
-时，才可以判断存在相关关系。
+需要注意的是，相关系数与显著性检验的 p 值不同，相关系数用来反映相关性的强弱，而 p 值用来检验是否存在相关关系，一般情况下，当 p 值小于 0.05 时，才可以判断存在相关关系。
 
-## **2\. 应用举例**
+## **2. 应用举例**
 
 以 Tableau 自带的超市数据为例，我们应用相关分析模型，分析技术类产品的子类别之间是否有相关关系。
 
@@ -88,7 +90,7 @@
 
 （7）依次点击菜单：【分析(A)】→【趋势线(T)】→【显示趋势线(T)】。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8y4lKTV7USfYT0wZJS9LNTGYbKEc6xXE4OQdoFqceVFbKnI4yibldgBjg/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8y4lKTV7USfYT0wZJS9LNTGYbKEc6xXE4OQdoFqceVFbKnI4yibldgBjg/640?wx_fmt=jpeg) 
 
 把鼠标放在趋势线的上方，可以看到其中的 p 值都大于 0.05，基本可以判断不存在相关关系。
 
@@ -103,9 +105,13 @@
 （3）将字段命名为【相关系数】，输入以下公式并点击【确定】：
 
     
+
     
+
     CORR( { INCLUDE [订单 Id] : SUM([销售额 (订单1)])},   
+
                 { INCLUDE [订单 Id] : SUM([销售额])})  
+
     
 
 （4）分别将【相关系数】拖到【标记】卡的【颜色】和【标签】。
@@ -116,9 +122,10 @@
 
 （7）编辑颜色，选择【绿色-蓝色-白色发散】，点击【确定】，调整字体大小之后，如下图所示：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yMHjUvC4kKYNU3dRiaZZGJKYsGCVYqiaq7qCnDDoeAoibzIDqbvTWVIc8g/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yMHjUvC4kKYNU3dRiaZZGJKYsGCVYqiaq7qCnDDoeAoibzIDqbvTWVIc8g/640?wx_fmt=jpeg) 
 
 从上面的相关系数矩阵中，可以看出，除了对角线相同子类别的相关系数为 1 以外，其他相关系数的绝对值都小于
+
 0.3，事实上，其中相关系数的平方，就等于散点图趋势线中的 R 平方值。
 
 综上进行业务判断，我们可以得出相关分析的结论：从订单层面的销售额指标来看，技术类产品的子类别之间没有相关性。
@@ -129,7 +136,7 @@
 
 比如说，国家的诺贝尔奖数量，与巧克力消费量之间呈现正相关关系，但这并不是说，多吃巧克力有助于获得更多的诺贝尔奖。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yHFHCbUpkqibA34ra2Via2YbEeuFzhhVvbeOxibxCibC4nmnMlV0wkQVqBQ/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ET7Ef1QqvYiaF9T08APF8yHFHCbUpkqibA34ra2Via2YbEeuFzhhVvbeOxibxCibC4nmnMlV0wkQVqBQ/640?wx_fmt=jpeg) 
 
 一种合理的解释是，诺贝尔奖的数量与巧克力的消费量，很可能都是由其他变量导致的，例如国民的受教育程度和富裕程度。
 

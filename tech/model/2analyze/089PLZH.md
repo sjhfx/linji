@@ -1,22 +1,30 @@
 查理·芒格说：
 
 > 在我的学生时代，当我学到排列组合的知识的时候，我眼前为之一亮。  ……
+
 >
+
 >  
+
 >
+
 >
+
 > 一学到这个知识，我就知道这个知识特别有用。……
+
 >
+
 >  
+
 >
+
 >
+
 > 后来，我在生活中始终自觉地使用排列组合的方法思考。
 
-下面介绍  [ 100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 89 种： **排列组合。**
+下面介绍 [100 种分析思维模型](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect) 的第 89 种： **排列组合。**
 
-**1\. 为什么学习排列组合？**
+**1. 为什么学习排列组合？**
 
 学习排列组合具有重要的意义，主要原因包括：
 
@@ -32,14 +40,15 @@
 
 排列组合在日常工作和生活中有着广泛的应用，包括安排日程、组织活动等。
 
-**2\. 什么是排列组合？**
+**2. 什么是排列组合？**
 
 ** 排列组合是数学中的一对重要概念，主要用于描述不同的排列或组合方式。  **
 
 假设有 3 张扑克牌，分别是红心 1、红心 2 和红心 3，从中选择 2 张扑克牌进行 **排列**
+
 ，每张扑克牌只能选一次，并且考虑扑克牌的顺序，请问：总共有多少种不同的排列方式？
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3RnuibmpI1w1BMVIiazZIlUbD742iaOhlGkOdiagCVvRoc1vvB2UHApLuQSQlfEc0QKhCmPasvWhMKxQ/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3RnuibmpI1w1BMVIiazZIlUbD742iaOhlGkOdiagCVvRoc1vvB2UHApLuQSQlfEc0QKhCmPasvWhMKxQ/640?wx_fmt=png&from=appmsg) 
 
 ** 当数量比较少的时候，我们可以采用简单的穷举法。  **
 
@@ -59,26 +68,23 @@ A(n, m) = n! / (n-m)!
 
 组合的计算公式是：
 
-C(n, m) = n! / (m! (n-m)!)
+C(n, m) = n! / (m! (n-m)!) 
 
 例如，从 3 张扑克牌中，选择 2 张进行组合的方式有 3 种，因为按照计算公式：
 
-C(3, 2) = 3! / (2! (3-2)!) = 3
+C(3, 2) = 3! / (2! (3-2)!) = 3 
 
-**3\. 怎么运用排列组合？**
+**3. 怎么运用排列组合？**
 
-运用排列组合来解决实际问题，核心是运用  [ 细分思维
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653476217&idx=1&sn=34d80b50dc3585c82ca6f4917c96f7f0&chksm=8bf23aebbc85b3fdc79474dc9a0ee5fed45a8a98f15ac1a9e9f9ffa5332f3dfbe49bc3415fdb&scene=21#wechat_redirect)
-，先按性质进行 **分类** ，再按过程进行 **分步** 。
+运用排列组合来解决实际问题，核心是运用 [细分思维](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653476217&idx=1&sn=34d80b50dc3585c82ca6f4917c96f7f0&chksm=8bf23aebbc85b3fdc79474dc9a0ee5fed45a8a98f15ac1a9e9f9ffa5332f3dfbe49bc3415fdb&scene=21#wechat_redirect) ，先按性质进行 **分类** ，再按过程进行 **分步** 。
 
 在国外有一个很火的短视频：A Valuable Lesson For A Happier Life（一堂宝贵的幸福人生课），下面是这个视频的双语字幕版：
 
 假如把  高尔夫球、小石子、细沙的  排列顺序反过来，一开始就在杯子中倒满沙子，那么后面就装不下高尔夫球了。
 
-我个人在做时间  管理  的时候，是先把事件分成 9
-个大类，然后再合理安排自己的日程，尽量在高效能的时间段，去做更重要的事情，养成「高能要事」的习惯，避免被无关紧要的事情填满所有的时间。
+我个人在做时间  管理  的时候，是先把事件分成 9 个大类，然后再合理安排自己的日程，尽量在高效能的时间段，去做更重要的事情，养成「高能要事」的习惯，避免被无关紧要的事情填满所有的时间。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3RnuibmpI1w1BMVIiazZIlUbeD6rU0ZkvB9kVXdKvn56NbBSL1yPOKZdUibCB4ibznpkSZHwFPtbC8Lw/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3RnuibmpI1w1BMVIiazZIlUbeD6rU0ZkvB9kVXdKvn56NbBSL1yPOKZdUibCB4ibznpkSZHwFPtbC8Lw/640?wx_fmt=png&from=appmsg) 
 
 上面这个数据化分析系统图表，也是不同元素排列组合的结果。
 
@@ -99,12 +105,19 @@ C(3, 2) = 3! / (2! (3-2)!) = 3
 查理·芒格回答说：
 
 >
+
 > 排列组合是高中数学的内容。我们之所以需要学心理学，是因为我们与生俱来的认知系统存在缺陷，就像我们与生俱来的高尔夫球挥杆动作存在缺陷一样。我们必须学习规范的挥杆动作，才能打好高尔夫球。同样的道理，我们也必须完善自己的思考方式，才能正确地思考。挥杆动作要规范，思考方式要正确。学会了正确的思考方式一生受用。
+
 >
+
 >  
+
 >
+
 >
+
 >
+
 > 高中数学的排列组合没学好，那就重学一遍。学会了正确的思考方式之后，一定要有意识地在日常生活中学以致用。我们天生的思考方式是经过长期进化形成的，有很多缺陷和漏洞。完善之后的思考方式更强大、更高效，当然要多用完善之后的思考方式。
 
 如果你还没有学好排列组合，那么不妨拿起《高中数学》的教材，重新再学一遍，然后在日常生活中运用起来，从此养成良好的思维习惯，你的人生也许会因此变得不一样。

@@ -1,57 +1,85 @@
 运用**PDCA 循环**，通过循环系统化、数据可视化和行为习惯化的方法，可以让我们变得更加条理化、系统化和科学化，不断去发现和修正可以改善的地方，帮助我们获得更快的成长，从而提升工作的效能和生活的品质。 
 
-
-**1\. 模型介绍** 
+**1. 模型介绍** 
 
 PDCA 是 4 个英文字母的缩写：  
-**① P**lan 计划  **② D  **o 执行  **③ C  **heck 检查  **④ A  **ction 改善  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0iayRw78LgQvCz3GicR22xorCQbaFxJJibaC6jycoBkicuAYBMnIa2W50p98fJj5rR82xicWhuKqnJOUA/640?wx_fmt=png)
+**① P**lan 计划 
+
+**②D  **o 执行 
+
+**③C  **heck 检查 
+
+**④A  **ction 改善  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0iayRw78LgQvCz3GicR22xorCQbaFxJJibaC6jycoBkicuAYBMnIa2W50p98fJj5rR82xicWhuKqnJOUA/640?wx_fmt=png) 
 
   
+
 **① Plan 计划** 
 
 围绕目标，收集相关资料，分析相关数据，制定相应的实施计划。  
+
   
+
 **② Do 执行** 
 
 按照计划去执行，  在现实中  去实践，让自己真正行动起来。  
+
   
+
 **③ Check 检查** 
 
 检查实施的结果，并且与目标进行对比分析，验证和评估实施的效果，分清楚哪些地方做对了，哪些地方做错了，找出具体需要改善的地方。  
+
   
+
 **④ Action 改善** 
 
 形成正向激励的机制，总结成功的经验，把好的方法沉淀下来，变成标准化的流程。  
 
 对于 PDCA 循环过程中需要改进的地方，吸取失败的教训，把遗留问题放进下一个 PDCA 循环中，周而复始，螺旋上升。  
+
   
+
 在 PDCA 循环中，最关键的是明确目标。如果没有一个明确的目标，那么就会在原地转圈，无论循环多少次，都不能获得真正的提升。  
+
   
+
 在必要的时候，我们可以适当调整目标，避免制定一些不切实际的目标。  
 
-**2\. 应用举例** 
+**2. 应用举例** 
 
 PDCA 循环模型最初是用来做质量管理，如今已经被广泛应用于各个领域。  
+
 下面我以  提升  个人能力为例，说明  PDCA 循环模型的应用过程。  
+
   
+
 比如，2022 年，我的学习目标是：平均每天深度学习 2 个小时。  
 
 应用 PDCA 循环模型：  
+
   
+
 **① Plan 计划** 
 
 我通过记录和分析自己的时间，发现早晨是深度学习的最佳时间，所以我制定了相应的实施计划：每天早起的第一件事就是深度学习。  
+
   
+
 **② Do 执行** 
 
 我按照计划去执行，并且把行动的过程和结果完整地记录下来。  
+
   
+
 **③ Check 检查** 
 
 我根据自己记录的数据，每天检查实际学习的时长，与目标时长进行对比分析。  
+
   
+
 **④ Action 改善** 
 
 如果深度学习超过 2 小时，那么我就总结经验，把好的方法沉淀下来，变成一种标准化的流程，促使自己养成好的习惯，让自己能够继续保持下去。  
@@ -59,13 +87,16 @@ PDCA 循环模型最初是用来做质量管理，如今已经被广泛应用于
 如果当天深度学习的时间不达标，那么就分析失败的原因，找出可以改进的地方，然后制定改善的计划，进入到下一个 PDCA 循环中。  
 
 同理，我把 PDCA 循环模型应用到工作和生活中的各个方面，从分析思维模型中获得一些系统化的理论，从记录的时间和情绪中获得一些实践的经验，再把理论与实践结合起来，从而不断升级自己的核心认知，最终体现到数据赋能系统中。  
+
   
+
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1pEV47mUX6YON1apxKwGnNv6S2t32BhoPaycXs517t1lva3O7aKc8ibpT8Ull9MJztM1klwBx1foQ/640?wx_fmt=png)  
 
 与 2021 年相比，我的工作效能明显提升，做出了更多有效的工作成果，但加班时间反而变少了。所以，我有了更多的时间进行深度学习、用心写作和健身运动，这反过来又进一步促进能力的提升，从而能把工作做得更好，形成正向的循环。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1pEV47mUX6YON1apxKwGnN2NoYkK6OQiawezQ8I65SnyYc2ePjO77rysrffFOvuGCccGpPwbCnlsg/640?wx_fmt=png)
 
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1pEV47mUX6YON1apxKwGnN2NoYkK6OQiawezQ8I65SnyYc2ePjO77rysrffFOvuGCccGpPwbCnlsg/640?wx_fmt=png) 
 
 **对我来说，数据赋能系统像一棵大树，目标就像树根，为大树提供营养，大类就像树干，支撑起人生的方方面面，小类就像树枝，是对目标的细分，而具体事件就像树叶，促进树枝和树干的生长，它们紧密地联系在一起，互为一体，互相促进。**
 
@@ -73,25 +104,36 @@ PDCA 循环模型最初是用来做质量管理，如今已经被广泛应用于
 
 记录时间和情绪的习惯，完全靠大脑的记忆，那么就不能进行有效的检查和改善，导致没有形成闭环，也就很难获得快速的成长。
 
+**最后的话**
 
-**最后的话** 
+ 
 
 一个 PDCA 循环，如果进一步细分的话，那么通常包括以下 8 个步骤： 
 
 ①明确目标  
+
 ②分析现状  
+
 ③发现问题  
+
 ④制定计划  
+
 ⑤采取措施  
+
 ⑥检查结果  
+
 ⑦总结经验  
+
 ⑧不断循环  
+
   
+
 以上 8 个步骤，就类似于数据赋能系统中的循环：  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1pEV47mUX6YON1apxKwGnNVpfHdQhfVwyThJeCj6uaR9pBcsPPrtM38lYDeRvopWVJlyibuuAL9Yw/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1pEV47mUX6YON1apxKwGnNVpfHdQhfVwyThJeCj6uaR9pBcsPPrtM38lYDeRvopWVJlyibuuAL9Yw/640?wx_fmt=png) 
 
   
+
 **我应用数据赋能系统的过程，经历了感知数据、认知规律、帮助决策、付诸行动的循环，同时也经历了 3 种心灵过程：身体过程、情绪过程和思维过程。** 
 
 身体过程，就是身体对事物的感知；情绪过程，就是事物的接受或抵触；思维过程，则是用文字思考的过程。  

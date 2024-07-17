@@ -8,7 +8,7 @@
 
 今天介绍的第 **020** 号分析思维模型： **标杆分析模型** ，能帮我们正确地向标杆学习，从而更快地获得提升。
 
-**1\. 模型介绍**
+**1. 模型介绍**
 
 标杆分析模型，是指与标杆进行对比，  分析标杆的优点，并  找到适合自己的  行  动  方法。
 
@@ -32,7 +32,7 @@
 
 对企业而言，为了提升公司的业绩，可以找几家标杆企业，分析总结标杆企业的产品设计、销售、服务、经营策略等等，找到可以改进的方法，从而做出更加科学的决策。
 
-**2\. 应用举例**
+**2. 应用举例**
 
 下面以 Tableau 自带的超市数据集为例，假设要按地区来进行标杆分析，对比各地区与标杆地区的销售额差异是多少？
 
@@ -46,12 +46,13 @@
 
 点击数据旁边的三角形，选择【创建参数】：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswp6W0gm4ibWnDPPvJYfib5Z0AbgmX6t2a3YdSoFCudLggfL4icd5HrS4icg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswp6W0gm4ibWnDPPvJYfib5Z0AbgmX6t2a3YdSoFCudLggfL4icd5HrS4icg/640?wx_fmt=png) 
 
 参数【名称】后面填写【  标杆地区
+
 】，【数据类型】后面选择【字符串】，【允许的值】后面选择【列表】，【通过以下各项添加值】后面选择【地区】，点击【确定】按钮。  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswEsKAezEqAtcI96J2vQHHWpibziaWjwLNwn1mBics5lSlqiclQURSHMLl7A/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswEsKAezEqAtcI96J2vQHHWpibziaWjwLNwn1mBics5lSlqiclQURSHMLl7A/640?wx_fmt=png) 
 
 **（3）创建计算字段**  
 
@@ -59,14 +60,13 @@
 
 【标杆销售额】
 
-IIF  (  [地区]  =  [标杆地区]  ,  [销售额]  , 0)
+IIF  ( [地区]  = [标杆地区]  , [销售额]  , 0) 
 
 【对标差异】
 
-SUM  (  [销售额]  )-  SUM  ({  EXCLUDE  [地区]  :  SUM  (  [标杆销售额]  )})
+SUM  ( [销售额]  )-  SUM  ({  EXCLUDE [地区]  :  SUM  ( [标杆销售额]  )}) 
 
-其中 EXCLUDE 是 Tableau 的一种 LOD 表达式，表示如果指定的 [地区] 维度出现在视图中，那么在计算 SUM([标杆销售额])
-时，会排除这个维度，相当于往上跳了一层，获得更高层级的计算结果。
+其中 EXCLUDE 是 Tableau 的一种 LOD 表达式，表示如果指定的 [地区] 维度出现在视图中，那么在计算 SUM([标杆销售额]) 时，会排除这个维度，相当于往上跳了一层，获得更高层级的计算结果。
 
 所以，用该地区的销售额，减去这个表达式，就得到该地区与标杆地区之间的销售额差异，我们简称为【对标差异】。
 
@@ -80,7 +80,7 @@ b. 把【对标差异】拖至【标记】的【颜色】，双击【标记】�
 
 c. 新建一个仪表板，把前面做好的图表拖进去，然后设置标题、颜色、边框、图例、下拉列表等细节，得到结果如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswcOrXHsWYS4ynBfIzJKGu5e3l1ESLxv6MoljOpPoNPE4WicwRRRTVm1A/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3CS9iaUGdQRibMviblGQ4NGswcOrXHsWYS4ynBfIzJKGu5e3l1ESLxv6MoljOpPoNPE4WicwRRRTVm1A/640?wx_fmt=png) 
 
 **注意，标杆的选择非常重要！如果选错了标杆，后果会很严重。**  
 

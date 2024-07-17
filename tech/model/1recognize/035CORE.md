@@ -3,6 +3,7 @@
 假如以后再遇到类似的情景，你会怎么处理？
 
 下面  介绍的  CORE  模型  ，也许能对你有所启发。  ****
+
  
 
 CORE 是以下 4 个英文单词的缩写：
@@ -19,12 +20,11 @@ CORE 是以下 4 个英文单词的缩写：
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo25lJbAx13v5Vfy3qKcEq3PGQN6vVQyS9DghPqhdfnlJ85yKldwRSicia531IkSAQUhPmTwTIlcIthA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo25lJbAx13v5Vfy3qKcEq3PGQN6vVQyS9DghPqhdfnlJ85yKldwRSicia531IkSAQUhPmTwTIlcIthA/640?wx_fmt=png) 
 
   
 
-这个模型来自于《逆商》这本书，作者是保罗·史托兹，他通过 30
-多年的研究和实践，在跟成千上万人的互动中，历经千锤百炼，建立了这个模型，成功地帮助很多个人走出了逆境。
+这个模型来自于《逆商》这本书，作者是保罗·史托兹，他通过 30 多年的研究和实践，在跟成千上万人的互动中，历经千锤百炼，建立了这个模型，成功地帮助很多个人走出了逆境。
 
   
 
@@ -136,7 +136,7 @@ Core 这个英文单词的意思是「核心」，  如果你能抓住问题的�
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo25lJbAx13v5Vfy3qKcEq3Pj6RaicMsCAUUVHSzibntOaKrMmnMC6PkSm5qOkYjNgakaDrCYiab1I2kg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo25lJbAx13v5Vfy3qKcEq3Pj6RaicMsCAUUVHSzibntOaKrMmnMC6PkSm5qOkYjNgakaDrCYiab1I2kg/640?wx_fmt=png) 
 
   
 
@@ -229,6 +229,7 @@ Lead 这个英语单词的意思是「领导」，作为自己人生的 CEO，�
   
 
 第 1 个小人是  数据分析师
+
 ，让他帮你列一张表，一列是可以掌控的事情，一列是不能掌控的事情。然后运用「控制两分法」，把主要的时间和精力，用来控制自己掌控的事情，而不要妄图控制那些无法控制的事情。
 
   
@@ -246,10 +247,11 @@ Lead 这个英语单词的意思是「领导」，作为自己人生的 CEO，�
   
 
 希望每个人都能学会运用  CORE 模型  和  LEAD 工具箱
+
 ，面对逆境，第一时间想到的不是追责，也不是找借口，而是保持冷静，专注思考如何走出来，建立对生活的掌控感，穿过信息的迷雾，  成为一个更有智慧的人  。
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2U8Q00hZDGlpjCnuRgGGesibTIdd4IPEVtu3ajoKrpeD87Nrqfry56r58OzzqamOuuyb9oJIDjAcw/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2U8Q00hZDGlpjCnuRgGGesibTIdd4IPEVtu3ajoKrpeD87Nrqfry56r58OzzqamOuuyb9oJIDjAcw/640?wx_fmt=jpeg) 
 
   

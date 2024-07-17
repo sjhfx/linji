@@ -6,7 +6,7 @@
 
 在统计学里面，  正态分布是一种很常见的模型  ，像人的寿命、血压、考试成绩、测量误差等等，都属于正态分布。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ztVNxbkwc6fyxqbYqzibQNzExsicNWibkIj1X28qPR9KOORibJZw7HOXqItAuB2s2lGJGlwy7pMqEicQ/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3ztVNxbkwc6fyxqbYqzibQNzExsicNWibkIj1X28qPR9KOORibJZw7HOXqItAuB2s2lGJGlwy7pMqEicQ/640?wx_fmt=jpeg) 
 
 为什么正态分布模型很常见呢？
 
@@ -19,17 +19,19 @@
 ## 2. 应用举例
 
 正态分布在生产管理中经典应用是「 **六西格玛** 」  方法，简写为「 **6σ** 」，也就是  对产品属性进行建模  ，  明确误
+
 差要减小到什么程度，产品合格率才算达标。  这样企业就有了量化的目标，从而可以花大力气去改善产品的质量。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3ztVNxbkwc6fyxqbYqzibQN7Epj4ibzN7qcXUfQI3yE7pkwYiaZGyfNXHXNsFyhmqabQ25WFjEez48Q/640?wx_fmt=gif)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3ztVNxbkwc6fyxqbYqzibQN7Epj4ibzN7qcXUfQI3yE7pkwYiaZGyfNXHXNsFyhmqabQ25WFjEez48Q/640?wx_fmt=gif) 
 
-假设有一家专业制造汽车配件的公司，  生产  一种直径为 21 毫米的螺丝，误差不能超过 1 毫米，也就是说，螺丝直径范围必须在 20-22
-毫米之间，否则有可能导致安全事故，因此必须做好产品质量管理。
+假设有一家专业制造汽车配件的公司，  生产  一种直径为 21 毫米的螺丝，误差不能超过 1 毫米，也就是说，螺丝直径范围必须在 20-22 毫米之间，否则有可能导致安全事故，因此必须做好产品质量管理。
 
 由于螺丝直径的误差是很多种随机因素导致的，例如金属质量的变化、机器振动、温度和速度的波动等等，所以根据中心极限定理，推断螺丝的直径应该服从正态分布。  
 
 公司不可能精确地测量每一个螺丝的直径，通常会采取随机抽样的方法  ，根据样本来计算平均值  和标准差，假设平均值是 21 毫米，6σ 等于
+
 1，也就是说，基准标准差等于 1/6，如果能够达到这个标准，那么生产出来的产品质量就是比较可靠的，产品合格的概率高达
+
 99.99968%，这并不容易，需要持续改进才有可能做到。
 
 管理的实践，并不是计算出标准差就万事大吉，而是需要做很多非常艰巨的工作，来使得实际的标准差确实降到基准值以内  。
@@ -40,60 +42,107 @@
 
 我用 Python 模拟六个骰子，每个骰子的点数是随机的，从 1 到 6 的概率都是 1/6，如果把六个骰子的点数相加，然后画出分布图，与正态分布很接近。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6uefVdY5hkL4dyemAfF2cV8IQFwXC8EMj7z2LLrJgmIibhRF3SIvUnUjA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2ibtGfsudMgwB11zpLLNQ6uefVdY5hkL4dyemAfF2cV8IQFwXC8EMj7z2LLrJgmIibhRF3SIvUnUjA/640?wx_fmt=png) 
 
 从这个例子也可以看出，中心极限定理在发挥作用，尽管每个骰子的点数都不属于正态分布，但是六个骰子相加起来的点数服从正态分布。
 
 具体实现代码如下  ：
 
     
+
     
+
     # 导入所需的库  
+
     import numpy as np  
+
     import pandas as pd  
+
     import matplotlib as mpl  
+
     import matplotlib.pyplot as plt  
+
       
+
     # 正常显示中文标签  
+
     mpl.rcParams['font.sans-serif'] = ['SimHei']  
+
       
+
     # 模拟骰子产生随机整数  
+
     np.random.seed(666666)  
+
     df = pd.DataFrame(np.random.randint(1, 7, (10000, 6)))  
+
       
+
     # 对骰子点数求和  
+
     df['总和'] = df.apply(lambda x: x.sum(), axis=1)  
+
       
+
     # 对点数之和进行计数  
+
     total = df.groupby(['总和'])['总和'].count()  
+
       
+
     # 画图用的数据定义  
+
     x = total.index  
+
     y = total.values  
+
       
+
     # 使用「面向对象」的方法画图  
+
     fig, ax = plt.subplots(figsize=(8, 6))  
+
       
+
     # 设置标题  
+
     ax.set_title("六个骰子点数总和的分布", fontsize=26, loc='center')  
+
       
+
     # 画柱形图  
+
     ax.bar(x, y, width=0.6, color='#00589F')  
+
       
+
     # 隐藏边框  
+
     ax.spines['top'].set_visible(False)  
+
     ax.spines['right'].set_visible(False)  
+
     ax.spines['bottom'].set_visible(False)  
+
     ax.spines['left'].set_visible(False)  
+
       
+
     # 隐藏刻度线  
+
     ax.tick_params(axis='x', which='major', length=0)  
+
     ax.tick_params(axis='y', which='major', length=0)  
+
       
+
     # 设置坐标标签字体大小  
+
     ax.tick_params(labelsize=20)  
+
       
-    plt.show()
+
+    plt.show() 
 
   
 

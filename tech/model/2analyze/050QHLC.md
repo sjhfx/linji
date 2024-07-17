@@ -1,4 +1,6 @@
-**1\. 为什么学习乔哈里窗？** 
+**1. 为什么学习乔哈里窗？**
+
+ 
 
 假如有一天，你的领导对你说：「你的想法太幼稚了！」
 
@@ -6,12 +8,11 @@
 
 又或者有人对你说：「你这个人太自私了！」
 
-
 你会不会觉得很委屈、很伤心、很难过？  给你讲一个故事。  据说在春秋时期，齐国有一个人叫管仲，他有一个好朋友叫鲍叔牙。
 
 当别人都以为管仲是一个既贪财、又怕死的人时，鲍叔牙知道他不仅  能力很强，而且  很有孝心，处处为母亲着想。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3QvztfK13B8wMINnMXPFT76rytKh9TqQ5IsflHE7baDuVsZBSfLg8NYb8F7ic556zlZicgGccd0wBg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3QvztfK13B8wMINnMXPFT76rytKh9TqQ5IsflHE7baDuVsZBSfLg8NYb8F7ic556zlZicgGccd0wBg/640?wx_fmt=png) 
 
 后来，在鲍叔牙的举荐之下，管仲成为齐国的宰相，辅佐齐桓公成为春秋五霸之首，这就是历史上著名的「管鲍之交」的故事。
 
@@ -21,11 +22,15 @@
 
 GPT-4，还有百度发布的「文心一言」等 AI 应用程序，我认为本质上都是通过算法和数据的处理和分析，生成有效的信息，帮助人们做出更加明智的决策。
 
-关于信息，在心理学中有一个著名的模型叫「乔哈里窗」。  **2\. 什么是乔哈里窗？** 乔哈里窗（Johari Window）是心理学家乔瑟夫·勒夫和哈里·英汉姆在 20 世纪 50 年代提出的一个模型，从他们名字组合而来。  
+关于信息，在心理学中有一个著名的模型叫「乔哈里窗」。
+
+**2.什么是乔哈里窗？**
+
+ 乔哈里窗（Johari Window）是心理学家乔瑟夫·勒夫和哈里·英汉姆在 20 世纪 50 年代提出的一个模型，从他们名字组合而来。  
 
 他们把信息按照 2 个维度进行细分，一个维度是我知不知道，另一个维度是你知不知道，用于帮助人们更好地了解自己，以及更好地与他人的互动，这属于细分思维的一种应用。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3QvztfK13B8wMINnMXPFT7TeDdqCxMQDxlE6JnP6hCMfdFquibicYWtYTFDZ7ticjUvy1dmJltdcOag/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3QvztfK13B8wMINnMXPFT7TeDdqCxMQDxlE6JnP6hCMfdFquibicYWtYTFDZ7ticjUvy1dmJltdcOag/640?wx_fmt=png) 
 
 ① **共识区域** 
 
@@ -45,7 +50,9 @@ GPT-4，还有百度发布的「文心一言」等 AI 应用程序，我认为�
 
 比如，世界上有很多种分析思维模型，其中有些模型我们目前都还不知道。  假如我们能够共同努力，去探索未知的领域，就有可能取得突破，实现发展和创新。
 
-**3\. 怎么应用乔哈里窗？** 
+**3. 怎么应用乔哈里窗？**
+
+ 
 
 乔哈里窗  模型  被广泛应用于心理学、人际沟通、团队建设、技能交流等领域。
 
@@ -67,9 +74,10 @@ GPT-4，还有百度发布的「文心一言」等 AI 应用程序，我认为�
 
 如果在交流过程中，发现有双方都不知道的情况，就一起寻找答案，以便缩小共同的盲区。  以上 4 个步骤，最终目的都是为了扩大共识的区域，缩小彼此的盲区，如下图所示。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3ySfpZvgaMYwTDJMBxh0WGEiaQXibLMrfliaxBuEKYYO0HKXej3kT4oRtZTcbuzPibQk5QaYNdBxOH5g/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3ySfpZvgaMYwTDJMBxh0WGEiaQXibLMrfliaxBuEKYYO0HKXej3kT4oRtZTcbuzPibQk5QaYNdBxOH5g/640?wx_fmt=png) 
 
 我把乔哈里窗模型应用到实际工作中，在写邮件或数据分析报告的时候，简要介绍一些背景相关的信息，以便缩小他人的盲区，这样就更容易达成共识。
+
 我写的工作周报，不仅会发给领导，而且会发给相关同事，还会发给自己的下属，这样就能缩小他们的盲区，增进相互的理解。  在工作手册中，我增加了 2 块内容：办事攻略模板和个人工作使用说明书，以便让大家信息共享，实现共同进步。
 
 我写作并分享一篇文章，就是把自己知道的信息分享给读者，希望能够帮助读者获得新知。  

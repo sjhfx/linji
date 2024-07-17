@@ -1,6 +1,6 @@
 下面介绍**六顶思考帽** ，它能帮助我们更加高效地思考问题。
 
-**1\. 为何学习六顶思考帽？**
+**1. 为何学习六顶思考帽？**
 
 当你在思考一个问题的过程中，头脑中可能会同时冒出很多的想法。
 
@@ -17,6 +17,7 @@
 **② 节省时间** 
 
 摩根公司使用六顶思考帽方法之后，会议时间减少了
+
 80%，开会效率得到明显提升。
 
 **③ 摒弃自大** 
@@ -27,17 +28,15 @@
 
 让我们每次只思考一个问题，避免陷入混乱的状态。
 
-**2\. 什么是六顶思考帽？**
+**2. 什么是六顶思考帽？**
 
 《六顶思考帽》是英国创新思维的专家爱德华·德博诺提出的一种思维模型，他用 6 种颜色来代表 6 种不同的思考方向。
 
-为了方便理解和记忆，我们把六顶思考帽分成 3 组，分别对应数据分析的 3 个阶段：理解现状、分析原因和预测未来，并与「  [ 三见客
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481030&idx=1&sn=abb43578e5634de6197bb441fad01c72&scene=21#wechat_redirect)
-」遥相呼应：看见差距、洞见可能、预见指数。
+为了方便理解和记忆，我们把六顶思考帽分成 3 组，分别对应数据分析的 3 个阶段：理解现状、分析原因和预测未来，并与「 [三见客](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481030&idx=1&sn=abb43578e5634de6197bb441fad01c72&scene=21#wechat_redirect) 」遥相呼应：看见差距、洞见可能、预见指数。
 
 **① 白帽和红帽：理解现状，看见差距**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKOovw6PgpNcqP4tfOmLavztJKAOYfF91lyQTBib9icWexibpmaheNZEnlA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKOovw6PgpNcqP4tfOmLavztJKAOYfF91lyQTBib9icWexibpmaheNZEnlA/640?wx_fmt=png) 
 
 **白帽** ：白色表示中立客观，收集数据和事实，是一种分析处理信息的技巧，提供客观理性的思考。（前）
 
@@ -47,7 +46,7 @@
 
 **② 黄帽和黑帽：分析原因，洞见可能**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKRDcIho6GQP4tKFFwbF8rkslyuCYSpPGTX1pgIfyHvJR1Nr2pczGibPg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKRDcIho6GQP4tKFFwbF8rkslyuCYSpPGTX1pgIfyHvJR1Nr2pczGibPg/640?wx_fmt=png) 
 
 **黄帽** ：黄色是阳光的象征，代表着乐观、希望和积极的思考，以价值为焦点，注重发挥自身的优势，帮助我们发现更多的机会。（左）
 
@@ -59,7 +58,7 @@
 
 **③ 绿帽和蓝帽：预测未来，预见指数**
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKVfvuYte0N62UIgfr5j9YsIFspnwU8P3zPWPXWYKcmM4Knib6jGhXKDA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKVfvuYte0N62UIgfr5j9YsIFspnwU8P3zPWPXWYKcmM4Knib6jGhXKDA/640?wx_fmt=png) 
 
 **绿帽** ：绿色让人想到植物的生长，象征改变和创新，运用发散性思维，举一反三，从而获得创造性的解决方案。（下）  
 
@@ -69,7 +68,7 @@
 
 蓝帽比较适合用于会议的开始和结束，类似于一种「总-分-总」的结构，这样更加有助于专注思考和归纳总结。  运用绿帽和蓝帽的思考方法，结合数据分析的**逆向思维、演绎思维和归纳思维** ，能帮助我们更好地预测未来，预见指数。
 
- **3\. 如何应用六顶思考帽？**
+ **3. 如何应用六顶思考帽？**
 
 几乎所有需要深度思考的问题，都可以应用六顶思考帽的方法。  
 
@@ -80,7 +79,6 @@
 六顶思考帽的组合非常多，就像彩色打印机，只需要用四种基本的颜色，就可以打印出千变万化的彩色图片。
 
 比如，团队在开讨论会的时候，可以先让所有人都戴上相同颜色的帽子，等大家充分思考之后，再换另一种颜色的帽子。
-
 
   * 白帽：收集  数据以及  提问； 
 
@@ -98,7 +96,6 @@
 
 再比如，个人在进行复盘总结的时候，运用六顶思考帽的方法进行思考，数据化跟进目标的进度，把那些能够指导未来行动的经验沉淀下来，避免陷入低效的重复劳动中。
 
-
   * 白绿：知聚目标； 
 
   * 黄黑：行为分析； 
@@ -109,7 +106,7 @@
 
 你可以把六顶思考帽想象成「魔方」的 6 个面，每个面对应一种颜色的帽子，代表一种思考模式。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKjIGLVegwCiaRKUE38zghd815aiby01U6lS1ItEhB5mibJmdpctyUIu3jg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKjIGLVegwCiaRKUE38zghd815aiby01U6lS1ItEhB5mibJmdpctyUIu3jg/640?wx_fmt=png) 
 
 当「魔方」静止不动的时候，不同的人从不同的角度  （前、后、左、右、上、下）去看它，看见的颜色是不一样的。但是，当我们朝不同的方向去整体转动这个魔方之后，就能知道它的全貌。
 
@@ -117,7 +114,10 @@
 
 **而运用六顶思考帽的方法，无论双方意见如何对立，当懂得换位思考之后，就能摆脱已有知识和经验的束缚，提出富有创造性的见解、观点和方案。**
 
-《了不起的盖茨比》的作者菲茨杰拉德有句名言：「 **同时保有两种截然相反的观念，还能正常行事，这是第一流智慧的标志** 」。  **最后的话**
+《了不起的盖茨比》的作者菲茨杰拉德有句名言：「 **同时保有两种截然相反的观念，还能正常行事，这是第一流智慧的标志** 」。  
+
+**最后的话**
+
 六顶思考帽的方法，让我们避免把时间和精力浪费在情绪内耗上，寻求一条面向未来的道路，思考未来能够怎样，而不是争论是非对错。
 
 为了更好地理解和记忆六顶思考帽，我们可以想象一个场景：  在一个周末的下午，  你悠闲地躺在一片绿色的草地上（绿帽），  阳光照耀着自己的脸庞（黄帽），看见在蓝色的天空中（蓝帽），  有一朵白云在慢慢地移动（白帽），  此时你感觉非常开心（红帽），  后来，天空渐渐黑了下来（黑帽）……
@@ -136,7 +136,7 @@
 
 蓝帽：代表控制思考的过程。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKHweHGVvNwfzyDL7XFFMR17mA8M4HamIZAicKvyDIBfBDwhUHORuibTLA/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo32B9GRltsFDOw3ImYBBwsKHweHGVvNwfzyDL7XFFMR17mA8M4HamIZAicKvyDIBfBDwhUHORuibTLA/640?wx_fmt=png) 
 
 这样站在的不同的角度思考问题，就能产生类似「横看成岭侧成峰，远近高低各不同」的效果。
 

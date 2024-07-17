@@ -1,12 +1,20 @@
-假如你感觉头痛，你会怎么办？  引发头痛的原因可能有很多，比如睡眠不足，也许通过改善睡眠质量，头痛的症状自然就会消失。  下面介绍  [
-100 种分析思维模型
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect)
-的第 59 种： **系统思维** ，它能帮我们更加全面地思考问题，进而提升我们的决策能力。  **1\. 为什么学习系统思维？**
+假如你感觉头痛，你会怎么办？  引发头痛的原因可能有很多，比如睡眠不足，也许通过改善睡眠质量，头痛的症状自然就会消失。  下面介绍 [
+
+100 种分析思维模型](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4ODE2OTIxMw==&action=getalbum&album_id=1701638273011351554#wechat_redirect) 的第 59 种： **系统思维** ，它能帮我们更加全面地思考问题，进而提升我们的决策能力。
+
+**1.为什么学习系统思维？**
+
 很多人在面对问题的时候，只看到事物的表面现象，而没有思考产生问题的根本原因，导致见树不见林、治标不治本，甚至产生一些副作用，让问题变得更加严重，就像某些庸医一样害人不浅。
+
 为了避免犯「头痛医头」的错误，我们可以学习运用系统思维，从整体去看待人体各个器官之间的关系，避免做出片面的判断和短视的行为。
+
 **学会运用系统思维，不仅可以让我们用整体的、动态的、关联的视角去看问题，而且可以让我们由表及里、去伪存真，透过现象看到事物的本质。**
+
 我们要学会用正确的方法做事，更要选择在正确的时间、正确的地点，去做正确的事情。  学习系统思维，能帮助我们识别哪些事情是正确的，哪些事情是无效的。
-**2\. 什么是系统思维？** 在了解什么是系统思维之前，我们先来看看什么是系统。  按照《系统之美》这本书的定义：
+
+**2. 什么是系统思维？**
+
+ 在了解什么是系统思维之前，我们先来看看什么是系统。  按照《系统之美》这本书的定义：
 
 > 系统是一组相互连接的事物，在一定时间内，以特定的行为模式相互影响。
 
@@ -17,51 +25,79 @@
 ** 系统具有适应性、动态性和目的性，并且可以自组织、自我保护和演进。  **
 
 比如，随机散落的沙子不是一
+
 个系统，而人体是一个系统，因为人体不是各个器官的简单集合，而是各个器官之间相互连接、协调运作、相互影响的结果，且拥有各个器官所没有的功能或目标。
+
 人体这个系统具有很强的适应能力，可以抵御很多病毒和细菌的入侵，可以摄入差异很大的食物，还可以根据需要调整血液的供应……
+
 **系统思维是指整体地、动态地、关联地思考问题，用输入和输出的逻辑去理解事物，并把时间轴纳入考虑要素中，看到要素之间的关系。**
+
 如果缺乏系统思维，就会局部地、静态地、割裂地看待问题，结果只能看到事物表面呈现出来的状态，头痛医头，脚痛医脚，只看眼前，不看长远。
+
 人们常常为了稳定或效率，而破坏系统的适应能力。比如，为了短期的经济效益，而破坏生态系统，导致物种消失、气候变暖等后果。  系统思维包括 2 种反馈回路：
+
 **增强回路和调节回路** 。  **增强回路** 是指事物之间存在相互增强的关系，具有不断增强的发展态势。
+
 比如，在一个长长的斜坡上滚雪球，刚开始雪球还很小，随着雪越粘越多，雪球的体积变得越来越大。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYVIKiacheqUd9KGRbE70C42ZrdcibGF5A6IMic3XHhpa83eg5xjDJtnylQ/640?wx_fmt=png)
-投资就像滚雪球，重要的是发现很湿的雪和很长的坡，其中也包含一个增强回路。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYOic0CmgsuqH3icxibdPicibwGoAUjpbZJbRS6SbImicFzGSTeCfFLtj5yuZg/640?wx_fmt=png)
-随着时间的变化，这个增强回路会引起指数级的增长，形成  [ 复利效应
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481349&idx=1&sn=9c3749e85fbdaa58c342dc37eaa5913a&scene=21#wechat_redirect)
-。  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYVIKiacheqUd9KGRbE70C42ZrdcibGF5A6IMic3XHhpa83eg5xjDJtnylQ/640?wx_fmt=png) 投资就像滚雪球，重要的是发现很湿的雪和很长的坡，其中也包含一个增强回路。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYOic0CmgsuqH3icxibdPicibwGoAUjpbZJbRS6SbImicFzGSTeCfFLtj5yuZg/640?wx_fmt=png) 随着时间的变化，这个增强回路会引起指数级的增长，形成 [复利效应](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481349&idx=1&sn=9c3749e85fbdaa58c342dc37eaa5913a&scene=21#wechat_redirect) 。  
+
 **调节回路** 是指具有 **保持存量稳定、趋向一个目标** 进行调节的反馈回路。
+
 比如，当身体可用的能量与期望的能量水平存在差异时，为了达到能量的平衡，通常需要通过饮食来补充能量。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APY7ib5OuS0RX3ibJptJe4z2Qe3DorWLwHzEBiaKv7oT8txBfoiavPnGM6yrA/640?wx_fmt=png)
-从这个系统循环图中可以看出，假如一个人想要减肥，就要让补充的能量，小于消耗的能量。比如，通过「管住嘴」，减少能量的摄入；通过「迈开腿」，增加能量的消耗。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APY7ib5OuS0RX3ibJptJe4z2Qe3DorWLwHzEBiaKv7oT8txBfoiavPnGM6yrA/640?wx_fmt=png) 从这个系统循环图中可以看出，假如一个人想要减肥，就要让补充的能量，小于消耗的能量。比如，通过「管住嘴」，减少能量的摄入；通过「迈开腿」，增加能量的消耗。
+
 **延迟效应** 是指系统反馈存在延迟的现象，系统中的时间延迟比比皆是。
+
 比如，我们洗澡时调节水温，当你调节完之后，水温不会马上变化，需要过一段时间才会出现变化。  再比如，在病毒感染和症状发作之间，通常存在一段时间的「潜伏期」。
+
 有时候，由于系统的延迟效应，会导致问题变得更加严重，因此更难解决。
+
 比如，有人不小心摔了一跤，当时以为没事，但其实已经骨折，如果能够及时就医，也许用个夹板固定一下就能治好。
+
 但是，如果此人不肯及时就医，自以为身体会自动痊愈，经过一段时间之后，也许骨头会错位，甚至会坏死，可能就需要动手术来治疗了。  所以，
-**当系统存在较长的时间延迟时，我们需要具备一定的预见性，否则很有可能会错过解决问题的重要时机。** **3\. 怎么运用系统思维？**
+
+**当系统存在较长的时间延迟时，我们需要具备一定的预见性，否则很有可能会错过解决问题的重要时机。** **3. 怎么运用系统思维？**
+
 在《数据化分析》这本书中，我运用系统思维，建立了一个用数据解决实际问题的增强回路：从收集数据，到改善数据，再到分析数据，然后化解难题，再反过来促进收集更多的数据，实现良性循环。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYMGCUgUofYygClheFqdCh1wyhPC9MMMZgsm94JYR9RDm7d0jsyuFAgw/640?wx_fmt=png)
-** 系统思维的应用范围非常广泛。  **
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYMGCUgUofYygClheFqdCh1wyhPC9MMMZgsm94JYR9RDm7d0jsyuFAgw/640?wx_fmt=png) ** 系统思维的应用范围非常广泛。  **
+
 比如，我把所学的知识和分析思维模型，运用到实际工作和生活中去，经过实践的检验，再把经验总结和分享出来，获得正向的反馈，反过来又能激励我进一步深度学习，形成一个增强回路。
+
 再比如，我围绕 3 大要素： **时间、情绪和习惯**
+
 ，以记录数据为基础，当积累足够多的数据之后，就可以运用数据分析思维和「控制二分法」，明确目标，以终为始，通过对比、细分、溯源，找到相关因素，大胆提出假设，并经过实践去小心检验，接纳无法控制的，控制能控制的，最后归纳总结出对自己有效的方法，再举一反三，收集更多的数据，实现用数据赋能成长，形成不断成长的系统闭环。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYl9rsSZp6NlNOUPeXyhu0fcMOFoLsibN6dQnutqyRiaJYGA5NGDQ26kgg/640?wx_fmt=png)
-我们还可以把系统思维运用到人生的规划上面，对于人生这个大系统来说，其中包括 3 个要素： **时间、健康和财富** 。  年轻人拥  有大量的时间，而且
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYl9rsSZp6NlNOUPeXyhu0fcMOFoLsibN6dQnutqyRiaJYGA5NGDQ26kgg/640?wx_fmt=png) 我们还可以把系统思维运用到人生的规划上面，对于人生这个大系统来说，其中包括 3 个要素： **时间、健康和财富** 。  年轻人拥  有大量的时间，而且
+
 有健康的身体，但是他们通常财富不多，此时更需要注重提升自身的能力，最终才能获得更多的财富。
+
 中年人有了更多的财富，并且身体还比较健康，但是他们往往工作非常忙碌，此时更需要学会合理分配好自己的时间，养成「高能要事」的习惯，这样才能拥有更多自由的时间。
+
 老年人的财富积累到了一定水平，而且拥有大量的闲暇时间，然而却可能没有健康的身体，所以更需要加强锻炼，让身体变得更加健康。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYM0bCbT06J3bjcRicHNdUiaqNOxjgKuuSSbx8ibVMjYHVia108TgsSGtfibQ/640?wx_fmt=png)
-按照《最优解人生》的方法，我们应该合理搭配不同的资源，找到一种平衡的状态，实现人生系统的最优化。
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYeSHtgnU3txNg61iaWHXibJ0jyoI5b3iaceK0K2zBg7iaVGSkHxjUYNibg3Q/640?wx_fmt=png)
-然而，很多人在年轻的时候，肆意挥霍自己的时间和健康，等赚到钱之后，又肆意挥霍自己的财富，临终的时候，才发现自己什么都没有，只留下一堆遗憾，追悔莫及。  
-如果你懂得运用系统思维，选择在正确的时间，用正确的方式去做正确的事情，比如吃更健康的食物、使用更高效的工具等，你的人生将会活得更加精彩。  **最后的话**
-**系统思维是一种技能，光「知道」是远远不够的，更重要的是能够「做到」。** [ 从知道到做到
-](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481115&idx=1&sn=ac9e1fc43146ac459f791012d953a7af&scene=21#wechat_redirect)
-，需要我们反复地实践练习。在实践的过程中，你也许会发现系统复杂多变，存在很多不确定性，难以预测和驾驭。  **
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYM0bCbT06J3bjcRicHNdUiaqNOxjgKuuSSbx8ibVMjYHVia108TgsSGtfibQ/640?wx_fmt=png) 按照《最优解人生》的方法，我们应该合理搭配不同的资源，找到一种平衡的状态，实现人生系统的最优化。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2u3qssgz8hyDXn3MRr8APYeSHtgnU3txNg61iaWHXibJ0jyoI5b3iaceK0K2zBg7iaVGSkHxjUYNibg3Q/640?wx_fmt=png) 然而，很多人在年轻的时候，肆意挥霍自己的时间和健康，等赚到钱之后，又肆意挥霍自己的财富，临终的时候，才发现自己什么都没有，只留下一堆遗憾，追悔莫及。  
+
+如果你懂得运用系统思维，选择在正确的时间，用正确的方式去做正确的事情，比如吃更健康的食物、使用更高效的工具等，你的人生将会活得更加精彩。  
+
+**最后的话**
+
+**系统思维是一种技能，光「知道」是远远不够的，更重要的是能够「做到」。** [从知道到做到](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481115&idx=1&sn=ac9e1fc43146ac459f791012d953a7af&scene=21#wechat_redirect) ，需要我们反复地实践练习。在实践的过程中，你也许会发现系统复杂多变，存在很多不确定性，难以预测和驾驭。  **
+
 面对不确定性，我们不是听天由命，而是积极采取行动， ** 顺应系统的特点，  **
+
 努力控制自己能控制系统变量，让自己在正确的方向上前进，将来也许就会有意想不到的收获。  ** 运用系统思维，选择做正确的事，就算事情本身没有做成，但是也许
+
 可以认识一些新的朋友，或者知道一些新的机会，或者掌握一些新的资源，或者学到一些新的知识……
+
 系统思维涉及的知识有很多，本文只是从一些侧面，介绍了系统思维的概念和应用案例，希望能帮你打开系统思维的大门。
+
 如果你想了解更多关于系统思维的相关知识，可以阅读一些相关的书籍，例如：  《系统之美》（德内拉·梅多斯，2012）
+
 《系统思考》（丹尼斯·舍伍德，2014）

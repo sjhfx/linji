@@ -12,11 +12,11 @@
 
 今天介绍的第 **018** 号分析思维模型： **Kano 模型** ，能帮我们更好地分析和理解用户的需求。
 
-**1\. 模型介绍**
+**1. 模型介绍**
 
 1984 年，东京理工大学教授 Kano 提出一种模型，用来研究产品功能与用户满意度之间的关系，实现对用户需求进行分类和优先级排序，如下图所示：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1SgVDcyZVhb8m9ZicNpyU0icNowv5CicoudswZgXkvl4njsCjkWNCze43BZRhCUXtibkEVzJoSvWkfzg/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1SgVDcyZVhb8m9ZicNpyU0icNowv5CicoudswZgXkvl4njsCjkWNCze43BZRhCUXtibkEVzJoSvWkfzg/640?wx_fmt=png) 
 
 Kano 模型根据用户对产品功能的不同感受，把影响满意度的属性分成 5 种类型：
 
@@ -68,16 +68,16 @@ Kano 模型根据用户对产品功能的不同感受，把影响满意度的属
 
 ** 必备属性 > 期望属性 > 魅力属性 > 无差异属性 > 反向属性  **  
 
-**2\. 应用举例**
+**2. 应用举例**
 
 在应用 Kano 分析模型的时候，我们通常选择能代表核心用户的群体进行调研。
 
 如果把公众号文章当成一个产品，那么文章内容是这个产品的功能，读者是这个产品的用户。
 
-为了分析读者对文章内容的需求，我设计了一份调查问卷，你现在可以拖到文章的最后，点击左下角的阅读原文，填写之后再继续阅读下面的内容，这样能更好地理解 Kano
-模型的实际应用。
+为了分析读者对文章内容的需求，我设计了一份调查问卷，你现在可以拖到文章的最后，点击左下角的阅读原文，填写之后再继续阅读下面的内容，这样能更好地理解 Kano 模型的实际应用。
 
 这份调查问卷其实是针对公众号文章的六个方面，分别从正负两个方向进行提问，其中编号为奇数的问题属于正向提问，也就是询问当具备某一功能时读者的感受；否则属于负向提问，也就是询问当
+
 **不** 具备某一功能时读者的感受。
 
 我邀请一些  读者  填写了这份调查问卷，并收集整理了 55 份调查结果，采用了 Kano 模型的 2 种分析方法：
@@ -86,11 +86,11 @@ Kano 模型根据用户对产品功能的不同感受，把影响满意度的属
 
 首先，根据读者对正向提问和负向提问的回答结果，按照下面的表格对属性进行分类：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCcUElODeicxXuSzL5lib5KicSJ9m1rWlbSZZ3TO2WkVVLhgltL6SIJs5aNw/640?wx_fmt=png)
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCcUElODeicxXuSzL5lib5KicSJ9m1rWlbSZZ3TO2WkVVLhgltL6SIJs5aNw/640?wx_fmt=png) 
 
 其次，利用 Tableau 进行数据可视化，得到的分析结果如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCcu7mWWazG65xxZgnAF9Nf9eseKM45N1aMBic947VRUyAuEDM6BUbKYSQ/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCcu7mWWazG65xxZgnAF9Nf9eseKM45N1aMBic947VRUyAuEDM6BUbKYSQ/640?wx_fmt=jpeg) 
 
 从图中可以得出以下分析结论：
 
@@ -105,16 +105,24 @@ Kano 模型根据用户对产品功能的不同感受，把影响满意度的属
 类似地，根据读者对正向提问和负向提问的回答结果，按照下面的表格进行正向评分和负向评分：
 
 **问卷回答** |  **正向评分** |  **负向评分**  
+
 ---|---|---  
+
 A.我喜欢这样  |  4  |  -2  
+
 B.理应如此  |  2  |  -1  
+
 C.我无所谓  |  0  |  0  
+
 D.我勉强接受  |  -1  |  2  
+
 E.不喜欢这样  |  -2  |  4  
+
   
+
 接下来，利用 Tableau 进行数据可视化，得到的分析结果如下：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCciaepCRG7QsliahK7MMyBN9LWvXplHjuic6XZqWooGZLTbBfhQ30aorAvg/640?wx_fmt=jpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo3v9zI1qzgAjZ4c5MMo4mCciaepCRG7QsliahK7MMyBN9LWvXplHjuic6XZqWooGZLTbBfhQ30aorAvg/640?wx_fmt=jpeg) 
 
 从图中可以得出与离散 Kano 分析基本一致的结论。
 
@@ -127,7 +135,7 @@ E.不喜欢这样  |  -2  |  4
 **一个好的产品，应该权衡利弊，既要抓住用户的痛点，满足用户的必备需求，让用户觉得没有它就不行；又要有亮点，让用户有意料之外的惊喜。**
 
 我把自己的公众号当成一个产品，抱着让读者满意的心态，考虑读者的实际需求，坚持让  读者获得价值或启发  的原则  ，  希望
+
 获得读者的信任和尊重，成为读者的关注列表里，最有价值的公众号之一。
 
-所以，我非常重视每一位读者的宝贵意见  ，为了让问卷调查的分析结果更加准确，倾听您的真实声音，了解您的真实想法，希望您能抽出 3
-分钟左右的时间，把您的真实感受和意见建议告诉我。
+所以，我非常重视每一位读者的宝贵意见  ，为了让问卷调查的分析结果更加准确，倾听您的真实声音，了解您的真实想法，希望您能抽出 3 分钟左右的时间，把您的真实感受和意见建议告诉我。
