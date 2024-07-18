@@ -28,7 +28,7 @@
 
 ### 一个系统，系统思维绘蓝图
 
-用「数据化分析系统」促进个人成长，如果你想驾驭时间、情绪与习惯，你可以加我微信（linjipro）获取授权。
+用「数据化分析系统」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro）获取授权。
 
 ![](static/JISJbf3nlo1d5Kxv5wkcRzSNnab.jpg)
 
@@ -40,7 +40,17 @@
 
 ### 一个专栏，[数据化分析案例库](https://xiaobot.net/p/sjhfxalk)
 
+案例可以带来有益的启发和思考，计划更新 100 个数据化分析案例。
+
 ![](static/LRvybGVEYoGg6ux4l4RcRT0PnSe.png)
+
+### 一个 [AI 智能体](https://www.coze.cn/s/i6oWAwCV/)，用 AI 提升数据分析的效率
+
+如果你想借助 AI 的力量，用数据化解难题，让分析更加有效，欢迎你扫码体验。
+
+![](static/1721270620776.png)
+
+<iframe src="hhttps://www.coze.cn/s/i6oWAwCV/" width="100%" height="200"></iframe>
 
 如果你对我的个人经历感兴趣，可以继续看下面的简介。
 
