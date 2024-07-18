@@ -44,9 +44,12 @@
 
 下面是完整的 Python 代码：
 
-```python # 导入所需的库
+```python 
+# 导入所需的库
 
-import numpy as np import pandas as pd import matplotlib.pyplot as plt 
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
 
 # 正常显示中文标签
 
@@ -112,7 +115,8 @@ plt.vlines(x=x.mean(), ymin=0, ymax=ax.get_ylim()[1], colors='#999999', linewidt
 
 plt.grid(False) 
 
-plt.show() ```
+plt.show() 
+```
 
 **最后的话**
 
