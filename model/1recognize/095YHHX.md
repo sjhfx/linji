@@ -75,3 +75,5 @@
 在这个充满机遇与挑战的时代，让我们拿起用户画像这把钥匙，解锁个性化服务的大门，开启更加美好的未来。  
 
 延伸阅读：  《数据分析实战》（曾津，2023年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

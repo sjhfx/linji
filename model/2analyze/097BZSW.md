@@ -63,3 +63,5 @@
 通过深入学习和运用本质思维，你将不会叹息自己没有赶上好时代，而会更加清晰地知道自己当前的定位，并且更好地把握未来发展的趋势，进而做出更加明智的决策。
 
 延伸阅读：  《商业的本质》（杰克·韦尔奇，2016年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

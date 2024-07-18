@@ -139,3 +139,5 @@ E.不喜欢这样  |  -2  |  4
 获得读者的信任和尊重，成为读者的关注列表里，最有价值的公众号之一。
 
 所以，我非常重视每一位读者的宝贵意见  ，为了让问卷调查的分析结果更加准确，倾听您的真实声音，了解您的真实想法，希望您能抽出 3 分钟左右的时间，把您的真实感受和意见建议告诉我。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

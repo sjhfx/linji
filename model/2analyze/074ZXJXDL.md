@@ -94,3 +94,6 @@
 
 《模型思维》（[美]斯科特·佩奇，2023年）
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

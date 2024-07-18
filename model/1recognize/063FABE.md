@@ -105,3 +105,5 @@ ttention：引起 **注意** I 代表 **I** nterest：诱发 **兴趣** D 代表
 参考资料：
 
 《快速成交》（俞赛前，2020）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

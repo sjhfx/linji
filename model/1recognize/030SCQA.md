@@ -101,3 +101,5 @@
 **在日常工作和生活中，我们常常困惑于想不明白、讲不清楚，不知道应该怎么做，其实是因为缺乏一些分析思维模型的训练。** 
 
 借助一些分析思维模型，可以帮我们理解事物的本质，并且用适当的方式准确地表达出来，不仅能让人听得懂，而且听得津津有味。  
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

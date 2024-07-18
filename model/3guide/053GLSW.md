@@ -115,3 +115,5 @@ ChatGPT 的回复如下：
 《底层逻辑》
 
 《底层逻辑 2》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

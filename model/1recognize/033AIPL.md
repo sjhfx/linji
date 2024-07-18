@@ -143,3 +143,5 @@ ction  促成行动
 我认为，这个 AIDA 公式与 AIPL 模型背后的原理其实也是相通的，关键在于结合业务的实际场景，灵活加以运用。  
 
 总之，结合数据分析的思维和方法，  利用  模型的力量  ，  做到有的放矢，才  能更好地实现用户增长  。 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

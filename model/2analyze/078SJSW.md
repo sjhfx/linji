@@ -105,3 +105,5 @@
 延伸阅读：  《写给大家看的设计书》（[美]罗宾·威廉姆斯，2009年）  《设计心理学》（[美]唐纳德·A·诺曼，2015年）
 
 《全新思维》（[美]丹尼尔·平克，2023年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

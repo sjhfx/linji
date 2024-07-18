@@ -99,3 +99,5 @@
 非常感谢你的信任与支持，请你认真考虑清楚之后再联系我， **不要冲动购买** 。  延伸阅读：  《发现你的天赋》（[英]肯·罗宾逊，2015年）
 
 《盖洛普优势识别器 2.0》（[美]汤姆·拉思，2016年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

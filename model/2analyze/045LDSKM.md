@@ -161,3 +161,5 @@
 绿帽多 **创意** ，发散性思维；
 
 蓝帽是 **控制** ，归纳并总结。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

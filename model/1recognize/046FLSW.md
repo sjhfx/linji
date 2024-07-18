@@ -111,3 +111,5 @@
 这些道理似乎人人都懂，但一旦付诸行动，多数人并没有真正理解时间对于复利的意义。
 
 当你洞察了时间的机制，通过持续深度学习，构建自己的核心竞争力，最终将会收获更加快速的成长。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

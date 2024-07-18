@@ -105,3 +105,5 @@ GPT 用 Python 绘制概率分布的曲线，稍加修改之后的代码如下�
 **是一种重要的概率分布模型，具有广泛的应用领域。通过学习和运用泊松分布，我们可以更好地理解和分析随机事件发生的规律，并用来预测未来发生的概率，进而帮助我们更好地用数据化解难题，让分析更加有效。**
 
 延伸阅读：  《刘嘉概率论通识讲义》  《吴军数学通识讲义》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

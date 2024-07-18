@@ -105,3 +105,5 @@
 参考资料：  《经济学的思维方式》（保罗·海恩等，2023年）  《经济学的意义》（姚洋，2023年）  《经济学好实用》（丹尼·罗德里克，2023年）
 
 《薛兆丰经济学讲义》（薛兆丰，2018年）  《思维导图高效决策法》（西蒙·米勒等，2021年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

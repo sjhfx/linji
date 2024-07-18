@@ -191,3 +191,5 @@
 随着技术的快速发展，工具应用类的技术门槛将变得越来越低，很多人的职业都将被机器人取代。
 
 学习、思考、实践 100 种分析思维模型  ，积极应对未来的变化，  是我应对潜在风险的一种策略。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

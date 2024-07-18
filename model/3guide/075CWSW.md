@@ -87,3 +87,5 @@
 《财务思维》（梅泽真由美，2020年）  《肖星的财务思维课》（肖星，2020年）  《贾宁财务讲义》（贾宁，2020年）
 
 《好懂秒懂的财务思维课》（郝旭烈，2023年） 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

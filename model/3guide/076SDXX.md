@@ -75,3 +75,5 @@ AlphaGo，打败了围棋世界冠军李世石，后来又击败了当时世界�
 《深度学习》（[美]特伦斯·谢诺夫斯基，2019年）  《深度学习进阶》（[日]斋藤康毅，2020年）
 
 《Python深度学习》（[美]弗朗索瓦·肖莱，2022年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

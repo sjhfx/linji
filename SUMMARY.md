@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👤 林骥 linji](README.md)
+* [林骥 linji](README.md)
 * [⏯️ 特刻 tech](tech/README.md)
   * [💎 时间 time](tech/time.md)
   * [👥 情绪 emotion](tech/emotion.md)

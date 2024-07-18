@@ -107,3 +107,5 @@ B 给 C 的贡献来看，A 应该拿 7 块钱，B 应该拿 1 块钱。  你看
 如果你不懂得正确运用归因分析，可能就会像上面故事中的两位同学那样，自己吃了亏都不知道。  ** ** 延伸学习：  《活用数据》（陈哲，2019年）
 
 《张潇雨·商业经典案例课》  《李松蔚·心理学通识》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -119,3 +119,5 @@ plt.show() ```
 做聚类分析的时候，首先要考虑解决的问题是什么，然后再选择适当的变量进行聚类。
 
 最后，我们一定要记住： **不要脱离业务问题谈模型，而要让模型更好地为业务决策服务。** ****
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

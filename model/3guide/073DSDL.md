@@ -95,3 +95,5 @@ Python 代码模拟了抛硬币的过程：
 只有努力提升自己的认知水平，从过去收集数据，到现在分析思考，再到未来指导行动，做好风险的管控，才能让生活变得更加幸福。  延伸学习：
 
 《刘嘉概率论通识讲义》（刘嘉，2021年）  《30 天认知训练营》（王烁，2020年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

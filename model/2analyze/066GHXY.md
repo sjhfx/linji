@@ -93,3 +93,5 @@
 **记住，不要被光环效应蒙蔽了双眼，而要综合运用多种不同的分析思维模型，从不同的角度去观察和思考，这样才能更好地认识世界，发现事物背后的真相，进而做出更加明智的决策。** 
 
 延伸阅读：  《光环效应》（[美] 罗森维，2020）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -73,3 +73,5 @@
 提出问题，就像是  拉  线；给出答案，就像是放线。  **
 
 在具体表达的时候，你可以先提出问题，以激发人的好奇心，再用答案来传递信息，不断循环往复地推进下去，直到  完  成  目标。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

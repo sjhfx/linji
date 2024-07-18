@@ -78,3 +78,6 @@
 
   3. 《逻辑思维，只要五步》（下地宽也，2017 年） 
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -91,3 +91,5 @@
 《数学归纳法》（华罗庚，2002 年）  
 
 《逻辑思维训练 50 讲》（吴军，2024 年） 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

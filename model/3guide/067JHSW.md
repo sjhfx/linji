@@ -79,3 +79,5 @@
 **行有不得，反求诸己** 。  让我们主动去「 **探索、改进和反思** 」，持之以恒地追求智慧，等到时机成熟的时候，就能在快速变化的世界中脱颖而出。
 
 延伸阅读：  《基因之河》（理查德·道金斯，2019）  《王立铭进化论讲义》（王立铭，2022）  《进化的力量 2》（刘润，2023）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

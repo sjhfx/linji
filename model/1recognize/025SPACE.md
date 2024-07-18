@@ -93,3 +93,5 @@ SPACE 矩阵的横轴代表竞争优势和产业优势，纵轴代表财务优�
 《赢取竞争的100+N工具箱》
 
 《战略与管理》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

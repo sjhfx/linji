@@ -59,3 +59,5 @@
 我现在可能还不知道，某种分析思维模型将来能发挥什么作用，但是我知道，  
 
 **保持开放学习的好奇心和乐观的心态**，肯定是有益的，所以这对我来讲，是一件很重要的事情。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

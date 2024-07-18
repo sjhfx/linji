@@ -67,3 +67,5 @@ MECE 法则，把时间划分为 9 个大类，让每个大类相互独立，且
 总之，MECE 法则是一个简单而强大的分析思维工具，它能帮我们以更有条理的方式思考和解决问题，避免重叠、遗漏和混淆，让我们更加有效地应对工作和生活中的各种挑战。
 
 延伸阅读：  《金字塔原理》（芭芭拉·明托，2019年）  《每个人的商学院》（刘润，2019年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

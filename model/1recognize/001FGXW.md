@@ -47,3 +47,5 @@
 一个分析思维模型，往往不是孤立存在的，不同模型之间，可以互相融合，从而提升数据分析的效果。
 
 就像查理·芒格的多元思维模型，其实是糅合了来自多个学科的分析工具、方法和公式。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

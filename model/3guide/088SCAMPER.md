@@ -77,3 +77,5 @@ SCAMPER 模型进行分析和优化。
 你可以自由想象上面故事的场景，或者另外再编一个新的故事，你的联想越丰富，就能记得越牢固。  让我们一起学习和运用 SCAMPER 模型，开启创新思考之旅。
 
 延伸阅读：  《创新能力训练》（朱洁，2020年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

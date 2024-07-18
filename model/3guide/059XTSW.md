@@ -101,3 +101,5 @@
 如果你想了解更多关于系统思维的相关知识，可以阅读一些相关的书籍，例如：  《系统之美》（德内拉·梅多斯，2012）
 
 《系统思考》（丹尼斯·舍伍德，2014）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -255,3 +255,5 @@ Lead 这个英语单词的意思是「领导」，作为自己人生的 CEO，�
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/giaycic3UNwo2U8Q00hZDGlpjCnuRgGGesibTIdd4IPEVtu3ajoKrpeD87Nrqfry56r58OzzqamOuuyb9oJIDjAcw/640?wx_fmt=jpeg) 
 
   
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

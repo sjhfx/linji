@@ -141,3 +141,5 @@
 一种合理的解释是，诺贝尔奖的数量与巧克力的消费量，很可能都是由其他变量导致的，例如国民的受教育程度和富裕程度。
 
 最后，请一定要牢牢记住， **相关关系不等于因果关系** 。  ****
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

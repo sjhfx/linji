@@ -121,3 +121,5 @@ plt.show() ```
 矩阵分析模型的应用非常广泛，不仅能用来分析产品和销售，而且还能用来做[人群划分](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653473967&idx=1&sn=544e23b9861f3fbf57a05c915b8bac99&scene=21#wechat_redirect) ，甚至可以用来[实现梦想](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653474951&idx=1&sn=e4309585da5b8697e3255d0ce15a98ad&scene=21#wechat_redirect) ，等等。
 
 合理地应用矩阵分析模型，能够帮助我们更好地抓住问题的关键，更深刻地理解关键指标之间的联系，提高我们分析思维能力，从而提出更有前瞻性的建议，帮助我们作出更加科学的决策。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

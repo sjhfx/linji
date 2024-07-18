@@ -51,3 +51,5 @@
 面对复杂多变的现实世界，我们需要能够根据具体的环境状况，在多个模型之间做出正确的选择，这是智慧的一种体现。
 
 我把 **100** 种分析思维模型当成自己升级的武器，用来解决现实世界中的难题，在难题出现的地方，努力做到极致，做出价值和意义。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

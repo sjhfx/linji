@@ -59,3 +59,5 @@ GPT，实现起来变得简单很多。  为了帮助更多人用数据化解难
 当你能够熟练运用随机森林之后，就能更好地理解事物的本质，进而做出更加睿智的决策。  而且， **你掌握的思维模型和案例越多，解决问题的能力就越强。**
 
 延伸阅读：  《现代决策树模型及其编程实践》（黄智濒，2022年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

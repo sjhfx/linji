@@ -57,3 +57,5 @@
 把不同的专业技能组合在一起，将会带来更大的价值。比如，一个有销售能力的工程师，或者一个懂软件编程的数据分析师，都会更有价值。
 
 对我来说，重点发展的专业能力组合是：  数据分析和技术研发。  展望未来，我希望  运用成长型思维，不断增强自己的核心竞争力  。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

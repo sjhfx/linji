@@ -139,3 +139,5 @@ L. 团队讨论允许开放地表达不同意见和感受（5）
 然而，对于一个相对比较成熟的团队来讲，最容易出问题的其实是人，所以需要运用 [**逆向思维**](http://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653476240&idx=1&sn=7993c710b4b697ff52dea011cf66da5f&chksm=8bf23a02bc85b314229dbb0db031f1d415c8e34bbf4dd143ccd45a58a3e415adaf88f85e98a1&scene=21#wechat_redirect) ，也就是把 GRPI 模型反过来用，从互动的人际关系出发， **先解决心情，再解决事情** ，如此才能更好地进行问题诊断和分析研究，进而更加高效地化解难题。
 
 **总之，学习和运用 GRPI 模型，有助于打造高绩效团队，这是迈向成功的重要因素。**
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -89,3 +89,5 @@ SMART 原则进行量化，  分类  遵循 MECE 法则
 ** 智慧  ** 是掌握多种不同的分析思维模型。
 
 一旦你能熟练运用多元思维模型，懂得用思维去驾驭工具，那么数据认知水平将会迅速得到提升。 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

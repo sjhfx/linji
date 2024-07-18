@@ -111,3 +111,5 @@ STORY 公式背后的逻辑，内核是一个可以让听众感知到的挑战�
 《善用图表》
 
 《千面英雄》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

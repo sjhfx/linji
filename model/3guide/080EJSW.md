@@ -99,3 +99,5 @@
 ，综合考虑问题的长期影响和多种可能性，并反思自己的决策和行动，就能有效提升自己的洞察力，成为一个更有智慧的人  。  延伸阅读：
 
 《思维模型》（[美]彼得·霍林斯，2020年）  《思考的框架》（[加]沙恩·帕里什，2023年）  《笔记的方法》（刘少楠等，2023年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

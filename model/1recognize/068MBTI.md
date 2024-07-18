@@ -137,3 +137,5 @@ MBTI 模型的作用，不是用来给自己或他人简单地贴标签，而是
 《请理解我》（凯尔西，2011年2月）  
 
 《天生性格16种》（朱若霞，2018年6月）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

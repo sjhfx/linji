@@ -154,3 +154,6 @@ AI「一本正经地胡说八道」，就算被 AI「骗」了，自己可能还
 
 以上，就是我对批评性思维的一些思考和总结，你也可以运用批评性思维，自己去思考这些内容背后的逻辑是什么，然后做出自己的判断。
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

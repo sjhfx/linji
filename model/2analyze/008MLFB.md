@@ -61,3 +61,5 @@
 虽然幂律分布模型让人难以预料，但它却能  帮助我们更好地认识世界  ，让世界变得更有活力，是我们对抗熵增的一种有效武器。
 
 分析思维模型为探索世界提供助力，而经验和知识就像催化剂，帮助我们加速理解事物的本质。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

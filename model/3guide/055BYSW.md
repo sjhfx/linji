@@ -147,3 +147,5 @@ B  监禁5  年
 总之，博弈思维是一种重要的分析和决策模型，能帮助我们应对不确定性的环境。通过学习和运用博弈思维，我们可以更好地理解他人，预判利益相关者的行为，并制定相应的策略，进而做出更加明智的决策并取得成功。
 
 延伸阅读：  《吴军数学通识讲义》  《博弈：所有问题都是一场赛局》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

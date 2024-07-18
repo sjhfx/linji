@@ -193,3 +193,5 @@ DIKW 模型是以下四个英文单词的首字母缩写：
 总之， **记录数据和收集信息只是基础，而深度思考和付诸行动才是关键**
 
 。努力把别人的知识，内化到自己的知识体系中，经过不断完善、修改和丰富，用来指导决策和行动，才能创造更大的价值。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

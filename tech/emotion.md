@@ -107,3 +107,5 @@
 ![](../static/R3UybO1spoJdWoxCvsncGss1nCh.png)
 
 情绪就像一匹野马，需要我们学会好好驾驭它，才能让它为我们创造更大的价值。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -119,3 +119,5 @@ c. 把【L 生命周期】拖至【大小】，把图例拖到左边，以节约
 理解客户，本质就是要洞察和满足客户的需求。
 
 如果按照客户生命周期来划分客户，那么有助于我们理解不同阶段的客户需求，从而有针对性地采取运营策略，在成本可控的前提下，尽可能延长客户的生命周期。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

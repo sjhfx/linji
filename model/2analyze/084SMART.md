@@ -73,3 +73,5 @@ SMART 法则？**
 如果你能围绕自己的目标、使命或愿景，去制定相应的计划，然后借助 SMART 法则，确定自己达成目标的路线图，并认真去践行，形成 [PDCA](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653480380&idx=1&sn=42602a7ea33cbe472c6423926e9c8c5a&scene=21#wechat_redirect) 的循环，那么就能更好地完成自己的目标。  **总之，SMART 法则是制定目标和实现目标的一把利器，学会合理运用 SMART 法则，可以帮助我们明确方向，走出迷茫和焦虑，避免盲目努力和拖延，进而过上更加幸福的生活。** 参考资料：  《管理的实践》（彼得·德鲁克，2018年）
 
 《可复制的领导力》（樊登，2018年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

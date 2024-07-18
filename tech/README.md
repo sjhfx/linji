@@ -20,3 +20,5 @@ flowchart TD
 养成**习惯**需要“上身”。
 
 **把当下手头的事情做好，做到身心合一，就是值得过的特殊时刻。**
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

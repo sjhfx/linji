@@ -69,3 +69,5 @@ Threats。优势和劣势是内在的要素，机会和威胁则是外在的要�
 《赢取竞争的100+N工具箱》
 
 《决策的12个工具》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

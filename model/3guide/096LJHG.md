@@ -62,3 +62,6 @@ Sigmoid 函数对应的图形如下：
 
 逻辑回归算法](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653474788&idx=1&sn=6d6d12fb86cf22f542042c59ea643d93&scene=21#wechat_redirect) 《零基础学机器学习》（黄佳，2020年）  
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

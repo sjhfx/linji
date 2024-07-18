@@ -131,3 +131,5 @@ C(3, 2) = 3! / (2! (3-2)!) = 3
 《时间贫困》（凯茜·霍姆斯，2023年）
 
 《高中数学》（人民教育出版社）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

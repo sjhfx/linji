@@ -71,3 +71,5 @@ PEST 分析思维模型，只是提供了一个分析的框架，并没有提供
 《赢取竞争的100+N工具箱》
 
 《每个人的商学院》
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

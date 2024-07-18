@@ -147,3 +147,5 @@
 最后，提醒一下：  任何一个分析思维模型，都不可能解决所有的问题  。
 
 我们应该根据实际情况，把更多的时间和精力，用来灵活地选择和应用多种分析思维模型，从而做出更加科学的决策。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

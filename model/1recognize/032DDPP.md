@@ -124,3 +124,6 @@ DDPP 是以下英文词组的缩写：
 
 我认为，数据向善，  通过合理利用数据和分析思维模型，将会给个人成长带来更多的正能量  ，  做出更好的决策和行动  ，  成为一个更有  智慧的人  ，给  世界带来更  多美好的东西  。  
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

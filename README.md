@@ -187,3 +187,5 @@ timeline
 
 作者：林骥
 2023年12月
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

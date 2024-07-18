@@ -107,3 +107,5 @@ OCEAN 模型或人格海洋，就像海洋一样，蕴含着巨大的生命力�
 《突破天性》（布赖恩·利特尔，2018年）
 
 《做自己擅长的事，还是喜欢的？》（阿尔约沙·诺伊鲍尔，2022年）  
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -99,3 +99,5 @@
 假设检验的基本思想，是在不确定性的条件下，相信小概率事件不会经常发生，如果真的发生了，那么就选择拒绝原来的假设。
 
 假设检验并非绝对可靠，但是通过弄清楚最有可能的解释，我们可以更好地认识世界上的许多现象，从而得出更有价值的分析结论。
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

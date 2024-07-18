@@ -128,3 +128,6 @@ SpaceX、电动汽车特斯拉公司等，他的梦想是让人类能够移民�
 
 运用第一性原理，建立一套属于自己的系统能力，打造一套属于自己的核心算法，学会看透事物的本质，把时间才会花在更有价值的地方，这样就能让生活变得更加美好。
 
+
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -105,3 +105,5 @@ $A$1:$B$6，勾选【标志位于第一行】，再点击确定，Excel 将自�
 《女士品茶》（戴维·萨尔斯伯格，2016年） 
 
  《穷查理宝典》（彼得·考夫曼，2021年） 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

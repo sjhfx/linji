@@ -99,3 +99,5 @@
 《远见：如何规划职业生涯 3 大阶段》（布赖恩·费瑟斯通豪，2017）
 
 《最小阻力之路》（罗伯特·弗里茨，2021） 
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

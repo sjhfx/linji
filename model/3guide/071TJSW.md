@@ -99,3 +99,5 @@ AI（人工智能）技术的发展，我们可以快速处理和分析海量的
 学会运用统计思维，就像拥有一种透视镜，让我们能够透过表面的现象，看到事物背后的规律和趋势，进而做出更加睿智的决策。  ** 延伸学习：
 
 《统计思维》（Allen B. Downey，2015年）  《统计学 20 讲》（刘嘉，2022）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -67,3 +67,5 @@
 **运用费米估算时，重要的不是结果，而是分析和思考的过程。** 延伸阅读：  《全世界有多少只猫》（日本东大案例学习研究会，2023年）
 
 《数据化决策》（道格拉斯·W.哈伯德，2018年）  《图解数据科学》（增井敏克，2023年）
+
+![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
