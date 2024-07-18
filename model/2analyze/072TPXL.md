@@ -128,4 +128,6 @@
 
 《影响力》（罗伯特·西奥迪尼，2021年） 
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -349,4 +349,6 @@
 
 希望我们每个人都能**不恋过去，不负现在，不惧未来，砥砺前行**，认真过好当下的每一天，努力成为一个更有智慧的人。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

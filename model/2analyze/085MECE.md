@@ -68,4 +68,6 @@ MECE 法则，把时间划分为 9 个大类，让每个大类相互独立，且
 
 延伸阅读：  《金字塔原理》（芭芭拉·明托，2019年）  《每个人的商学院》（刘润，2019年）
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -70,4 +70,6 @@ A 只有第（3）种情况能增加价值，所以，A 的价值等于 12 万�
 
 如果你能利用自己擅长的、热爱的、并且是社会需要的技能，创造出足够大的价值，那么就相当于拥有宝贵的稀缺资源。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

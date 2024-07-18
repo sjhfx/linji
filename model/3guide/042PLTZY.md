@@ -58,4 +58,6 @@
 
 对我来说，重点发展的专业能力组合是：  数据分析和技术研发。  展望未来，我希望  运用成长型思维，不断增强自己的核心竞争力  。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

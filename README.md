@@ -186,6 +186,7 @@ timeline
 9. 善用工具，比如用好「**数据化分析系统**」，优化自己的**时间、情绪、选择与习惯**。
 
 作者：林骥
-2023年12月
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

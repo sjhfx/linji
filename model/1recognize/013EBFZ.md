@@ -60,4 +60,6 @@
 
 **保持开放学习的好奇心和乐观的心态**，肯定是有益的，所以这对我来讲，是一件很重要的事情。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -88,4 +88,6 @@ uperiority  高价值  会员总量  ** ④  ** **T** hriving 会员活跃率
 
 灵活运用分析思维模型，关键在于深刻理解业务的背景，结合业务的实际情况，做出更加明智的决策。 
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

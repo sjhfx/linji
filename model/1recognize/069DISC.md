@@ -132,4 +132,6 @@ DISC 模型，不仅可以完善人格，而且能够提高情商，还能增强
 
 《懂得》（俞亮，2021年）
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -100,4 +100,6 @@ c. 新建一个仪表板，把前面做好的图表拖进去，然后设置标�
 
 接下来，按照二八法则，我计划把重心转向分析思维模型的应用，写作更加通俗易懂的文章，希望能够帮助更多人用数据化解难题。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

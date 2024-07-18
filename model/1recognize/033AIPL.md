@@ -144,4 +144,6 @@ ction  促成行动
 
 总之，结合数据分析的思维和方法，  利用  模型的力量  ，  做到有的放矢，才  能更好地实现用户增长  。 
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

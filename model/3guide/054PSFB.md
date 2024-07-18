@@ -106,4 +106,6 @@ GPT 用 Python 绘制概率分布的曲线，稍加修改之后的代码如下�
 
 延伸阅读：  《刘嘉概率论通识讲义》  《吴军数学通识讲义》
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

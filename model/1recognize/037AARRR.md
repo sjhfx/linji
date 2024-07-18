@@ -136,4 +136,6 @@
 
 运用数据分析的细分思维，只要 **找到合适的推广渠道，在合适的时间，把合适的产品，推给合适的用户** ，找到可以优化的环节，就能实现掠夺式的增长。  
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -76,4 +76,6 @@
 
 为了更好地掌控自己的时间，我把分析思维模型应用到「数据化分析系统」中，通过感知数据、认知规律、帮助决策和付诸行动，形成一种正向循环。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

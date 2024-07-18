@@ -130,4 +130,6 @@ AI 回答说：AI 和人类共同的盲区主要在于情感和价值观方面�
 
 所以，学习更多有用的分析思维模型，训练提升自己的思维能力，可以帮助我们更好地理解和解决问题，提升我们的综合素质和核心竞争力。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

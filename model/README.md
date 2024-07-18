@@ -52,4 +52,6 @@
 
 我把 **100** 种分析思维模型当成自己升级的武器，用来解决现实世界中的难题，在难题出现的地方，努力做到极致，做出价值和意义。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

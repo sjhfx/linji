@@ -138,4 +138,6 @@
 
 希望我们都能好好利用数据化分析系统，把它当成促进个人成长的利器，让自己成为一名「生活中的黑客」，用「数据分析」、「算法模型」和「系统思维」，「黑」进生活系统，轻松驾驭自己的时间、情绪与习惯，成为更有智慧的人，从而过上更加幸福的生活。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

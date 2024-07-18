@@ -100,4 +100,6 @@ AI（人工智能）技术的发展，我们可以快速处理和分析海量的
 
 《统计思维》（Allen B. Downey，2015年）  《统计学 20 讲》（刘嘉，2022）
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -42,4 +42,6 @@
 
 如果你能熟练掌握 **100** 种分析思维模型，并且能够适当加以应用，那么你将是一个能够解决复杂问题的专家，我相信无论你走到哪里，都会是一个受欢迎的人。
 
-![PageViews](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+更新：2024-07-18
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
