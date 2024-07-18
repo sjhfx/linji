@@ -44,13 +44,11 @@
 
 ![](static/LRvybGVEYoGg6ux4l4RcRT0PnSe.png)
 
-### 一个 [AI 智能体](https://www.coze.cn/s/i6oWAwCV/)，用 AI 提升数据分析的效率
+### 一个[智能体](https://www.coze.cn/s/i6oWAwCV/)，用 AI 提升工作效率
 
 如果你想借助 AI 的力量，用数据化解难题，让分析更加有效，欢迎你扫码体验。
 
 ![](static/1721270620776.png)
-
-<iframe src="https://www.coze.cn/s/i6oWAwCV/" width="100%" height="200"></iframe>
 
 ---
 
