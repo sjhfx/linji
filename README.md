@@ -50,7 +50,9 @@
 
 ![](static/1721270620776.png)
 
-<iframe src="hhttps://www.coze.cn/s/i6oWAwCV/" width="100%" height="200"></iframe>
+<iframe src="https://www.coze.cn/s/i6oWAwCV/" width="100%" height="200"></iframe>
+
+---
 
 如果你对我的个人经历感兴趣，可以继续看下面的简介。
 
