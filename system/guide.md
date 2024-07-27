@@ -69,3 +69,7 @@
 ![](static/SARkbIkWGoKFaixdHBic8RznnWc.png)
 
 在使用数据化分析系统的过程中，如果你有任何疑问，都可以在知识星球上向我提问。
+
+更新：2024-07-27
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
