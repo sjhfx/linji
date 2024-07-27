@@ -114,4 +114,5 @@
   * [🔄 上手指南](system/guide.md)
   * [🔄 常见问题](system/questions.md)
   * [🔄 用户反馈](system/feedback.md)
+  * [🔄 更新记录](system/logs.md)
 * [AI 智能体](https://www.coze.cn/s/i6oWAwCV/)
