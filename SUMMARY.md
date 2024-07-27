@@ -111,4 +111,7 @@
     * [逻辑回归](model/3guide/096LJHG.md)
     * [数学归纳法](model/3guide/099SXGNF.md)
 * [🔄 系统 system](system/README.md)
+  * [🔄 上手指南](system/guide.md)
+  * [🔄 常见问题](system/questions.md)
+  * [🔄 用户反馈](system/feedback.md)
 * [AI 智能体](https://www.coze.cn/s/i6oWAwCV/)
