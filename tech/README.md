@@ -1,15 +1,6 @@
 # ⏯️ 特刻 tech
 
-```mermaid
-flowchart TD
-    B["特刻 tech"]
-    B-->C["时间 time"]
-    B-->D("情绪 emotion")
-    B-->E("选择 choice")
-    B-->F("习惯 habit")
-```
-
-特刻是“特殊时刻”的简称，也是 tech 这个英文简写的音译名，因为首字母分别代表：时间 time、情绪 emotion、选择 choice、习惯 habit。
+特刻是“特殊时刻”的简称，也是 tech 这个英文简写的音译名，因为首字母分别代表：时间 **t**ime、情绪 **e**motion、选择 **c**hoice、习惯 **h**abit。
 
 **时间**记录容易“上手”，
 
@@ -21,6 +12,6 @@ flowchart TD
 
 **把当下手头的事情做好，做到身心合一，就是值得过的特殊时刻。**
 
-更新：2024-07-18
+更新：2024-07-27
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
