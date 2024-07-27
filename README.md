@@ -28,9 +28,9 @@
 
 ### 一个系统，系统思维绘蓝图
 
-用「数据化分析系统」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro）获取授权。
+用「[数据化分析系统](system/README.md)」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro），转账 199 元获得授权。
 
-![](static/JISJbf3nlo1d5Kxv5wkcRzSNnab.jpg)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img20240727075657.png)
 
 ### 一个星球，生活幸福智慧路
 
@@ -187,6 +187,6 @@ timeline
 
 作者：林骥
 
-更新：2024-07-18
+更新：2024-07-27
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
