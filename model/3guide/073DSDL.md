@@ -82,7 +82,7 @@ Python 代码模拟了抛硬币的过程：
 
 是熟人作案。  运用大数定理，当一件大概率应该发生的事情没有发生时，其中肯定存在某种原因，你在经过分析和排查之后，也许就能揭示其中的真相。
 
-**最后的话**
+## **最后的话**
 
  数据的应用离不开统计学，而大数定理是统计学的基石，它保障了 [概率思维](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481757&idx=1&sn=7cb6463421d3dbfbffd54eeff6e7d3f0&scene=21#wechat_redirect) 和 [统计思维](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653482063&idx=1&sn=9551c83768d296d841640eebf652be45&scene=21#wechat_redirect) 的科学性和实用性，让我们能够更好地认识世界的规律，进而做出更加合理的决策。
 

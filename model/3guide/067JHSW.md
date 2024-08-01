@@ -70,7 +70,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2ju45w6zibTHmEQW7AjIKUGp8V4A0IjHjSh74yxaAiaSqTFYxcrFE9iafHLwtezLorticXian97pYiaQDw/640?wx_fmt=png) 
 
-**最后的话**
+## **最后的话**
 
  未来我们还会遇到什么挑战？在复杂多变的世界中，我们如何才能找到确定性？  运用进化思维，我的答案是：
 

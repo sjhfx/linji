@@ -6,7 +6,7 @@
 
 **A01**：首先，需要扫描下面的二维码，付费加入「数据化分析」星球，然后在手机上用知识星球 App 打开。
 
-![](static/FuxJblUtPoyK3DxoRPfcASKHnue.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/FuxJblUtPoyK3DxoRPfcASKHnue.png)
 
 在置顶区域打开文件，再点击右上角发送到「金山文档」App 中，打开之后就可以开始填写数据了。
 
@@ -26,7 +26,7 @@
 
 **A2**：用 Excel 打开新旧两个系统的文件，复制旧版系统中的数据，在新版系统相应的位置点击右键 → 选择性粘贴 → 数值，以免影响新版系统中的数据格式和公式计算。
 
-![](static/BxGwber0vomxN5xbGs7c1ITNnXa.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/BxGwber0vomxN5xbGs7c1ITNnXa.png)
 
 升级迁移数据时，注意只能复制粘贴浅蓝色底纹的部分，不要修改、复制和粘贴灰色的区域。
 
@@ -36,7 +36,7 @@
 
 在手机的金山文档中，点击右下角的键盘按钮，就可以修改具体时间。
 
-![](static/Xlv0bZcCHovSN4xdzdGcb1gRnMb.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/Xlv0bZcCHovSN4xdzdGcb1gRnMb.png)
 
 ## **Q04：价值分是怎么算出来的？**
 

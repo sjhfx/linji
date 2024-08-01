@@ -22,7 +22,7 @@
 
 就像小朋友们玩的「连点成线」游戏，按照画册中标注的数字，按照顺序画出线段，最终形成一个有意义的图形。
 
-![](../static/BMwQbvCgdocM6nxy3lFcQf0Rnif.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgBMwQbvCgdocM6nxy3lFcQf0Rnif.png)BMwQbvCgdocM6nxy3lFcQf0Rnif.png)
 
 你无法控制时间的流逝，但你可以控制自己的注意力，把时间和精力用在更有价值的事情上面，让这一天过得更有意义。
 
@@ -62,7 +62,7 @@
 
 借助工具，把事情分为「轻重缓急」，然后按照规律去依次处理。
 
-![](../static/PPcTbX3duoZW6sxCf5HcMYfBnPb.jpeg)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgBMwQbvCgdocM6nxy3lFcQf0Rnif.png)PPcTbX3duoZW6sxCf5HcMYfBnPb.jpeg)
 
 三种时间计量：小时、一天、年度；
 
@@ -110,7 +110,7 @@
 
 下面是每个象限对应的时间占比建议示意图：
 
-![](../static/V280bilJgoz6bCx6UIccUT2Bnsc.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgBMwQbvCgdocM6nxy3lFcQf0Rnif.png)V280bilJgoz6bCx6UIccUT2Bnsc.png)
 
 矩阵上方代表我们生命中非常重要的事情。比如对我来说，深度学习、用心写作和健身运动都是非常重要的事情，需要积极主动地予以更多的关注，投入更多的时间和精力。
 
@@ -184,7 +184,7 @@
 
 根据《时间贫困》作者的研究，一个人平均每天能有 2 到 5 小时的可自由支配时间，是最幸福的状态。
 
-![](../static/Av9dbISwboE92Jx64oocqpUcnKh.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgBMwQbvCgdocM6nxy3lFcQf0Rnif.png)Av9dbISwboE92Jx64oocqpUcnKh.png)
 
 可支配时间是指花在想做之事上的时间，包括放空、放松、运动、看电视、看电影或参加体育赛事等更积极的休闲活动，还包括和家人、朋友散步这样的纯社交活动，但不包括花在必要事务上的时间，例如接踵而至的工作、家务、看牙、就诊、跑腿等杂事，因为这些事都是非做不可的，为此消耗的时间也就算不上可支配时间。
 
@@ -210,7 +210,12 @@
 
 ## 时间人格
 
-在《时间人格》这本书中，作者以科学数据为基础，提出了 4×4 时间人格，前 4 种时间人格代表「**预期**」的类型：
+在《时间人格》这本书中，作者以科学数据为基础，提出了 4×4 时间人格，前 4 种代表「**预期**」的类型：
+
+① 预期强：能强烈感觉到自己与未来的形象有联系。
+② 预期弱：几乎感觉不到自己与未来的形象有联系。
+③ 预期多：预计将来可能发生的事件数量比较多。
+④ 预期少：预计将来可能发生的事件数量比较少。
 
 ### A 超载者
 
@@ -218,31 +223,31 @@
 
 预期强且多的人，就像一只勤劳不息的蚂蚁。
 
-![](static/1721198984800.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721198984800.png)
 
 ### B 自律者
 
-能认真制订计划并完成工作，但有时会感受不到快乐。
+能认真制订计划并完成工作，效率高，但有时会感受不到快乐。
 
 预期强且少的人，就像一匹自律严格的马儿。
 
-![](static/1721198490527.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721198490527.png)
 
 ### C 躺平者
 
-缺乏基本的工作动力，不知不觉中虚度光阴。
+缺乏基本的工作动力，做什么都没干劲，不知不觉中虚度光阴。
 
 预期弱且少的人，就像一只慵懒自在的树懒。
 
-![](static/1721198586623.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721198586623.png)
 
 ### D 享乐者
 
-只喜欢做轻松的工作，在重要的工作上没有进展。
+只喜欢做眼前轻松的工作，重要的任务进度容易停滞不前。
 
 预期弱且多的人，就像一只享乐主义的猫咪。
 
-![](static/1721199963606.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721199963606.png)
 
 后 4 种时间人格代表「**回忆**」的类型：
 
@@ -252,7 +257,7 @@
 
 回忆积极且正确的人，就像一只自信满满的小熊。
 
-![](static/1721198611030.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721198611030.png)
 
 ### F 恐惧者
 
@@ -260,7 +265,7 @@
 
 回忆消极且正确的人，就像一只胆小谨慎的兔子。
 
-![](static/1721199121508.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721199121508.png)
 
 ### G 悲观者
 
@@ -268,7 +273,7 @@
 
 回忆消极且错误的人，就像一只深思熟虑的猫头鹰。
 
-![](static/1721199014645.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721199014645.png)
 
 ### H 乐观者
 
@@ -276,11 +281,11 @@
 
 回忆积极且正确的人，就像一只乐观向上的狗狗。
 
-![](static/1721198533538.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721198533538.png)
 
 下面是 20 道时间[人格测试题](https://timetest.zhiyuanbooks.com)，请根据实际情况，选择最符合自己的选项。
 
-![](static/1721197019778.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721197019778.png)
 
 每题 1-5 分，1 代表完全不符合，5 代表完全符合。
 
@@ -306,8 +311,7 @@
 
 我常常低估完成任务所需的时间，时间日志让我能够及时回顾这些「确凿的证据」，避免对时间消耗的预估过于乐观。
 
-我的预期现实感比较强，日历对我没什么效果，所以我很少使用日历。
-
+无论什么方法，都有其适用的场合和范围。就算是手握一把倚天宝剑，也不适合用来做家常菜。了解自己的时间人格，选择合适的方法，才能起到事半功倍的效果。
 
 ## 最后的话
 
@@ -389,6 +393,6 @@ flowchart TD
 
 因为我借助「数据化分析系统」，驾驭好自己的时间、情绪、选择和习惯，所以学习和写作并没有打乱我的工作和生活，也没有减少睡眠和运动的时间，还有余闲兼顾看电影、练习乐器等兴趣爱好。
 
-更新：2024-07-28
+更新：2024-07-31
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

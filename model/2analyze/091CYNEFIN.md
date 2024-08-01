@@ -64,7 +64,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3heDMGulTc9pC6JT2PkWlHLW8xkmM50FjORKZ62qNMfaMcoKS55VGlS7MESUtLXiaDQDsJayPX25w/640?wx_fmt=png&from=appmsg) 
 
-**最后的话**
+## **最后的话**
 
  简单、繁杂、复杂、混乱和无序，属于 5 个不同的领域，各自存在不同的含义，对应的解决方案也各不相同。
 

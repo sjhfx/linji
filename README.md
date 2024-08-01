@@ -2,7 +2,7 @@
 
 你好，我是《数据化分析》的作者林骥。
 
-![](static/2024-07-14-09-53-44.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img2024-07-14-09-53-44.png)
 
 我对数据充满好奇，热衷于分析数据，喜欢发现数据背后的故事。另外，我比较喜欢学习和写作，非常享受学习的过程，也能沉浸在写作的心流之中。
 
@@ -10,19 +10,19 @@
 
 在朋友们的眼中，形容我最多的 3 个词是：**自律、专业、严谨**。
 
-![](static/VjxBbXyCJoff7MxPoB9chZERnVb.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgVjxBbXyCJoff7MxPoB9chZERnVb.png)
 
 ### 一本书，数据化解难题处
 
 总结我过去 15+ 年的数据分析经验，如果你想用数据化解难题，欢迎你查阅。
 
-![](static/GnnRbJrfeoMFVSxoNYGccNcVnZd.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgGnnRbJrfeoMFVSxoNYGccNcVnZd.png)
 
 ### 一个号，分析更加有效助
 
 记录我数据分析的学习心得和思考，如果你想让分析更加有效，欢迎你订阅微信公众号。
 
-![](static/E3KRbkHGfo9OvSxIgH7cOt74nnh.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgE3KRbkHGfo9OvSxIgH7cOt74nnh.png)
 
 [点击查阅 100 种分析思维模型系列文章](https://mp.weixin.qq.com/mp/appmsgalbum?\_\_biz=MzA4ODE2OTIxMw==\&action=getalbum\&album\_id=1701638273011351554#wechat\_redirect)
 
@@ -42,13 +42,13 @@
 
 案例可以带来有益的启发和思考，计划更新 100 个数据化分析案例。
 
-![](static/LRvybGVEYoGg6ux4l4RcRT0PnSe.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgLRvybGVEYoGg6ux4l4RcRT0PnSe.png)
 
 ### 一个[智能体](https://www.coze.cn/s/i6oWAwCV/)，用 AI 提升工作效率
 
 如果你想借助 AI 的力量，用数据化解难题，让分析更加有效，欢迎你扫码体验。
 
-![](static/1721270620776.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721270620776.png)
 
 ---
 
@@ -171,7 +171,7 @@ timeline
 
 我希望自己能够**坚持每天复盘总结，把每一次遇到的困难、挑战和痛苦，都当成提升自己的机会。**
 
-**最后的话**
+## **最后的话**
 
 最后，分享几点关于学习、复盘和成长的经验和感悟，希望能对你有所启发。
 

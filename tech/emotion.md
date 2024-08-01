@@ -18,7 +18,7 @@
 
 比如，我运用《大脑的情绪生活》中介绍的方法，从 6 个维度进行测试评分，并设定了未来情绪优化的目标：
 
-![](../static/TGxabjs3XoZZpjx2MHZcEM0Bnxf.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgTGxabjs3XoZZpjx2MHZcEM0Bnxf.png)
 
 通过情绪风格测试，我发现自己的情绪调整和社交直觉方面偏弱，后续计划重点加强对情绪的驾驭，维护好情感账户，体谅对方的难处，信守自己的诺言。
 
@@ -32,7 +32,7 @@
 
 事实上，适度的焦虑反而让人容易进入心流状态。《心流》的作者米哈里说过：人们总是在无聊和焦虑中徘徊。如果总是逃避焦虑，让自己陷入到无聊之中，那么反而对成长不利。
 
-![](../static/SnRvbaJDNo8OBAxk7ZhcRMLPnAg.jpeg)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgSnRvbaJDNo8OBAxk7ZhcRMLPnAg.jpeg)
 
 情绪是人类进化产生的一个本能，有时可以帮助我们趋利避害，所以不要害怕它们，也不要逃避它们。但是请注意，情绪不是你的主人，恰恰相反，你才是情绪的主人，我们可以挖掘和利用情绪的价值，而不是让情绪反过来控制我们。
 
@@ -64,7 +64,7 @@
 
 数据化分析系统参考了情绪能量模型，并对它进行换算，用来评估每天的情绪变化：
 
-![](../static/SIQEbuSuooGQKVx61UmcCNsrnTg.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgSIQEbuSuooGQKVx61UmcCNsrnTg.png)
 
 在评估情绪能量的时候，你要从更广泛的意义上来思考快乐的程度，也就是整体的积极性，包括感觉到精力充沛或幸福宁静。如果一件事情能给你带来成就感或信心，那么能量就相对比较高。
 
@@ -104,10 +104,10 @@
 
 超我：超越一般社会规范的我，就像一个指挥者，遵循道德和理想的原则。
 
-![](../static/R3UybO1spoJdWoxCvsncGss1nCh.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgR3UybO1spoJdWoxCvsncGss1nCh.png)
 
 情绪就像一匹野马，需要我们学会好好驾驭它，才能让它为我们创造更大的价值。
 
-更新：2024-07-18
+更新：2024-07-31
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

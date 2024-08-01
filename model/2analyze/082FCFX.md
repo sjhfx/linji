@@ -90,7 +90,7 @@ $A$1:$B$6，勾选【标志位于第一行】，再点击确定，Excel 将自�
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0ayEgt6xJ1Aibop6BzTItmr0StAPSMlCibvbaHkeica6LzyKRWiau5Mic4UeOwEERatEloYic9Cnte1z6Q/640?wx_fmt=png&from=appmsg) 其中 SS 代表平方和，df 代表自由度，MS 代表均方和，F 值是组间差异与组内差异的比值，P-value 用于确定显著性的概率，F crit 是指 F 临界值。  这些统计学概念看起来比较复杂，但我们其实不必深究其中的含义，只要知道如何解读分析的结果：  当 P-value < 0.05 或 F > F crit 时，代表有显著差异。  所以，从上面的结果可以看出，两种促销策略存在显著差异。  
 
-**最后的话**
+## **最后的话**
 
  2023 年 11 月 29 日，著名外交家亨利·基辛格去世，享年 100 岁。  基辛格说过： **「历史只有在回顾时才有意义，而且永远不会有最后定论」** 。
 

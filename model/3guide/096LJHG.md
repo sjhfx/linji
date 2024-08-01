@@ -54,7 +54,7 @@ Sigmoid 函数对应的图形如下：
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo0myhibKCs4iasbBXbrxqWy40FWAAicvtmfib1gbQABuvfVKAxXUR5HTQQSWX4flDzppeT4ic2IU3ujL4w/640?wx_fmt=png&from=appmsg) 
 
-**最后的话**
+## **最后的话**
 
  逻辑回归是一种简单而强大的模型，在实际应用中具有很强的可扩展性，可以帮助我们预测某一事件发生的概率，从而为决策提供依据。 **  
 

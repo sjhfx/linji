@@ -62,7 +62,7 @@ AlphaGo，打败了围棋世界冠军李世石，后来又击败了当时世界�
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo2iaQ0ic2evzZh7anlLRJtlZ3KFzUsH9exSykwColfgJHpyLGODLicqbxiakOvZsWJrhzZPYrWX4pb0oA/640?wx_fmt=png) 
 
-**最后的话**
+## **最后的话**
 
  未来，我们每个人都有可能会用到深度学习，就像今天的互联网技术一样普及，极大地解放人类的生产力，并显著提升人们的认知能力。
 

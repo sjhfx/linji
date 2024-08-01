@@ -78,7 +78,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3IFNiaGP48NciaicZnL5GcTfx3lYo6TAhmUd1QpzDF4iaUwTIGjQswBRu40f0gnFLJGVMABNJq5NXM5w/640?wx_fmt=png) 按照备注说明和行动提示，安排好时间去执行，专注做好当下的每一个步骤。  在写作的过程中，我  会借助 [GPT](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653481638&idx=1&sn=81156dc77680ea4c65ae734267072021&scene=21#wechat_redirect) 的力量，把文章主题和结构清单告诉它，让它帮我扩展文章的内容，并适当进行润色修改。  
 
-**最后的话**
+## **最后的话**
 
 在运用清单思维的过程中，我们要尽量保持清单的可行性，并且定期回顾、检查和更新清单，灵活应对变化，随时进行调整。
 

@@ -74,7 +74,7 @@ SMART 原则进行量化，  分类  遵循 MECE 法则
 
 10：分析工具** 熟练运用 Excel、SQL、Python 等数据新世界的工具，可以起到事半功倍的效果。  我曾经把数据分析的 7 种工具比喻为七种武器： [数据分析的 7 种武器](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653479114&idx=1&sn=e008086fbbea47e4aa96faece992c213&scene=21#wechat_redirect) 。  在数据分析的江湖中，如果没有称手的武器，那么英雄也可能无用武之地。  
 
-**最后的话**
+## **最后的话**
 
   
 

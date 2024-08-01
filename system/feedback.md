@@ -10,7 +10,7 @@
 
 “帮助用户不断成长，过上更加幸福的生活”，我非常点赞您的这个产品理念，也从自己使用数据赋能系统后的变化中，感到您的产品确实带来了这样的价值。
 
-![](static/XanIbCGlLoXup9xof7mc4eWYnZc.jpeg)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/XanIbCGlLoXup9xof7mc4eWYnZc.jpeg)
 
 **@ 江海阔**：今天用上了林老师提供的最新版的数据赋能表，很强大，我能感受到每一次赋能表的迭代更新都代表着林老师对数据赋能的新理解，林老师也是值得我学习的人！ 我首先要做的事就是完善自己的赋能系统。
 
@@ -42,13 +42,13 @@
 
 **@ 哈呢**：内容更多，画面感更强，更生动，更有感觉。特别喜欢。特别想好好利用这个表格，非常详细的记录时间事件想法。一次比一次更完美！
 
-![](static/PIVLbYisnoXW5QxJnJgcrNVZnpg.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/PIVLbYisnoXW5QxJnJgcrNVZnpg.png)
 
-![](static/NkgObXx8aoYQGPx3XdscRNaNnVc.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/NkgObXx8aoYQGPx3XdscRNaNnVc.png)
 
-![](static/ToZjbnZYZog1MRxYfRQcphJXnmc.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/ToZjbnZYZog1MRxYfRQcphJXnmc.png)
 
-![](static/Fi8Ob7LtAo1hx5xZSdmcM1w5nzg.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/Fi8Ob7LtAo1hx5xZSdmcM1w5nzg.png)
 
 **@ 时间的朋友**：
 
@@ -56,15 +56,15 @@
 
 **@ 行动派**：
 
-![](static/IXk3b9BVaoIZKOxaXVTcxCACnMd.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/IXk3b9BVaoIZKOxaXVTcxCACnMd.png)
 
 **@Asialee**：
 
-![](static/MEzubUfjiogvQ0xQ6Akcss0Bnnc.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/MEzubUfjiogvQ0xQ6Akcss0Bnnc.png)
 
 **@ 下知有：**
 
-![](static/EC2Zbxqucobuj9x6sYhcsn1Nnrh.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/EC2Zbxqucobuj9x6sYhcsn1Nnrh.png)
 
 说明：「数据化分析系统」原名「数据赋能系统」，后来我考虑到「赋能」这个词的意思过于宽泛，因此在新的版本中改名为「数据化分析系统」。
 

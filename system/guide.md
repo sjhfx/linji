@@ -8,15 +8,15 @@
 
 1. 为了保护知识产权，你需要在电脑上注册之后才能使用正常使用「数据化分析系统」，采取一机一码的机制。请你用 Microsoft **Excel** 打开文件，启用宏之后，点击「★ 系统」菜单中的「注册」：
 
-![](static/MYmQb3azqovNGZx2RVGcbZ0Dnye.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/MYmQb3azqovNGZx2RVGcbZ0Dnye.png)
 
 如果你还没有注册过，那么系统会弹出提示：
 
-![](static/CFZxbD2Vgo47dFxlNQrcY1x3njb.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/CFZxbD2Vgo47dFxlNQrcY1x3njb.png)
 
 1. 如您已购买授权，请截图发微信给我，等我回复注册码之后，输入或复制粘贴到系统注册界面的提示框中，并点击确认，即可完成注册，然后就可以开始用它记录数据。
 
-![](static/UZDsbLTstoUxgZxa02qcEzRvn6G.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/UZDsbLTstoUxgZxa02qcEzRvn6G.png)
 
 建议在一台常用的电脑上进行注册，保存文件之后，你可以在手机或其他电脑上使用金山文档打开，不需要重复注册即可使用，还能自动保持多端实时同步，非常方便快捷。
 
@@ -68,7 +68,7 @@
 
 你也可以在知识星球上向我提问：
 
-![](static/SARkbIkWGoKFaixdHBic8RznnWc.png)
+![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/SARkbIkWGoKFaixdHBic8RznnWc.png)
 
 更新：2024-07-27
 

@@ -60,7 +60,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo3UCgsKQibYu7KzibmdR5h3sxoeEnBlR8BO1WHEwOxBUtJlflna2X7Iba1R4vI16SAVNz3qyZFyDF2Q/640?wx_fmt=png&from=appmsg) 我在以前的文章中介绍过其中大部分内容，在此不再赘述。  
 
-**最后的话**
+## **最后的话**
 
  如果一个人的成功是靠运气，那么就无法把握自己的命运。
 
