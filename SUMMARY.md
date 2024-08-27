@@ -3,10 +3,10 @@
 * [☑️ 林骥简介](README.md)
 
 * [⏯️ **特刻 TECH**](tech/README.md)
-* [⏰ 时间 Time](tech/time.md)
-* [😊 情绪 Emotion](tech/emotion.md)
-* [🤔 选择 Choice](tech/choice.md)
-* [💙 习惯 Habit](tech/habit.md)
+* [⏰ 时间](tech/time.md)
+* [😊 情绪](tech/emotion.md)
+* [🤔 选择](tech/choice.md)
+* [💙 习惯](tech/habit.md)
 
 * [🌐 **模型 Model**](model/README.md)
 * [📅 理解现状](model/1recognize/README.md)
