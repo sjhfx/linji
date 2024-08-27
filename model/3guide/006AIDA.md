@@ -148,6 +148,4 @@
 
 我们应该根据实际情况，把更多的时间和精力，用来灵活地选择和应用多种分析思维模型，从而做出更加科学的决策。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -140,6 +140,4 @@ L. 团队讨论允许开放地表达不同意见和感受（5）
 
 **总之，学习和运用 GRPI 模型，有助于打造高绩效团队，这是迈向成功的重要因素。**
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

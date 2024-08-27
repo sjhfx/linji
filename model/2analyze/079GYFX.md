@@ -108,6 +108,4 @@ B 给 C 的贡献来看，A 应该拿 7 块钱，B 应该拿 1 块钱。  你看
 
 《张潇雨·商业经典案例课》  《李松蔚·心理学通识》
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

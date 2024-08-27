@@ -130,6 +130,4 @@ SpaceX、电动汽车特斯拉公司等，他的梦想是让人类能够移民�
 
 
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

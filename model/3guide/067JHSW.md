@@ -80,6 +80,4 @@
 
 延伸阅读：  《基因之河》（理查德·道金斯，2019）  《王立铭进化论讲义》（王立铭，2022）  《进化的力量 2》（刘润，2023）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

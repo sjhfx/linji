@@ -393,6 +393,4 @@ flowchart TD
 
 因为我借助「数据化分析系统」，驾驭好自己的时间、情绪、选择和习惯，所以学习和写作并没有打乱我的工作和生活，也没有减少睡眠和运动的时间，还有余闲兼顾看电影、练习乐器等兴趣爱好。
 
-更新：2024-07-31
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

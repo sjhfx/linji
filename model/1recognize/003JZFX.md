@@ -128,6 +128,4 @@ plt.show()
 
 合理地应用矩阵分析模型，能够帮助我们更好地抓住问题的关键，更深刻地理解关键指标之间的联系，提高我们分析思维能力，从而提出更有前瞻性的建议，帮助我们作出更加科学的决策。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

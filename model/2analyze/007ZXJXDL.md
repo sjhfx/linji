@@ -154,6 +154,4 @@
 
 掌握多种分析思维模型，能够提高我们推理、解释、设计、沟通、行动、预测和探索的能力，从而  实现对世界更加细致的理解。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

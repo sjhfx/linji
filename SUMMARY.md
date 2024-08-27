@@ -1,14 +1,16 @@
 # Table of contents
 
-* [🐎 林骥 linji](README.md)
+* [🐎 林骥简介](README.md)
 
 ## ⏯️ 特刻 TECH
+* [⏯️ 特刻介绍](tech/README.md)
 * [⏰ 时间 Time](tech/time.md)
 * [😊 情绪 Emotion](tech/emotion.md)
 * [🤔 选择 Choice](tech/choice.md)
 * [💙 习惯 Habit](tech/habit.md)
-* 
+
 ## Ⓜ️ 模型 Model
+* [Ⓜ️ 模型介绍](model/README.md)
 * [📅 理解现状](model/1recognize/README.md)
   * [福格行为模型](model/1recognize/001FGXW.md)
   * [杜邦分析模型](model/1recognize/002DBFX.md)
@@ -113,7 +115,8 @@
   * [逻辑回归](model/3guide/096LJHG.md)
   * [数学归纳法](model/3guide/099SXGNF.md)
 
-## 🔄 系统 system
+## 🔄 系统 System
+* [🔄 系统介绍](system/README.md)
 * [📖 上手指南](system/guide.md)
 * [❓ 常见问题](system/questions.md)
 * [📝 用户反馈](system/feedback.md)

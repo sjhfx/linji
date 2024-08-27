@@ -100,6 +100,4 @@
 
 假设检验并非绝对可靠，但是通过弄清楚最有可能的解释，我们可以更好地认识世界上的许多现象，从而得出更有价值的分析结论。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

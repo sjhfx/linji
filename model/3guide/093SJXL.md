@@ -68,6 +68,4 @@ statsmodels 等），对模型进行拟合。
 
 时间序列的应用是一个复杂的过程，涉及到数据质量、模型选择、参数调整等多个方面，上面只是简单的介绍。  关于时间序列的应用案例，可以参考「 **数据化分析案例库** 」。  延伸阅读：  《时间序列分析》（乔治·博克斯，1927年）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

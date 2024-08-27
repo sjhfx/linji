@@ -82,6 +82,4 @@
 
 延伸阅读：  《数据分析实战》（曾津，2023年）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

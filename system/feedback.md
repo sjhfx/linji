@@ -68,6 +68,4 @@
 
 说明：「数据化分析系统」原名「数据赋能系统」，后来我考虑到「赋能」这个词的意思过于宽泛，因此在新的版本中改名为「数据化分析系统」。
 
-更新：2024-07-27
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

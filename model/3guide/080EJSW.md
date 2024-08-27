@@ -100,6 +100,4 @@
 
 《思维模型》（[美]彼得·霍林斯，2020年）  《思考的框架》（[加]沙恩·帕里什，2023年）  《笔记的方法》（刘少楠等，2023年）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

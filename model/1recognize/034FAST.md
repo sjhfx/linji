@@ -69,6 +69,4 @@ FAST 是以下 4 个英文单词的缩写：
 
 灵活运用分析思维模型，关键在于深刻理解业务的背景，结合业务的实际情况，做出更加明智的决策。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

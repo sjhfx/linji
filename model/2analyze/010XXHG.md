@@ -192,6 +192,4 @@
 
 学习、思考、实践 100 种分析思维模型  ，积极应对未来的变化，  是我应对潜在风险的一种策略。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

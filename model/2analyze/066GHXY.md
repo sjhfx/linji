@@ -94,6 +94,4 @@
 
 延伸阅读：  《光环效应》（[美] 罗森维，2020）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

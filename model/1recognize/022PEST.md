@@ -74,6 +74,4 @@ PEST 分析思维模型，只是提供了一个分析的框架，并没有提供
 
 《每个人的商学院》
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

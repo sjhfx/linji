@@ -114,6 +114,4 @@
 
 当你洞察了时间的机制，通过持续深度学习，构建自己的核心竞争力，最终将会收获更加快速的成长。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

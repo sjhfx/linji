@@ -60,6 +60,4 @@ GPT，实现起来变得简单很多。  为了帮助更多人用数据化解难
 
 延伸阅读：  《现代决策树模型及其编程实践》（黄智濒，2022年）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

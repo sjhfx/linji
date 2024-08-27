@@ -132,6 +132,4 @@
 
 和深入思考，分析数据背后有效的信息，为下一步的行动提供决策的依据，激发自己内心的潜能，进而实现自我成长的蜕变。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

@@ -114,6 +114,4 @@ PDCA 循环模型最初是用来做质量管理，如今已经被广泛应用于
 
 我们其实  每天都在经历一个又一个的  PDCA 循环， 大循环套着小循环，小循环保障和推动着大循环，彼此协同，不断提高，逐渐向目标迈进。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

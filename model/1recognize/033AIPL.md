@@ -121,6 +121,4 @@ AIPL 模型本身并不复杂，但是，在实践应用过程中，关键是在
 
 总之，结合数据分析的思维和方法，利用模型的力量，做到有的放矢，才能更好地实现用户增长。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

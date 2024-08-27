@@ -51,6 +51,4 @@
 
 就像查理·芒格的多元思维模型，其实是糅合了来自多个学科的分析工具、方法和公式。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

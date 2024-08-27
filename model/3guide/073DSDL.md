@@ -96,6 +96,4 @@ Python 代码模拟了抛硬币的过程：
 
 《刘嘉概率论通识讲义》（刘嘉，2021年）  《30 天认知训练营》（王烁，2020年）
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

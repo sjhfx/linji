@@ -62,6 +62,4 @@
 
 分析思维模型为探索世界提供助力，而经验和知识就像催化剂，帮助我们加速理解事物的本质。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

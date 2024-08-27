@@ -82,6 +82,4 @@ PREP 模型的应用范围非常广泛，特别适用于很多工作场合，包
 
 《靠谱》（［日］大石哲之，2017） 
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

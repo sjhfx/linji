@@ -86,6 +86,4 @@ A / B 测试在互联网、医疗、金融等领域都有着广泛的应用，  
 
 在用数据化解难题的过程中，一种分析思维模型的应用，可以增进自己对另一种模型的理解，这是我学习总结 100 种分析思维模型的额外收获。
 
-更新：2024-07-18
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)

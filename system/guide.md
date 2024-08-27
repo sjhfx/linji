@@ -78,6 +78,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/SARkbIkWGoKFaixdHBic8RznnWc.png)
 
-更新：2024-08-01
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
