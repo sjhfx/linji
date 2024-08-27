@@ -1,12 +1,16 @@
 # Table of contents
 
 * [🐎 林骥 linji](README.md)
-* [⏯️ 特刻 tech](tech/README.md)
-  * [⏰ 时间 time](tech/time.md)
-  * [😊 情绪 emotion](tech/emotion.md)
-  * [🤔 选择 choice](tech/choice.md)
-  * [💙 习惯 habit](tech/habit.md)
-* [Ⓜ️ 模型 model](model/README.md)
+
+## ⏯️ 特刻 TECH
+* [⏯️ 特刻 TECH](tech/README.md)
+* [⏰ 时间 Time](tech/time.md)
+* [😊 情绪 Emotion](tech/emotion.md)
+* [🤔 选择 Choice](tech/choice.md)
+* [💙 习惯 Habit](tech/habit.md)
+* 
+## Ⓜ️ 模型 Model
+* [Ⓜ️ 模型 Model](model/README.md)
   * [📅 理解现状](model/1recognize/README.md)
     * [福格行为模型](model/1recognize/001FGXW.md)
     * [杜邦分析模型](model/1recognize/002DBFX.md)
@@ -116,5 +120,6 @@
   * [📝 用户反馈](system/feedback.md)
   * [🔄 更新记录](system/logs.md)
 * [📚 参考资料](refer.md)
-* [Copyright © 版权所有]()
-* [沪ICP备2024089094号-1](https://beian.miit.gov.cn/)
+
+## Copyright © 版权所有
+* [沪ICP备2024089094号](https://beian.miit.gov.cn/)
