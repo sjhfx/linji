@@ -1,5 +1,4 @@
-
-# 更新记录
+# 🔁 更新记录
 
 ### V7.0（2024.02.16）_New_
 
@@ -95,4 +94,4 @@
 
 新增：对事件进行分类和数据分析。
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)

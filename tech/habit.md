@@ -1,4 +1,4 @@
-# 习惯
+# 🌴 习惯
 
 **关键词：动机、能力、提示**
 
@@ -104,4 +104,4 @@
 
 希望通过持续复盘，你能保持心中的「少年感」，也就是保持自己人生未完成的状态，**对目标有执着，对未来有好奇，对自己有期待**。哪怕人到中年，也不「油腻」。就算将来老了，也能继续保持探索和思考的习惯。
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)

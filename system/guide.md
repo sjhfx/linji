@@ -1,4 +1,4 @@
-# 上手指南
+# 🧭 上手指南
 
 ### 一、简单 3 步，快速上手
 
@@ -26,7 +26,7 @@
 
 注册成功之后，你就可以打开「数据化分析系统」，并对其进行简单的设置。
 
-你可以自定义大项和小项的分类名称，在小项分类名称的最后，用 ①~④ 代表四个象限：
+你可以自定义大项和小项的分类名称，在小项分类名称的最后，用 ①\~④ 代表四个象限：
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img20240801142223.png)
 
@@ -78,4 +78,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/SARkbIkWGoKFaixdHBic8RznnWc.png)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)

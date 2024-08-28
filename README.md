@@ -1,4 +1,24 @@
-# 林骥简介
+---
+cover: >-
+  https://images.unsplash.com/photo-1722033838779-0e9b07eadce5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4MTAxMjh8&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# ☑️ 林骥简介
 
 你好，我是林骥，从事数据分析工作 16 年，著有《数据化分析》，致力于用数据化解难题，让分析更加有效。
 
@@ -28,7 +48,7 @@
 
 ### 一个系统，系统思维绘蓝图
 
-用「[数据化分析系统](system/README.md)」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro），转账 199 元获得授权。
+用「[数据化分析系统](system/)」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro），转账 199 元获得授权。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img20240727075657.png)
 
@@ -50,7 +70,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721270620776.png)
 
----
+***
 
 如果你对我的个人经历感兴趣，可以继续看下面的简介。
 
@@ -187,4 +207,4 @@ timeline
 
 作者：林骥
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)

@@ -1,4 +1,24 @@
-# 模型介绍
+---
+cover: >-
+  https://images.unsplash.com/photo-1620831098523-667318d8630a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHwlRTclOUMlQkMlRTclOUQlOUJ8ZW58MHx8fHwxNzI0ODExMjUzfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Ⓜ️ 模型 Model
 
 在《穷查理宝典》这本书中，提到查理·芒格应用大约 100 种多元思维模型，他孜孜不倦地对投资问题进行充分的准备、广泛的研究和科学的探讨，借用并完美地糅合了许多来自各个传统学科的分析工具、方法和公式，这些学科包括历史学、心理学、生理学、数学、工程学、生物学、物理学、化学、统计学、经济学等。
 
@@ -12,7 +32,7 @@
 
 我曾经看过一本书叫《游戏改变世界》，写过一篇读书笔记：
 
-[游戏化如何让现实变得更美好？](https://mp.weixin.qq.com/s?__biz=MzA4ODE2OTIxMw==&mid=2653474489&idx=1&sn=b9d8add2e2740890f940b18e04427bb9&scene=21#wechat_redirect "游戏化如何让现实变得更美好？") 
+[游戏化如何让现实变得更美好？](https://mp.weixin.qq.com/s?\_\_biz=MzA4ODE2OTIxMw==\&mid=2653474489\&idx=1\&sn=b9d8add2e2740890f940b18e04427bb9\&scene=21#wechat\_redirect)
 
 其中有这么一句话：
 
@@ -52,4 +72,4 @@
 
 我把 **100** 种分析思维模型当成自己升级的武器，用来解决现实世界中的难题，在难题出现的地方，努力做到极致，做出价值和意义。
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)

@@ -1,4 +1,4 @@
-# 时间
+# ⏰ 时间
 
 **关键词：价值、重要、紧急**
 
@@ -63,7 +63,6 @@
 借助工具，把事情分为「轻重缓急」，然后按照规律去依次处理。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgBMwQbvCgdocM6nxy3lFcQf0Rnif.png)
-
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgPPcTbX3duoZW6sxCf5HcMYfBnPb.jpeg)
 
@@ -305,7 +304,7 @@
 
 日历比较适合预期现实感比较弱的人，待办清单比较适合预期过多和回忆消极的人，时间日志比较适合回忆偏差大或回忆积极的人。
 
-我曾经是个预期强且多的「超载者」、回忆消极且错误的「悲观者」，后来借助「[数据化分析系统](../system/README.md)」，通过「断舍离」，变成了预期强且少的「自律者」、回忆积极且错误的「乐观者」。
+我曾经是个预期强且多的「超载者」、回忆消极且错误的「悲观者」，后来借助「[数据化分析系统](../system/)」，通过「断舍离」，变成了预期强且少的「自律者」、回忆积极且错误的「乐观者」。
 
 待办清单让我能够减轻大脑的负担，专注做好当下的工作。
 
@@ -393,4 +392,4 @@ flowchart TD
 
 因为我借助「数据化分析系统」，驾驭好自己的时间、情绪、选择和习惯，所以学习和写作并没有打乱我的工作和生活，也没有减少睡眠和运动的时间，还有余闲兼顾看电影、练习乐器等兴趣爱好。
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sjhfx.linji&left_text=PageViews&right_color=%2300589F)
+![](https://visitor-badge.laobi.icu/badge?page\_id=sjhfx.linji\&left\_text=PageViews\&right\_color=%2300589F)
