@@ -172,7 +172,9 @@ C 型特质的人像猫头鹰，谨慎低调，做事追求精确，善于数据
 
 这是一个「仁者见仁、智者见智」的问题，并没有标准的正确答案，因为人性是复杂多变的，每个人看待事物的角度也不一样，你完全可以根据自己的理解，得出自己心中的答案。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF8ibHNnT3LY5vUTOqYGb4n48nAG3g6wd3rtDTL75hYoraIic9xOyv7wQA/640?wx_fmt=png) 运用 DISC 模型进行测试，不是用来给人「算命」，也不是一次测试定终身，而是用来觉察和改善我们生活的状态，让我们未来的生活变得更加幸福。
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF8ibHNnT3LY5vUTOqYGb4n48nAG3g6wd3rtDTL75hYoraIic9xOyv7wQA/640?wx_fmt=png) 
+
+运用 DISC 模型进行测试，不是用来给人「算命」，也不是一次测试定终身，而是用来觉察和改善我们生活的状态，让我们未来的生活变得更加幸福。
 
 在不同的场景中，我们还要具体问题具体分析，因为现实中你遇到的人，也许是刻意伪装的，也许是正在调整的，也许是复合型的 ……
 
@@ -180,9 +182,13 @@ C 型特质的人像猫头鹰，谨慎低调，做事追求精确，善于数据
 
 对自己，更多关注性格的可塑性，扩大自己的掌控范围。对别人，更多关注性格的稳定性，用合适的方式去沟通。下面是我的一个 DISC 测试结果：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFSd4L9cbdGJQrM0bZpNyibicbGhYd54FToOiaiciavYqlsajADgdjRbZDwAQ/640?wx_fmt=png) 为了更好地展现 DISC 的行为模式，下图用一个蓝色的星星在象限图中表示出来：
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMFSd4L9cbdGJQrM0bZpNyibicbGhYd54FToOiaiciavYqlsajADgdjRbZDwAQ/640?wx_fmt=png) 
 
-![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF5OrIDUn9icLol36RCZSc0TRySnkgxaB1LMYia7ehoBeEB7HJT9Jr3BHQ/640?wx_fmt=png) 从图中可以比较直观地看出，我的行为模式倾向于 CS 型，属于比较典型的 **思考者**，通常是以任务为导向，反应速度比较慢。
+为了更好地展现 DISC 的行为模式，下图用一个蓝色的星星在象限图中表示出来：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1Dqmiap99iaSSibZxeFvjTIMF5OrIDUn9icLol36RCZSc0TRySnkgxaB1LMYia7ehoBeEB7HJT9Jr3BHQ/640?wx_fmt=png) 
+
+从图中可以比较直观地看出，我的行为模式倾向于 CS 型，属于比较典型的 **思考者**，通常是以任务为导向，反应速度比较慢。
 
 为了提升自己的领导力和影响力，我一方面在努力发挥自己的优势，另一方面也在努力提高自己的反应速度，向复合型靠拢。
 
