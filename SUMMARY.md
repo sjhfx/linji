@@ -110,7 +110,7 @@
   * [时间序列](model/3guide/093SJXL.md)
   * [逻辑回归](model/3guide/096LJHG.md)
   * [数学归纳法](model/3guide/099SXGNF.md)
-* [🌎 系统 System](system/README.md)
+* [🌎 数据化分析系统](system/README.md)
 * [🧭 上手指南](system/guide.md)
 * [❓ 常见问题](system/questions.md)
 * [👥 用户反馈](system/feedback.md)
