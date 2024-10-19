@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ⏯️ 特刻 TECH
 
 特刻是“特殊时刻”的简称，也是 tech 这个英文简写的音译名，因为首字母分别代表：时间 **t**ime、情绪 **e**motion、选择 **c**hoice、习惯 **h**abit。

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ⓜ️ 模型 Model
 
 在《穷查理宝典》这本书中，提到查理·芒格应用大约 100 种多元思维模型，他孜孜不倦地对投资问题进行充分的准备、广泛的研究和科学的探讨，借用并完美地糅合了许多来自各个传统学科的分析工具、方法和公式，这些学科包括历史学、心理学、生理学、数学、工程学、生物学、物理学、化学、统计学、经济学等。

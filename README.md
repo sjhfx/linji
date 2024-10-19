@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ☑️ 林骥简介
 
 你好，我是林骥，从事数据分析工作 16 年，著有《数据化分析》，致力于用数据化解难题，让分析更加有效。
