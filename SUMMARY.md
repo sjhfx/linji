@@ -33,7 +33,7 @@
   * [DDPP模型](model/1recognize/032DDPP.md)
   * [AIPL模型](model/1recognize/033AIPL.md)
   * [FAST模型](model/1recognize/034FAST.md)
-  * [CORE模型](1recognize/core-mo-xing.md)
+  * [CORE模型](model/1recognize/035CORE.md)
   * [6W3H模型](model/1recognize/0366W3H.md)
   * [AARRR模型](model/1recognize/037AARRR.md)
   * [复利思维](model/1recognize/046FLSW.md)
