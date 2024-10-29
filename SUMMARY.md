@@ -1,7 +1,6 @@
 # Table of contents
 
 * [☑️ 林骥简介](README.md)
-* [🔵 学习周刊](https://github.com/sjhfx/linji/tree/master/weekly)
 * [⏯️ 特刻 TECH](tech/README.md)
   * [⏰ 时间](tech/time.md)
   * [😄 情绪](tech/emotion.md)
