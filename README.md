@@ -1,8 +1,6 @@
 # ☑️ 林骥简介
 
-你好，我是林骥，从事数据分析工作 16 年，著有《数据化分析》，致力于用数据化解难题，让分析更加有效。
-
-![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img2024-07-14-09-53-44.png)
+你好，我是林骥，著有《数据化分析》，致力于用数据化解难题，让分析更加有效。
 
 我对数据充满好奇，热衷于分析数据，喜欢发现数据背后的故事。另外，我比较喜欢学习和写作，非常享受学习的过程，也能沉浸在写作的心流之中。
 
@@ -14,41 +12,36 @@
 
 ### 一本书，数据化解难题处
 
-总结我过去 15+ 年的数据分析经验，如果你想用数据化解难题，欢迎你查阅。
+总结我过去 15 年的数据分析经验，如果你想用数据化解难题，欢迎你查阅。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgGnnRbJrfeoMFVSxoNYGccNcVnZd.png)
 
 ### 一个号，分析更加有效助
 
-记录我数据分析的学习心得和思考，如果你想让分析更加有效，欢迎你订阅微信公众号。
+记录我析的学习心得和思考，如果你想让分析更加有效，欢迎你订阅微信公众号。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgE3KRbkHGfo9OvSxIgH7cOt74nnh.png)
 
 [点击查阅 100 种分析思维模型系列文章](https://mp.weixin.qq.com/mp/appmsgalbum?\_\_biz=MzA4ODE2OTIxMw==\&action=getalbum\&album\_id=1701638273011351554#wechat\_redirect)
 
-### 一个系统，系统思维绘蓝图
+### 一系统，系统思维绘蓝图
 
-用「[数据化分析系统](system/)」促进个人成长，如果你想记录自己的特殊时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro），转账 199 元获得授权。
+用「[数据化分析系统](system/)」促进个人成长，如果你想记录自己的特别时刻，驾驭时间、情绪、选择与习惯，你可以加我微信（linjipro）获取授权。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img20240727075657.png)
 
-### 一个星球，生活幸福智慧路
+### 一堂课，生活幸福智慧路
 
-通过持续复盘，让自己过上更加幸福的生活。
+运用数据分析思维，让自己过上更加幸福的生活，如果你想提升自己的认知水平，用数据分析思维洞察问题的本质，成为一个有智慧的人，欢迎你学习。
 
-另外，星球中包括一门视频课程《数据分析思维》，如果你想提升自己的认知水平，学会用数据分析思维洞察问题的本质，可以加入知识星球进行学习。
+![[Pasted image 20260603093005.png]]
 
-### 一个专栏，[数据化分析案例库](https://xiaobot.net/p/sjhfxalk)
+### 一专栏，[数据化分析案例库](https://xiaobot.net/p/sjhfxalk)
 
-案例可以带来有益的启发和思考，计划更新 100 个数据化分析案例。
+案例可以带来有益的启发和思考，包括 100 个数据化分析案例。
 
 ![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/imgLRvybGVEYoGg6ux4l4RcRT0PnSe.png)
 
-### 一个[智能体](https://www.coze.cn/s/i6oWAwCV/)，用 AI 提升工作效率
-
-如果你想借助 AI 的力量，用数据化解难题，让分析更加有效，欢迎你扫码体验。
-
-![](https://cdn.jsdelivr.net/gh/sjhfx/pic@main/img1721270620776.png)
 
 ***
 
